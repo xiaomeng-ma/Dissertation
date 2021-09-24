@@ -5,7 +5,7 @@ Do Neural Networks dream of electric sheep or *sheeps
 ## Experiment 1: 9/15/2021 - 
 Replication of Wu et al 2021 "Applying the Transformer to Character-level Transduction"
 
-Data: 2017 SIGMORPHON shared task 1 english-train-high; english-uncovered-test
+Data: 2017 SIGMORPHON shared task 1 english-train-high; english-uncovered-test; english-dev
 
 ### Experiment 1.0 Morphological Inflection on all inflections with tags
 Task: eat + V;3GS - eats
