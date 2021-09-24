@@ -8,7 +8,12 @@ Replication of Wu et al 2021 "Applying the Transformer to Character-level Transd
 Data: 2017 SIGMORPHON shared task 1 english-dev; english-train-high; english-uncovered-test
 
 Model Details:
-character level transformation
+character level tokenization
+
+...
+
+Results: Experiment 1/Output_csv
+
 ## Experiment 1.5
 Transfer learning: classification and morphological inflection
 classification task: eats -- 3GS,  ran --- PST
