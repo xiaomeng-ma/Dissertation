@@ -18,9 +18,11 @@ Task 1. Classification
 ## Experiment 2.5
 Transfer learning: classfication and morphological inflection
 
+---------------------------------------
 
-# Hypothesis 1 Regular/Irregular Ratio
+## Hypothesis 1 Regular/Irregular Ratio
 1.1 Regular/Irregular Type ratio affects learning
+
 1.2 Regular/Irregular Token ratio affects learning
 
-# Hypothesis 2 Transfer learning
+## Hypothesis 2 Transfer learning
