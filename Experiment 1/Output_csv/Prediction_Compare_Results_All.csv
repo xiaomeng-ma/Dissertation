@@ -1,1001 +1,1001 @@
-,Index,root,inflection,tag,reg,tag_cat,input_tag,pred,Acc,Each_pred,Each_Acc,Compare
-0,0,enwind,enwound,V;PST,Irregular,2,enwind2,enwuun,0,enwuun,0,Same
-1,1,conscript,conscripted,V;PST,Regular,2,conscript2,conscripted,1,conscripted,1,Same
-2,2,behallow,behallow,V;NFIN,Regular,1,behallow1,behallow,1,behallow,1,Same
-3,3,inbend,inbent,V;V.PTCP;PST,Irregular,4,inbend4,inbend,0,inbende ededddddeedd,0,Not Same
-4,4,inchant,inchanting,V;V.PTCP;PRS,Regular,3,inchant3,inchanting,1,inchanting,1,Same
-5,5,topicalise,topicalised,V;V.PTCP;PST,Irregular,4,topicalise4,topicalised,1,topicalised,1,Same
-6,6,foretoken,foretokens,V;3;SG;PRS,Regular,0,foretoken0,foretokens,1,foretokens,1,Same
-7,7,handknit,handknitted,V;V.PTCP;PST,Irregular,4,handknit4,handknite,0,handknitted,1,Not Same
-8,8,unwork,unwork,V;NFIN,Regular,1,unwork1,unwork,1,unwork,1,Same
-9,9,unpolish,unpolished,V;V.PTCP;PST,Regular,4,unpolish4,unpolished,1,unpolished,1,Same
-10,10,Anglify,Anglifying,V;V.PTCP;PRS,Regular,3,Anglify3,anglifying,0,anglifying,0,Same
-11,11,forespread,forespreading,V;V.PTCP;PRS,Regular,3,forespread3,forespreading,1,forespreading,1,Same
-12,12,philibuster,philibustering,V;V.PTCP;PRS,Regular,3,philibuster3,philibustering,1,philibustering,1,Same
-13,13,internationalise,internationalised,V;V.PTCP;PST,Irregular,4,internationalise4,internationalised,1,internationalised,1,Same
-14,14,hypertextualize,hypertextualizes,V;3;SG;PRS,Regular,0,hypertextualize0,hypertextualizes,1,hypertextualizes,1,Same
-15,15,intervent,intervent,V;NFIN,Regular,1,intervent1,intervent,1,intervent,1,Same
-16,16,stereotype,stereotyped,V;PST,Irregular,2,stereotype2,stereotyped,1,stereotyped,1,Same
-17,17,endorse,endorse,V;NFIN,Regular,1,endorse1,endorse,1,endorse,1,Same
-18,18,overgorge,overgorges,V;3;SG;PRS,Regular,0,overgorge0,overgorges,1,overgorges,1,Same
-19,19,countervail,countervailed,V;PST,Regular,2,countervail2,countervailed,1,countervailed,1,Same
-20,20,ovalize,ovalized,V;V.PTCP;PST,Irregular,4,ovalize4,ovalized,1,ovalized,1,Same
-21,21,overdrive,overdrive,V;NFIN,Regular,1,overdrive1,overdrive,1,overdrive,1,Same
-22,22,becue,becued,V;PST,Irregular,2,becue2,becued,1,becued,1,Same
-23,23,slog-sweep,slog-swept,V;V.PTCP;PST,Irregular,4,slog-sweep4,slog-sweee,0,slog-sweep,0,Not Same
-24,24,jolt,jolting,V;V.PTCP;PRS,Regular,3,jolt3,jolting,1,jolting,1,Same
-25,25,adhibit,adhibited,V;V.PTCP;PST,Regular,4,adhibit4,adhibited,1,adhibittd,0,Not Same
-26,26,healthify,healthifying,V;V.PTCP;PRS,Regular,3,healthify3,healthifying,1,healthifying,1,Same
-27,27,caffeinate,caffeinating,V;V.PTCP;PRS,Irregular,3,caffeinate3,caffeinating,1,caffeinating,1,Same
-28,28,disfeature,disfeatured,V;PST,Irregular,2,disfeature2,disfeatured,1,disfeatured,1,Same
-29,29,remerge,remerged,V;V.PTCP;PST,Irregular,4,remerge4,remerged,1,remerged,1,Same
-30,30,inescate,inescated,V;V.PTCP;PST,Irregular,4,inescate4,inescated,1,inescated,1,Same
-31,31,dativize,dativizes,V;3;SG;PRS,Regular,0,dativize0,dativizes,1,dativizes,1,Same
-32,32,bar,barred,V;V.PTCP;PST,Irregular,4,bar4,bareed,0,barred,1,Not Same
-33,33,reclone,reclones,V;3;SG;PRS,Regular,0,reclone0,reclones,1,reclones,1,Same
-34,34,respray,resprayed,V;PST,Regular,2,respray2,respraied,0,respraied,0,Same
-35,35,clart,clart,V;NFIN,Regular,1,clart1,clart,1,clart,1,Same
-36,36,disentomb,disentombed,V;V.PTCP;PST,Regular,4,disentomb4,disentombed,1,disentombed,1,Same
-37,37,Englishify,Englishified,V;V.PTCP;PST,Irregular,4,Englishify4,englishified,0,englishified,0,Same
-38,38,jab,jabbed,V;V.PTCP;PST,Irregular,4,jab4,jabbed,1,jabbed,1,Same
-39,39,pandy,pandies,V;3;SG;PRS,Irregular,0,pandy0,pandies,1,pandies,1,Same
-40,40,shriek,shrieks,V;3;SG;PRS,Regular,0,shriek0,shrieks,1,shrieks,1,Same
-41,41,rerank,rerank,V;NFIN,Regular,1,rerank1,rerank,1,rerank,1,Same
-42,42,denuclearize,denuclearizing,V;V.PTCP;PRS,Irregular,3,denuclearize3,denuclearizing,1,denuclearizing,1,Same
-43,43,reposit,reposit,V;NFIN,Regular,1,reposit1,reposit,1,reposit,1,Same
-44,44,perturbate,perturbate,V;NFIN,Regular,1,perturbate1,perturbate,1,perturbate,1,Same
-45,45,languish,languished,V;V.PTCP;PST,Regular,4,languish4,languished,1,languished,1,Same
-46,46,suburbanize,suburbanizing,V;V.PTCP;PRS,Irregular,3,suburbanize3,suburbanizing,1,suburbanizing,1,Same
-47,47,void,voided,V;V.PTCP;PST,Regular,4,void4,voided,1,voiddd,0,Not Same
-48,48,stage,staged,V;PST,Irregular,2,stage2,staged,1,staged,1,Same
-49,49,failcascade,failcascades,V;3;SG;PRS,Regular,0,failcascade0,failcascades,1,failcascades,1,Same
-50,50,requisition,requisitions,V;3;SG;PRS,Regular,0,requisition0,requisitions,1,requisitions,1,Same
-51,51,punch,punching,V;V.PTCP;PRS,Regular,3,punch3,punching,1,punching,1,Same
-52,52,blueberry,blueberries,V;3;SG;PRS,Irregular,0,blueberry0,blueberries,1,blueberries,1,Same
-53,53,recertificate,recertificated,V;V.PTCP;PST,Irregular,4,recertificate4,recertificated,1,recertificated,1,Same
-54,54,repro,repros,V;3;SG;PRS,Regular,0,repro0,repros,1,repros,1,Same
-55,55,picturize,picturizes,V;3;SG;PRS,Regular,0,picturize0,picturizes,1,picturizes,1,Same
-56,56,detonize,detonize,V;NFIN,Regular,1,detonize1,detonize,1,detonize,1,Same
-57,57,punk,punked,V;PST,Regular,2,punk2,punked,1,punked,1,Same
-58,58,outlead,outled,V;V.PTCP;PST,Irregular,4,outlead4,outlea,0,outled,1,Not Same
-59,59,repromise,repromised,V;V.PTCP;PST,Irregular,4,repromise4,repromised,1,repromised,1,Same
-60,60,disrobe,disrobed,V;V.PTCP;PST,Irregular,4,disrobe4,disrobed,1,disrobed,1,Same
-61,61,harlot,harlots,V;3;SG;PRS,Regular,0,harlot0,harlots,1,harlots,1,Same
-62,62,tempt,tempted,V;PST,Regular,2,tempt2,tempted,1,tempted,1,Same
-63,63,forspeak,forspeak,V;NFIN,Regular,1,forspeak1,forspeak,1,forspeak,1,Same
-64,64,refugee,refugee,V;NFIN,Regular,1,refugee1,refugee,1,refugee,1,Same
-65,65,cytolyze,cytolyzing,V;V.PTCP;PRS,Irregular,3,cytolyze3,cytolyzing,1,cytolyzing,1,Same
-66,66,neutralise,neutralised,V;V.PTCP;PST,Irregular,4,neutralise4,neutralised,1,neutralised,1,Same
-67,67,retail,retailing,V;V.PTCP;PRS,Regular,3,retail3,retailing,1,retailing,1,Same
-68,68,self-deport,self-deported,V;PST,Regular,2,self-deport2,self-deported,1,self-deported,1,Same
-69,69,gall,galled,V;PST,Regular,2,gall2,galled,1,galled,1,Same
-70,70,snog,snogs,V;3;SG;PRS,Regular,0,snog0,snogs,1,snogs,1,Same
-71,71,recrown,recrown,V;NFIN,Regular,1,recrown1,recrown,1,recrown,1,Same
-72,72,permanent,permanented,V;V.PTCP;PST,Regular,4,permanent4,permanented,1,permanented,1,Same
-73,73,recentre,recentred,V;V.PTCP;PST,Irregular,4,recentre4,recentred,1,recentred,1,Same
-74,74,matriculate,matriculated,V;PST,Irregular,2,matriculate2,matriculated,1,matriculated,1,Same
-75,75,outspeed,outspeeding,V;V.PTCP;PRS,Regular,3,outspeed3,outspeeding,1,outspeeding,1,Same
-76,76,re-use,re-used,V;V.PTCP;PST,Irregular,4,re-use4,re-used,1,re-used,1,Same
-77,77,receave,receaving,V;V.PTCP;PRS,Irregular,3,receave3,receaving,1,receaving,1,Same
-78,78,pepper-spray,pepper-spray,V;NFIN,Regular,1,pepper-spray1,pepper-spray,1,pepper-spray,1,Same
-79,79,februate,februated,V;V.PTCP;PST,Irregular,4,februate4,februated,1,februated,1,Same
-80,80,retroflect,retroflects,V;3;SG;PRS,Regular,0,retroflect0,retroflects,1,retroflects,1,Same
-81,81,recense,recensed,V;V.PTCP;PST,Irregular,4,recense4,recensed,1,recensed,1,Same
-82,82,tidy,tidying,V;V.PTCP;PRS,Regular,3,tidy3,tidying,1,tidying,1,Same
-83,83,slump,slumping,V;V.PTCP;PRS,Regular,3,slump3,slumping,1,slumping,1,Same
-84,84,Gothicize,Gothicizing,V;V.PTCP;PRS,Irregular,3,Gothicize3,gothicizing,0,gothicizing,0,Same
-85,85,wallpaper,wallpapering,V;V.PTCP;PRS,Regular,3,wallpaper3,wallpapering,1,wallpapering,1,Same
-86,86,misdefend,misdefend,V;NFIN,Regular,1,misdefend1,misdefend,1,misdefend,1,Same
-87,87,lavish,lavishes,V;3;SG;PRS,Irregular,0,lavish0,lavishes,1,lavishes,1,Same
-88,88,de-humanise,de-humanised,V;V.PTCP;PST,Irregular,4,de-humanise4,de-humanised,1,de-humanised,1,Same
-89,89,condensate,condensating,V;V.PTCP;PRS,Irregular,3,condensate3,condensating,1,condensating,1,Same
-90,90,grout,grouting,V;V.PTCP;PRS,Regular,3,grout3,grouting,1,grouting,1,Same
-91,91,rattle,rattling,V;V.PTCP;PRS,Irregular,3,rattle3,rattling,1,rattling,1,Same
-92,92,shmooze,shmoozed,V;PST,Irregular,2,shmooze2,shmoozed,1,shmoozed,1,Same
-93,93,overtan,overtans,V;3;SG;PRS,Regular,0,overtan0,overtans,1,overtans,1,Same
-94,94,pool,pools,V;3;SG;PRS,Regular,0,pool0,pools,1,pools,1,Same
-95,95,empurple,empurpling,V;V.PTCP;PRS,Irregular,3,empurple3,empurpling,1,empurpling,1,Same
-96,96,chromize,chromizing,V;V.PTCP;PRS,Irregular,3,chromize3,chromizing,1,chromizing,1,Same
-97,97,moodle,moodled,V;V.PTCP;PST,Irregular,4,moodle4,moodled,1,moodled,1,Same
-98,98,reacquire,reacquired,V;PST,Irregular,2,reacquire2,reacquired,1,reacquired,1,Same
-99,99,flabberghast,flabberghast,V;NFIN,Regular,1,flabberghast1,flabberghast,1,flabberghast,1,Same
-100,100,willow,willowing,V;V.PTCP;PRS,Regular,3,willow3,willowing,1,willowing,1,Same
-101,101,sleid,sleiding,V;V.PTCP;PRS,Regular,3,sleid3,sleiding,1,sleiding,1,Same
-102,102,screen-scrape,screen-scraping,V;V.PTCP;PRS,Irregular,3,screen-scrape3,screen-scraping,1,screen-scraping,1,Same
-103,103,compartmentalise,compartmentalising,V;V.PTCP;PRS,Irregular,3,compartmentalise3,compartmentalising,1,compartmentalising,1,Same
-104,104,de-ice,de-ice,V;NFIN,Regular,1,de-ice1,de-ice,1,de-ice,1,Same
-105,105,dearn,dearn,V;NFIN,Regular,1,dearn1,dearn,1,dearn,1,Same
-106,106,paint,painted,V;V.PTCP;PST,Regular,4,paint4,painted,1,painted,1,Same
-107,107,bedabble,bedabbles,V;3;SG;PRS,Regular,0,bedabble0,bedabbles,1,bedabbles,1,Same
-108,108,kebab,kebabbed,V;PST,Irregular,2,kebab2,kebabbed,1,kebabbed,1,Same
-109,109,doublecross,doublecrosses,V;3;SG;PRS,Irregular,0,doublecross0,doublecrosses,1,doublecrosses,1,Same
-110,110,rebreed,rebreed,V;NFIN,Regular,1,rebreed1,rebreed,1,rebreed,1,Same
-111,111,recork,recorked,V;V.PTCP;PST,Regular,4,recork4,recorked,1,recorked,1,Same
-112,112,downscale,downscales,V;3;SG;PRS,Regular,0,downscale0,downscales,1,downscales,1,Same
-113,113,mythicize,mythicized,V;V.PTCP;PST,Irregular,4,mythicize4,mythicized,1,mythicized,1,Same
-114,114,suspicion,suspicioned,V;PST,Regular,2,suspicion2,suspicioned,1,suspicioned,1,Same
-115,115,provinciate,provinciated,V;PST,Irregular,2,provinciate2,provinciated,1,provinciated,1,Same
-116,116,sqush,squshed,V;V.PTCP;PST,Regular,4,sqush4,squshed,1,squshed,1,Same
-117,117,overroast,overroast,V;NFIN,Regular,1,overroast1,overroast,1,overroast,1,Same
-118,118,impleach,impleached,V;V.PTCP;PST,Regular,4,impleach4,impleached,1,impleached,1,Same
-119,119,sulphur,sulphured,V;V.PTCP;PST,Regular,4,sulphur4,sulphured,1,sulphured,1,Same
-120,120,pivot,pivoted,V;PST,Regular,2,pivot2,pivoted,1,pivoted,1,Same
-121,121,cheese,cheeses,V;3;SG;PRS,Regular,0,cheese0,cheeses,1,cheeses,1,Same
-122,122,betow,betowed,V;V.PTCP;PST,Regular,4,betow4,betowed,1,betowed,1,Same
-123,123,peeve,peeve,V;NFIN,Regular,1,peeve1,peeve,1,peeve,1,Same
-124,124,infract,infracted,V;PST,Regular,2,infract2,infracted,1,infracted,1,Same
-125,125,LOL,LOLing,V;V.PTCP;PRS,Regular,3,LOL3,loling,0,loling,0,Same
-126,126,circle,circling,V;V.PTCP;PRS,Irregular,3,circle3,circling,1,circling,1,Same
-127,127,infantilize,infantilizes,V;3;SG;PRS,Regular,0,infantilize0,infantilizes,1,infantilizes,1,Same
-128,128,tyrannise,tyrannising,V;V.PTCP;PRS,Irregular,3,tyrannise3,tyrannising,1,tyrannising,1,Same
-129,129,reorientate,reorientating,V;V.PTCP;PRS,Irregular,3,reorientate3,reorientating,1,reorientating,1,Same
-130,130,approve,approving,V;V.PTCP;PRS,Irregular,3,approve3,approving,1,approving,1,Same
-131,131,indorse,indorsing,V;V.PTCP;PRS,Irregular,3,indorse3,indorsing,1,indorsing,1,Same
-132,132,Romanianize,Romanianizes,V;3;SG;PRS,Regular,0,Romanianize0,romanianizes,0,romanianizes,0,Same
-133,133,overpunch,overpunches,V;3;SG;PRS,Irregular,0,overpunch0,overpunches,1,overpunches,1,Same
-134,134,swifter,swiftering,V;V.PTCP;PRS,Regular,3,swifter3,swiftering,1,swiftering,1,Same
-135,135,TUPE,TUPEd,V;V.PTCP;PST,Irregular,4,TUPE4,tuped,0,tuped,0,Same
-136,136,collectivise,collectivise,V;NFIN,Regular,1,collectivise1,collectivise,1,collectivise,1,Same
-137,137,buttress,buttress,V;NFIN,Regular,1,buttress1,buttress,1,buttress,1,Same
-138,138,forejudge,forejudges,V;3;SG;PRS,Regular,0,forejudge0,forejudges,1,forejudges,1,Same
-139,139,decoct,decocted,V;PST,Regular,2,decoct2,decocted,1,decocted,1,Same
-140,140,differentiate,differentiates,V;3;SG;PRS,Regular,0,differentiate0,differentiates,1,differentiates,1,Same
-141,141,mimeograph,mimeographing,V;V.PTCP;PRS,Regular,3,mimeograph3,mimeographing,1,mimeographing,1,Same
-142,142,encomber,encombers,V;3;SG;PRS,Regular,0,encomber0,encombers,1,encombers,1,Same
-143,143,vitaminise,vitaminising,V;V.PTCP;PRS,Irregular,3,vitaminise3,vitaminising,1,vitaminising,1,Same
-144,144,misdesign,misdesign,V;NFIN,Regular,1,misdesign1,misdesign,1,misdesign,1,Same
-145,145,forhele,forhole,V;PST,Irregular,2,forhele2,forheled ,0,forheled ,0,Same
-146,146,malfunction,malfunctions,V;3;SG;PRS,Regular,0,malfunction0,malfunctions,1,malfunctions,1,Same
-147,147,gross,grossed,V;PST,Regular,2,gross2,grossed,1,grossed,1,Same
-148,148,swang,swangs,V;3;SG;PRS,Regular,0,swang0,swangs,1,swangs,1,Same
-149,149,foreshape,foreshaping,V;V.PTCP;PRS,Irregular,3,foreshape3,foreshaping,1,foreshaping,1,Same
-150,150,muse,mused,V;PST,Irregular,2,muse2,mused,1,mused,1,Same
-151,151,misbrand,misbrands,V;3;SG;PRS,Regular,0,misbrand0,misbrands,1,misbrands,1,Same
-152,152,glair,glaired,V;V.PTCP;PST,Regular,4,glair4,glaired,1,glaired,1,Same
-153,153,puke,puked,V;V.PTCP;PST,Irregular,4,puke4,puked,1,puked,1,Same
-154,154,whiten,whitening,V;V.PTCP;PRS,Regular,3,whiten3,whitening,1,whitening,1,Same
-155,155,detonate,detonated,V;PST,Irregular,2,detonate2,detonated,1,detonated,1,Same
-156,156,substantivize,substantivizes,V;3;SG;PRS,Regular,0,substantivize0,substantivizes,1,substantivizes,1,Same
-157,157,halloo,halloo,V;NFIN,Regular,1,halloo1,halloo,1,halloo,1,Same
-158,158,distil,distil,V;NFIN,Regular,1,distil1,distil,1,distil,1,Same
-159,159,unbethink,unbethought,V;V.PTCP;PST,Irregular,4,unbethink4,unbethough,0,unbethiukht,0,Not Same
-160,160,transpierce,transpierced,V;PST,Irregular,2,transpierce2,transpierced,1,transpierced,1,Same
-161,161,scrat,scrat,V;NFIN,Regular,1,scrat1,scrat,1,scrat,1,Same
-162,162,streamline,streamlined,V;PST,Irregular,2,streamline2,streamlined,1,streamlined,1,Same
-163,163,knit,knit,V;PST,Irregular,2,knit2,knit,1,knit,1,Same
-164,164,intertwingle,intertwingling,V;V.PTCP;PRS,Irregular,3,intertwingle3,intertwingling,1,intertwingling,1,Same
-165,165,subjoin,subjoined,V;PST,Regular,2,subjoin2,subjoined,1,subjoined,1,Same
-166,166,polygonise,polygonises,V;3;SG;PRS,Regular,0,polygonise0,polygonises,1,polygonises,1,Same
-167,167,bicker,bickers,V;3;SG;PRS,Regular,0,bicker0,bickers,1,bickers,1,Same
-168,168,swale,swaled,V;PST,Irregular,2,swale2,swaled,1,swaled,1,Same
-169,169,snift,snifted,V;V.PTCP;PST,Regular,4,snift4,snifted,1,snifted,1,Same
-170,170,mischarge,mischarge,V;NFIN,Regular,1,mischarge1,mischarge,1,mischarge,1,Same
-171,171,overstuff,overstuffed,V;V.PTCP;PST,Regular,4,overstuff4,overstuffed,1,overstuffed,1,Same
-172,172,etherify,etherified,V;PST,Irregular,2,etherify2,etherified,1,etherified,1,Same
-173,173,self-deport,self-deported,V;V.PTCP;PST,Regular,4,self-deport4,self-deported,1,self-deported,1,Same
-174,174,Timonize,Timonized,V;V.PTCP;PST,Irregular,4,Timonize4,timonized,0,timonized,0,Same
-175,175,sauna,saunaed,V;V.PTCP;PST,Regular,4,sauna4,saunaed,1,saunaed,1,Same
-176,176,exauthorize,exauthorizing,V;V.PTCP;PRS,Irregular,3,exauthorize3,exauthorizing,1,exauthorizing,1,Same
-177,177,underpromise,underpromises,V;3;SG;PRS,Regular,0,underpromise0,underpromises,1,underpromises,1,Same
-178,178,reticket,reticketed,V;V.PTCP;PST,Regular,4,reticket4,reticketed,1,reticketed,1,Same
-179,179,hotch,hotches,V;3;SG;PRS,Irregular,0,hotch0,hotches,1,hotches,1,Same
-180,180,impoverish,impoverished,V;PST,Regular,2,impoverish2,impoverished,1,impoverished,1,Same
-181,181,justify,justifying,V;V.PTCP;PRS,Regular,3,justify3,justifying,1,justifying,1,Same
-182,182,masculate,masculates,V;3;SG;PRS,Regular,0,masculate0,masculates,1,masculates,1,Same
-183,183,uninstall,uninstalls,V;3;SG;PRS,Regular,0,uninstall0,uninstalls,1,uninstalls,1,Same
-184,184,duress,duresses,V;3;SG;PRS,Irregular,0,duress0,duresses,1,duresses,1,Same
-185,185,siphon,siphoning,V;V.PTCP;PRS,Regular,3,siphon3,siphoning,1,siphoning,1,Same
-186,186,overdeliver,overdeliver,V;NFIN,Regular,1,overdeliver1,overdeliver,1,overdeliver,1,Same
-187,187,commend,commended,V;PST,Regular,2,commend2,commended,1,commended,1,Same
-188,188,sue,suing,V;V.PTCP;PRS,Irregular,3,sue3,suing,1,suing,1,Same
-189,189,abscess,abscessed,V;PST,Regular,2,abscess2,abscessed,1,abscessed,1,Same
-190,190,sodomise,sodomised,V;V.PTCP;PST,Irregular,4,sodomise4,sodomised,1,sodomised,1,Same
-191,191,smith,smiths,V;3;SG;PRS,Regular,0,smith0,smithe,0,smithe,0,Same
-192,192,nag,nag,V;NFIN,Regular,1,nag1,nag,1,nag,1,Same
-193,193,wreath,wreathed,V;V.PTCP;PST,Regular,4,wreath4,wreathed,1,wreathed,1,Same
-194,194,forthdraw,forthdrawing,V;V.PTCP;PRS,Regular,3,forthdraw3,forthdrawing,1,forthdrawing,1,Same
-195,195,converge,converges,V;3;SG;PRS,Regular,0,converge0,converges,1,converges,1,Same
-196,196,potchky,potchkying,V;V.PTCP;PRS,Regular,3,potchky3,potchkying,1,potchkying,1,Same
-197,197,cicurate,cicurated,V;PST,Irregular,2,cicurate2,cicurated,1,cicurated,1,Same
-198,198,seduce,seduces,V;3;SG;PRS,Regular,0,seduce0,seduces,1,seduces,1,Same
-199,199,dyb,dybbing,V;V.PTCP;PRS,Irregular,3,dyb3,dybbing,1,dybbing,1,Same
-200,200,output,outputting,V;V.PTCP;PRS,Irregular,3,output3,outputiing,0,outputiing,0,Same
-201,201,unicycle,unicycle,V;NFIN,Regular,1,unicycle1,unicycle,1,unicycle,1,Same
-202,202,befile,befile,V;NFIN,Regular,1,befile1,befile,1,befile,1,Same
-203,203,wolf,wolfed,V;V.PTCP;PST,Regular,4,wolf4,wolfed,1,wolfed,1,Same
-204,204,smatch,smatched,V;V.PTCP;PST,Regular,4,smatch4,smatched,1,smatched,1,Same
-205,205,disroot,disrooted,V;PST,Regular,2,disroot2,disrooted,1,disrooted,1,Same
-206,206,beblur,beblur,V;NFIN,Regular,1,beblur1,beblur,1,beblur,1,Same
-207,207,ranch,ranch,V;NFIN,Regular,1,ranch1,ranch,1,ranch,1,Same
-208,208,decontextualize,decontextualized,V;PST,Irregular,2,decontextualize2,decontextualized,1,decontextualized,1,Same
-209,209,immunodetect,immunodetected,V;V.PTCP;PST,Regular,4,immunodetect4,immunodetected,1,immunodetected,1,Same
-210,210,commercialize,commercializing,V;V.PTCP;PRS,Irregular,3,commercialize3,commercializing,1,commercializing,1,Same
-211,211,sweb,swebbing,V;V.PTCP;PRS,Irregular,3,sweb3,swebiing,0,swebiing,0,Same
-212,212,rerun,rerun,V;NFIN,Regular,1,rerun1,rerun,1,rerun,1,Same
-213,213,story,storied,V;V.PTCP;PST,Irregular,4,story4,storied,1,storied,1,Same
-214,214,statuminate,statuminates,V;3;SG;PRS,Regular,0,statuminate0,statuminates,1,statuminates,1,Same
-215,215,redispute,redisputing,V;V.PTCP;PRS,Irregular,3,redispute3,redisputing,1,redisputing,1,Same
-216,216,bud,budded,V;PST,Irregular,2,bud2,budded,1,budded,1,Same
-217,217,relick,relicks,V;3;SG;PRS,Regular,0,relick0,relicks,1,relicks,1,Same
-218,218,inhere,inhered,V;PST,Irregular,2,inhere2,inhered,1,inhered,1,Same
-219,219,exscind,exscind,V;NFIN,Regular,1,exscind1,exscind,1,exscind,1,Same
-220,220,underbudget,underbudgeted,V;PST,Regular,2,underbudget2,underbudgeted,1,underbudgeted,1,Same
-221,221,emasculate,emasculating,V;V.PTCP;PRS,Irregular,3,emasculate3,emasculating,1,emasculating,1,Same
-222,222,beweigh,beweighed,V;PST,Regular,2,beweigh2,beweighed,1,beweighed,1,Same
-223,223,munite,munited,V;V.PTCP;PST,Irregular,4,munite4,munited,1,munited,1,Same
-224,224,sonnetize,sonnetized,V;PST,Irregular,2,sonnetize2,sonnetized,1,sonnetized,1,Same
-225,225,worship,worships,V;3;SG;PRS,Regular,0,worship0,worships,1,worships,1,Same
-226,226,bezzle,bezzle,V;NFIN,Regular,1,bezzle1,bezzle,1,bezzle,1,Same
-227,227,commodify,commodified,V;PST,Irregular,2,commodify2,commodified,1,commodified,1,Same
-228,228,judicialize,judicializing,V;V.PTCP;PRS,Irregular,3,judicialize3,judicializing,1,judicializing,1,Same
-229,229,norn,norned,V;PST,Regular,2,norn2,norned,1,norned,1,Same
-230,230,lyophilize,lyophilized,V;V.PTCP;PST,Irregular,4,lyophilize4,lyophilized,1,lyophilized,1,Same
-231,231,marmalise,marmalising,V;V.PTCP;PRS,Irregular,3,marmalise3,marmalising,1,marmalising,1,Same
-232,232,whistle-blow,whistle-blows,V;3;SG;PRS,Regular,0,whistle-blow0,whistle-blows,1,whistle-blows,1,Same
-233,233,favourize,favourized,V;V.PTCP;PST,Irregular,4,favourize4,favourized,1,favourized,1,Same
-234,234,average,averaged,V;PST,Irregular,2,average2,averaged,1,averaged,1,Same
-235,235,fortear,fortears,V;3;SG;PRS,Regular,0,fortear0,fortears,1,fortears,1,Same
-236,236,befinger,befinger,V;NFIN,Regular,1,befinger1,befinger,1,befinger,1,Same
-237,237,thou,thoued,V;PST,Regular,2,thou2,thoued,1,thoued,1,Same
-238,238,rake,rake,V;NFIN,Regular,1,rake1,rake,1,rake,1,Same
-239,239,evocate,evocated,V;PST,Irregular,2,evocate2,evocated,1,evocated,1,Same
-240,240,maternalise,maternalise,V;NFIN,Regular,1,maternalise1,maternalise,1,maternalise,1,Same
-241,241,fistfight,fistfights,V;3;SG;PRS,Regular,0,fistfight0,fistfights,1,fistfights,1,Same
-242,242,truant,truant,V;NFIN,Regular,1,truant1,truant,1,truant,1,Same
-243,243,squirt,squirts,V;3;SG;PRS,Regular,0,squirt0,squirts,1,squirts,1,Same
-244,244,aroynt,aroynted,V;V.PTCP;PST,Regular,4,aroynt4,aroynted,1,aroynted,1,Same
-245,245,recontest,recontested,V;PST,Regular,2,recontest2,recontested,1,recontested,1,Same
-246,246,expound,expounded,V;PST,Regular,2,expound2,expounded,1,expounded,1,Same
-247,247,biography,biographies,V;3;SG;PRS,Irregular,0,biography0,biographies,1,biographies,1,Same
-248,248,cruize,cruizing,V;V.PTCP;PRS,Irregular,3,cruize3,cruizing,1,cruizing,1,Same
-249,249,emperil,emperilled,V;V.PTCP;PST,Irregular,4,emperil4,emperileed,0,emperilled,1,Not Same
-250,250,confiscate,confiscating,V;V.PTCP;PRS,Irregular,3,confiscate3,confiscating,1,confiscating,1,Same
-251,251,chipmunk,chipmunks,V;3;SG;PRS,Regular,0,chipmunk0,chipmunks,1,chipmunks,1,Same
-252,252,upbreed,upbred,V;PST,Irregular,2,upbreed2,upbree,0,upbree,0,Same
-253,253,torend,torent,V;V.PTCP;PST,Irregular,4,torend4,torend,0,torende eeededddeedd,0,Not Same
-254,254,gedge,gedging,V;V.PTCP;PRS,Irregular,3,gedge3,gedging,1,gedging,1,Same
-255,255,deinterlace,deinterlacing,V;V.PTCP;PRS,Irregular,3,deinterlace3,deinterlacing,1,deinterlacing,1,Same
-256,256,dammish,dammishing,V;V.PTCP;PRS,Regular,3,dammish3,dammishing,1,dammishing,1,Same
-257,257,munify,munifying,V;V.PTCP;PRS,Regular,3,munify3,munifying,1,munifying,1,Same
-258,258,recrudesce,recrudesced,V;PST,Irregular,2,recrudesce2,recrudesced,1,recrudesced,1,Same
-259,259,disgrade,disgrade,V;NFIN,Regular,1,disgrade1,disgrade,1,disgrade,1,Same
-260,260,chate,chated,V;V.PTCP;PST,Irregular,4,chate4,chated,1,chated,1,Same
-261,261,'it,'it,V;NFIN,Regular,1,'it1,'it,1,rit,0,Not Same
-262,262,stitch,stitched,V;PST,Regular,2,stitch2,stitched,1,stitched,1,Same
-263,263,conservatise,conservatised,V;PST,Irregular,2,conservatise2,conservatised,1,conservatised,1,Same
-264,264,criminalize,criminalized,V;PST,Irregular,2,criminalize2,criminalized,1,criminalized,1,Same
-265,265,cancell,cancells,V;3;SG;PRS,Regular,0,cancell0,cancells,1,cancells,1,Same
-266,266,job,job,V;NFIN,Regular,1,job1,job,1,job,1,Same
-267,267,cordon,cordon,V;NFIN,Regular,1,cordon1,cordon,1,cordon,1,Same
-268,268,unplan,unplan,V;NFIN,Regular,1,unplan1,unplan,1,unplan,1,Same
-269,269,resynchronize,resynchronize,V;NFIN,Regular,1,resynchronize1,resynchronize,1,resynchronize,1,Same
-270,270,gork,gorked,V;PST,Regular,2,gork2,gorked,1,gorked,1,Same
-271,271,churr,churred,V;V.PTCP;PST,Regular,4,churr4,churred,1,churred,1,Same
-272,272,predeposit,predepositing,V;V.PTCP;PRS,Regular,3,predeposit3,predepositing,1,predepositing,1,Same
-273,273,carboard,carboarded,V;V.PTCP;PST,Regular,4,carboard4,carboarded,1,carboarded,1,Same
-274,274,rejudge,rejudged,V;PST,Irregular,2,rejudge2,rejudged,1,rejudged,1,Same
-275,275,misadjust,misadjusted,V;PST,Regular,2,misadjust2,misadjusted,1,misadjusted,1,Same
-276,276,embus,embus,V;NFIN,Regular,1,embus1,embus,1,embus,1,Same
-277,277,Arabianize,Arabianized,V;V.PTCP;PST,Irregular,4,Arabianize4,arabianized,0,arabianized,0,Same
-278,278,rekeyboard,rekeyboarded,V;PST,Regular,2,rekeyboard2,rekeyboarded,1,rekeyboarded,1,Same
-279,279,paper,paper,V;NFIN,Regular,1,paper1,paper,1,paper,1,Same
-280,280,banjax,banjaxed,V;PST,Regular,2,banjax2,banjaxed,1,banjaxed,1,Same
-281,281,Calvinise,Calvinised,V;PST,Irregular,2,Calvinise2,calvinised,0,calvinised,0,Same
-282,282,prenote,prenoted,V;PST,Irregular,2,prenote2,prenoted,1,prenoted,1,Same
-283,283,revivify,revivifies,V;3;SG;PRS,Irregular,0,revivify0,revivifies,1,revivifies,1,Same
-284,284,prattle,prattling,V;V.PTCP;PRS,Irregular,3,prattle3,prattling,1,prattling,1,Same
-285,285,stucco,stuccoed,V;PST,Regular,2,stucco2,stuccoed,1,stuccoed,1,Same
-286,286,upsoar,upsoared,V;V.PTCP;PST,Regular,4,upsoar4,upsoared,1,upsoared,1,Same
-287,287,transcend,transcended,V;PST,Regular,2,transcend2,transcended,1,transcended,1,Same
-288,288,relapse,relapse,V;NFIN,Regular,1,relapse1,relapse,1,relapse,1,Same
-289,289,imbrew,imbrewed,V;V.PTCP;PST,Regular,4,imbrew4,imbrewed,1,imbrewed,1,Same
-290,290,ingurgitate,ingurgitated,V;V.PTCP;PST,Irregular,4,ingurgitate4,ingurgitated,1,ingurgitated,1,Same
-291,291,hegemonize,hegemonized,V;PST,Irregular,2,hegemonize2,hegemonized,1,hegemonized,1,Same
-292,292,politicize,politicized,V;V.PTCP;PST,Irregular,4,politicize4,politicized,1,politicized,1,Same
-293,293,flabrigast,flabrigasted,V;V.PTCP;PST,Regular,4,flabrigast4,flabrigasted,1,flabrigasted,1,Same
-294,294,pre-teach,pre-teaching,V;V.PTCP;PRS,Regular,3,pre-teach3,pre-teaching,1,pre-teaching,1,Same
-295,295,misgauge,misgauge,V;NFIN,Regular,1,misgauge1,misgauge,1,misgauge,1,Same
-296,296,audiotape,audiotapes,V;3;SG;PRS,Regular,0,audiotape0,audiotapes,1,audiotapes,1,Same
-297,297,revivificate,revivificates,V;3;SG;PRS,Regular,0,revivificate0,revivificates,1,revivificates,1,Same
-298,298,lipolyze,lipolyzed,V;V.PTCP;PST,Irregular,4,lipolyze4,lipolyzed,1,lipolyzed,1,Same
-299,299,finalize,finalized,V;PST,Irregular,2,finalize2,finalized,1,finalized,1,Same
-300,300,mishit,mishits,V;3;SG;PRS,Regular,0,mishit0,mishits,1,mishits,1,Same
-301,301,rebore,rebores,V;3;SG;PRS,Regular,0,rebore0,rebores,1,rebores,1,Same
-302,302,owe,owing,V;V.PTCP;PRS,Irregular,3,owe3,owing,1,owing,1,Same
-303,303,rind,rinds,V;3;SG;PRS,Regular,0,rind0,rinds,1,rinds,1,Same
-304,304,Frisbee,Frisbees,V;3;SG;PRS,Regular,0,Frisbee0,frisbees,0,frisbees,0,Same
-305,305,yacht,yachting,V;V.PTCP;PRS,Regular,3,yacht3,yachting,1,yachting,1,Same
-306,306,deg,degged,V;PST,Irregular,2,deg2,degged,1,degged,1,Same
-307,307,skirt,skirting,V;V.PTCP;PRS,Regular,3,skirt3,skirting,1,skirting,1,Same
-308,308,steeve,steeves,V;3;SG;PRS,Regular,0,steeve0,steeves,1,steeves,1,Same
-309,309,outthrust,outthrusted,V;PST,Regular,2,outthrust2,outthrusted,1,outthrusted,1,Same
-310,310,intrunk,intrunks,V;3;SG;PRS,Regular,0,intrunk0,intrunks,1,intrunks,1,Same
-311,311,pregrill,pregrilled,V;V.PTCP;PST,Regular,4,pregrill4,pregrilled,1,pregrilled,1,Same
-312,312,water,water,V;NFIN,Regular,1,water1,water,1,water,1,Same
-313,313,vanquish,vanquishing,V;V.PTCP;PRS,Regular,3,vanquish3,vanquishing,1,vanquishing,1,Same
-314,314,appetise,appetised,V;V.PTCP;PST,Irregular,4,appetise4,appetised,1,appetised,1,Same
-315,315,reticket,reticketed,V;PST,Regular,2,reticket2,reticketed,1,reticketed,1,Same
-316,316,misrecord,misrecord,V;NFIN,Regular,1,misrecord1,misrecord,1,misrecord,1,Same
-317,317,perchlorinate,perchlorinating,V;V.PTCP;PRS,Irregular,3,perchlorinate3,perchlorinating,1,perchlorinating,1,Same
-318,318,defrost,defrost,V;NFIN,Regular,1,defrost1,defrost,1,defrost,1,Same
-319,319,waucht,wauchting,V;V.PTCP;PRS,Regular,3,waucht3,wauchting,1,wauchting,1,Same
-320,320,enwheel,enwheeling,V;V.PTCP;PRS,Regular,3,enwheel3,enwheeling,1,enwheeling,1,Same
-321,321,deindustrialise,deindustrialised,V;V.PTCP;PST,Irregular,4,deindustrialise4,deindustrialised,1,deindustrialised,1,Same
-322,322,baggs,baggses,V;3;SG;PRS,Irregular,0,baggs0,baggses,1,baggses,1,Same
-323,323,clag,clags,V;3;SG;PRS,Regular,0,clag0,clags,1,clags,1,Same
-324,324,moisturize,moisturize,V;NFIN,Regular,1,moisturize1,moisturize,1,moisturize,1,Same
-325,325,yodel,yodelled,V;PST,Irregular,2,yodel2,yodelled,1,yodelled,1,Same
-326,326,redownload,redownload,V;NFIN,Regular,1,redownload1,redownload,1,redownload,1,Same
-327,327,discommodate,discommodates,V;3;SG;PRS,Regular,0,discommodate0,discommodates,1,discommodates,1,Same
-328,328,gibe,gibing,V;V.PTCP;PRS,Irregular,3,gibe3,gibing,1,gibing,1,Same
-329,329,crossreact,crossreacts,V;3;SG;PRS,Regular,0,crossreact0,crossreacts,1,crossreacts,1,Same
-330,330,smouch,smouching,V;V.PTCP;PRS,Regular,3,smouch3,smouching,1,smouching,1,Same
-331,331,externalize,externalized,V;PST,Irregular,2,externalize2,externalized,1,externalized,1,Same
-332,332,reengage,reengaged,V;PST,Irregular,2,reengage2,reengaged,1,reengaged,1,Same
-333,333,comport,comported,V;PST,Regular,2,comport2,comported,1,comported,1,Same
-334,334,photoshop,photoshops,V;3;SG;PRS,Regular,0,photoshop0,photoshops,1,photoshops,1,Same
-335,335,growl,growled,V;PST,Regular,2,growl2,growled,1,growled,1,Same
-336,336,fleech,fleeching,V;V.PTCP;PRS,Regular,3,fleech3,fleeching,1,fleeching,1,Same
-337,337,restrike,restrike,V;NFIN,Regular,1,restrike1,restrike,1,restrike,1,Same
-338,338,rook,rooking,V;V.PTCP;PRS,Regular,3,rook3,rooking,1,rooking,1,Same
-339,339,courage,couraged,V;PST,Irregular,2,courage2,couraged,1,couraged,1,Same
-340,340,redintegrate,redintegrates,V;3;SG;PRS,Regular,0,redintegrate0,redintegrates,1,redintegrates,1,Same
-341,341,neighbor,neighboring,V;V.PTCP;PRS,Regular,3,neighbor3,neighboring,1,neighboring,1,Same
-342,342,neighbour,neighboured,V;PST,Regular,2,neighbour2,neighboured,1,neighboured,1,Same
-343,343,reentre,reentring,V;V.PTCP;PRS,Irregular,3,reentre3,reentring,1,reentring,1,Same
-344,344,innerduce,innerducing,V;V.PTCP;PRS,Irregular,3,innerduce3,innerducing,1,innerducing,1,Same
-345,345,glamorise,glamorised,V;PST,Irregular,2,glamorise2,glamorised,1,glamorised,1,Same
-346,346,surround,surrounding,V;V.PTCP;PRS,Regular,3,surround3,surrounding,1,surrounding,1,Same
-347,347,undereat,undereat,V;NFIN,Regular,1,undereat1,undereat,1,undereat,1,Same
-348,348,swallie,swallies,V;3;SG;PRS,Regular,0,swallie0,swallies,1,swallies,1,Same
-349,349,inbear,inborne,V;V.PTCP;PST,Irregular,4,inbear4,inbeueed ,0,inbeargd eeeee,0,Not Same
-350,350,zone,zoned,V;PST,Irregular,2,zone2,zoned,1,zoned,1,Same
-351,351,diesel,dieseled,V;V.PTCP;PST,Regular,4,diesel4,dieselld,0,dieseled,1,Not Same
-352,352,engulph,engulph,V;NFIN,Regular,1,engulph1,engulph,1,engulph,1,Same
-353,353,debit,debited,V;PST,Regular,2,debit2,debit,0,debit,0,Same
-354,354,enwrite,enwrote,V;PST,Irregular,2,enwrite2,enwrite,0,enwrite,0,Same
-355,355,inturn,inturn,V;NFIN,Regular,1,inturn1,inturn,1,inturn,1,Same
-356,356,reach,reaches,V;3;SG;PRS,Irregular,0,reach0,reaches,1,reaches,1,Same
-357,357,hallmark,hallmarked,V;PST,Regular,2,hallmark2,hallmarked,1,hallmarked,1,Same
-358,358,swim,swimming,V;V.PTCP;PRS,Irregular,3,swim3,swimiing,0,swimiing,0,Same
-359,359,angel,angeled,V;PST,Regular,2,angel2,angelld,0,angelld,0,Same
-360,360,clothe,clothes,V;3;SG;PRS,Regular,0,clothe0,clothes,1,clothes,1,Same
-361,361,unlace,unlaced,V;PST,Irregular,2,unlace2,unlaced,1,unlaced,1,Same
-362,362,disencharm,disencharms,V;3;SG;PRS,Regular,0,disencharm0,disencharms,1,disencharms,1,Same
-363,363,plane,planes,V;3;SG;PRS,Regular,0,plane0,planes,1,planes,1,Same
-364,364,guilt-trip,guilt-trips,V;3;SG;PRS,Regular,0,guilt-trip0,guilt-trips,1,guilt-trips,1,Same
-365,365,curb,curbing,V;V.PTCP;PRS,Regular,3,curb3,curbing,1,curbing,1,Same
-366,366,chip,chipping,V;V.PTCP;PRS,Irregular,3,chip3,chipping,1,chipping,1,Same
-367,367,recache,recache,V;NFIN,Regular,1,recache1,recache,1,recache,1,Same
-368,368,codisplay,codisplay,V;NFIN,Regular,1,codisplay1,codisplay,1,codisplay,1,Same
-369,369,Asianize,Asianize,V;NFIN,Regular,1,Asianize1,asianize,0,asianize,0,Same
-370,370,malleablize,malleablizes,V;3;SG;PRS,Regular,0,malleablize0,malleablizes,1,malleablizes,1,Same
-371,371,pussywhip,pussywhipping,V;V.PTCP;PRS,Irregular,3,pussywhip3,pussywhipping,1,pussywhipping,1,Same
-372,372,cashier,cashiers,V;3;SG;PRS,Regular,0,cashier0,cashiers,1,cashiers,1,Same
-373,373,propound,propounds,V;3;SG;PRS,Regular,0,propound0,propounds,1,propounds,1,Same
-374,374,patron,patroned,V;PST,Regular,2,patron2,patroned,1,patroned,1,Same
-375,375,peacify,peacifies,V;3;SG;PRS,Irregular,0,peacify0,peacifies,1,peacifies,1,Same
-376,376,enerve,enerve,V;NFIN,Regular,1,enerve1,enerve,1,enerve,1,Same
-377,377,feat,feat,V;NFIN,Regular,1,feat1,feat,1,feat,1,Same
-378,378,Sheetrock,Sheetrocks,V;3;SG;PRS,Regular,0,Sheetrock0,sheetrocks,0,sheetrocks,0,Same
-379,379,desalt,desalted,V;V.PTCP;PST,Regular,4,desalt4,desalted,1,desalted,1,Same
-380,380,Danify,Danify,V;NFIN,Regular,1,Danify1,danify,0,danify,0,Same
-381,381,asphyxiate,asphyxiate,V;NFIN,Regular,1,asphyxiate1,asphyxiate,1,asphyxiate,1,Same
-382,382,frob,frobbed,V;V.PTCP;PST,Irregular,4,frob4,frobeed,0,frobbed,1,Not Same
-383,383,forelay,forelays,V;3;SG;PRS,Regular,0,forelay0,forelays,1,forelays,1,Same
-384,384,defriend,defriended,V;V.PTCP;PST,Regular,4,defriend4,defriended,1,defriended,1,Same
-385,385,snack,snacking,V;V.PTCP;PRS,Regular,3,snack3,snacking,1,snacking,1,Same
-386,386,robustify,robustified,V;PST,Irregular,2,robustify2,robustified,1,robustified,1,Same
-387,387,cockneyfy,cockneyfied,V;PST,Irregular,2,cockneyfy2,cockneyfied,1,cockneyfied,1,Same
-388,388,outguess,outguessed,V;V.PTCP;PST,Regular,4,outguess4,outguessed,1,outguessed,1,Same
-389,389,postil,postilling,V;V.PTCP;PRS,Irregular,3,postil3,postiliing,0,postiliing,0,Same
-390,390,underflow,underflowing,V;V.PTCP;PRS,Regular,3,underflow3,underflowing,1,underflowing,1,Same
-391,391,scheme,schemes,V;3;SG;PRS,Regular,0,scheme0,schemes,1,schemes,1,Same
-392,392,reference,reference,V;NFIN,Regular,1,reference1,reference,1,reference,1,Same
-393,393,imbosom,imbosomed,V;PST,Regular,2,imbosom2,imbosomed,1,imbosomed,1,Same
-394,394,decenter,decenters,V;3;SG;PRS,Regular,0,decenter0,decenters,1,decenters,1,Same
-395,395,proke,proked,V;PST,Irregular,2,proke2,proked,1,proked,1,Same
-396,396,pooh-pooh,pooh-poohed,V;PST,Regular,2,pooh-pooh2,pooh-poohed,1,pooh-poohed,1,Same
-397,397,bepearl,bepearl,V;NFIN,Regular,1,bepearl1,bepearl,1,bepearl,1,Same
-398,398,mell,melled,V;V.PTCP;PST,Regular,4,mell4,melled,1,melled,1,Same
-399,399,malleablize,malleablized,V;V.PTCP;PST,Irregular,4,malleablize4,malleablized,1,malleablized,1,Same
-400,400,new-model,new-modelled,V;PST,Irregular,2,new-model2,new-modelled,1,new-modelled,1,Same
-401,401,apartheidize,apartheidizing,V;V.PTCP;PRS,Irregular,3,apartheidize3,apartheidizing,1,apartheidizing,1,Same
-402,402,foreclose,forecloses,V;3;SG;PRS,Regular,0,foreclose0,forecloses,1,forecloses,1,Same
-403,403,shart,sharted,V;V.PTCP;PST,Regular,4,shart4,sharted,1,sharted,1,Same
-404,404,disclame,disclamed,V;V.PTCP;PST,Irregular,4,disclame4,disclamed,1,disclamed,1,Same
-405,405,double-end,double-end,V;NFIN,Regular,1,double-end1,double-end,1,double-end,1,Same
-406,406,spaniel,spanielling,V;V.PTCP;PRS,Irregular,3,spaniel3,spanieliing,0,spanieliing,0,Same
-407,407,minister,ministering,V;V.PTCP;PRS,Regular,3,minister3,ministering,1,ministering,1,Same
-408,408,revirginize,revirginize,V;NFIN,Regular,1,revirginize1,revirginize,1,revirginize,1,Same
-409,409,chuckle,chuckles,V;3;SG;PRS,Regular,0,chuckle0,chuckles,1,chuckles,1,Same
-410,410,amount,amounts,V;3;SG;PRS,Regular,0,amount0,amounts,1,amounts,1,Same
-411,411,embarn,embarned,V;PST,Regular,2,embarn2,embarned,1,embarned,1,Same
-412,412,defeature,featured,V;V.PTCP;PST,Irregular,4,defeature4,deffature eeeeeeeeee,0,defeature eeeeeeeee,0,Not Same
-413,413,rehone,rehoned,V;PST,Irregular,2,rehone2,rehoned,1,rehoned,1,Same
-414,414,cone,coned,V;V.PTCP;PST,Irregular,4,cone4,coned,1,coned,1,Same
-415,415,absquatulate,absquatulates,V;3;SG;PRS,Regular,0,absquatulate0,absquatulates,1,absquatulates,1,Same
-416,416,dimensionalise,dimensionalised,V;PST,Irregular,2,dimensionalise2,dimensionalised,1,dimensionalised,1,Same
-417,417,mind-read,mind-read,V;NFIN,Regular,1,mind-read1,mind-read,1,mind-read,1,Same
-418,418,encountre,encountring,V;V.PTCP;PRS,Irregular,3,encountre3,encountring,1,encountring,1,Same
-419,419,temporalize,temporalize,V;NFIN,Regular,1,temporalize1,temporalize,1,temporalize,1,Same
-420,420,mosey,moseying,V;V.PTCP;PRS,Regular,3,mosey3,moseying,1,moseying,1,Same
-421,421,basket,basket,V;NFIN,Regular,1,basket1,basket,1,basket,1,Same
-422,422,unsoul,unsouled,V;V.PTCP;PST,Regular,4,unsoul4,unsouled,1,unsoulld,0,Not Same
-423,423,legitimize,legitimizes,V;3;SG;PRS,Regular,0,legitimize0,legitimizes,1,legitimizes,1,Same
-424,424,checker,checkered,V;PST,Regular,2,checker2,checkered,1,checkered,1,Same
-425,425,slit,slits,V;3;SG;PRS,Regular,0,slit0,slits,1,slits,1,Same
-426,426,dick,dicks,V;3;SG;PRS,Regular,0,dick0,dicks,1,dicks,1,Same
-427,427,overwinter,overwintered,V;PST,Regular,2,overwinter2,overwintered,1,overwintered,1,Same
-428,428,praemunire,praemunired,V;V.PTCP;PST,Irregular,4,praemunire4,praemunired,1,praemunired,1,Same
-429,429,pinpoint,pinpointing,V;V.PTCP;PRS,Regular,3,pinpoint3,pinpointing,1,pinpointing,1,Same
-430,430,scandal,scandals,V;3;SG;PRS,Regular,0,scandal0,scandals,1,scandals,1,Same
-431,431,install,installs,V;3;SG;PRS,Regular,0,install0,installs,1,installs,1,Same
-432,432,bemouth,bemouths,V;3;SG;PRS,Regular,0,bemouth0,bemouths,1,bemouths,1,Same
-433,433,forsee,forsaw,V;PST,Irregular,2,forsee2,forsen,0,forsen,0,Same
-434,434,branch,branching,V;V.PTCP;PRS,Regular,3,branch3,branching,1,branching,1,Same
-435,435,ort,orted,V;V.PTCP;PST,Regular,4,ort4,orttd,0,orttd,0,Same
-436,436,phagocyte,phagocyting,V;V.PTCP;PRS,Irregular,3,phagocyte3,phagocyting,1,phagocyting,1,Same
-437,437,seize,seized,V;PST,Irregular,2,seize2,seized,1,seized,1,Same
-438,438,impedite,impedite,V;NFIN,Regular,1,impedite1,impedite,1,impedite,1,Same
-439,439,forwean,forweaning,V;V.PTCP;PRS,Regular,3,forwean3,forweaning,1,forweaning,1,Same
-440,440,billhook,billhooked,V;PST,Regular,2,billhook2,billhooked,1,billhooked,1,Same
-441,441,withspeak,withspoken,V;V.PTCP;PST,Irregular,4,withspeak4,withspeued,0,withspeaed,0,Not Same
-442,442,unminimize,unminimize,V;NFIN,Regular,1,unminimize1,unminimize,1,unminimize,1,Same
-443,443,gully,gullied,V;PST,Irregular,2,gully2,gullied,1,gullied,1,Same
-444,444,boob,boobing,V;V.PTCP;PRS,Regular,3,boob3,boobing,1,boobing,1,Same
-445,445,musicalize,musicalize,V;NFIN,Regular,1,musicalize1,musicalize,1,musicalize,1,Same
-446,446,deperch,deperched,V;V.PTCP;PST,Regular,4,deperch4,deperched,1,deperched,1,Same
-447,447,pamphletize,pamphletizing,V;V.PTCP;PRS,Irregular,3,pamphletize3,pamphletizing,1,pamphletizing,1,Same
-448,448,happen,happening,V;V.PTCP;PRS,Regular,3,happen3,happening,1,happening,1,Same
-449,449,outbuy,outbuys,V;3;SG;PRS,Regular,0,outbuy0,outbuys,1,outbuys,1,Same
-450,450,whiff,whiffing,V;V.PTCP;PRS,Regular,3,whiff3,whiffing,1,whiffing,1,Same
-451,451,glaver,glavered,V;PST,Regular,2,glaver2,glavered,1,glavered,1,Same
-452,452,unproof,unproofed,V;V.PTCP;PST,Regular,4,unproof4,unproofed,1,unproofed,1,Same
-453,453,azotize,azotizing,V;V.PTCP;PRS,Irregular,3,azotize3,azotizing,1,azotizing,1,Same
-454,454,subcategorise,subcategorised,V;PST,Irregular,2,subcategorise2,subcategorised,1,subcategorised,1,Same
-455,455,modem,modem,V;NFIN,Regular,1,modem1,modem,1,modem,1,Same
-456,456,permaban,permabanned,V;V.PTCP;PST,Irregular,4,permaban4,permabane,0,permabaneed,0,Not Same
-457,457,brown,browns,V;3;SG;PRS,Regular,0,brown0,browns,1,browns,1,Same
-458,458,itemise,itemises,V;3;SG;PRS,Regular,0,itemise0,itemises,1,itemises,1,Same
-459,459,displume,displume,V;NFIN,Regular,1,displume1,displume,1,displume,1,Same
-460,460,copyleft,copyleft,V;NFIN,Regular,1,copyleft1,copyleft,1,copyleft,1,Same
-461,461,curvet,curvetting,V;V.PTCP;PRS,Irregular,3,curvet3,curvetiing,0,curvetiing,0,Same
-462,462,subaid,subaids,V;3;SG;PRS,Regular,0,subaid0,subaids,1,subaids,1,Same
-463,463,redeploy,redeploying,V;V.PTCP;PRS,Regular,3,redeploy3,redeploying,1,redeploying,1,Same
-464,464,adnominalize,adnominalized,V;PST,Irregular,2,adnominalize2,adnominalized,1,adnominalized,1,Same
-465,465,forlese,forlese,V;NFIN,Regular,1,forlese1,forlese,1,forlese,1,Same
-466,466,conquest,conquested,V;V.PTCP;PST,Regular,4,conquest4,conquested,1,conquested,1,Same
-467,467,transude,transudes,V;3;SG;PRS,Regular,0,transude0,transudes,1,transudes,1,Same
-468,468,unvisard,unvisarded,V;V.PTCP;PST,Regular,4,unvisard4,unvisarded,1,unvisarded,1,Same
-469,469,gnosticise,gnosticise,V;NFIN,Regular,1,gnosticise1,gnosticise,1,gnosticise,1,Same
-470,470,mischarge,mischarging,V;V.PTCP;PRS,Irregular,3,mischarge3,mischarging,1,mischarging,1,Same
-471,471,hoke,hoked,V;V.PTCP;PST,Irregular,4,hoke4,hoked,1,hoked,1,Same
-472,472,misgender,misgendered,V;V.PTCP;PST,Regular,4,misgender4,misgendered,1,misgendered,1,Same
-473,473,photobleach,photobleached,V;V.PTCP;PST,Regular,4,photobleach4,photobleached,1,photobleached,1,Same
-474,474,uplook,uplooks,V;3;SG;PRS,Regular,0,uplook0,uplooks,1,uplooks,1,Same
-475,475,fillet,filleted,V;V.PTCP;PST,Regular,4,fillet4,filleted,1,filleted,1,Same
-476,476,perfix,perfixed,V;PST,Regular,2,perfix2,perfixed,1,perfixed,1,Same
-477,477,dredge,dredging,V;V.PTCP;PRS,Irregular,3,dredge3,dredging,1,dredging,1,Same
-478,478,super,supered,V;V.PTCP;PST,Regular,4,super4,supered,1,supered,1,Same
-479,479,outwait,outwait,V;NFIN,Regular,1,outwait1,outwait,1,outwait,1,Same
-480,480,strim,strimming,V;V.PTCP;PRS,Irregular,3,strim3,strimiing,0,strimiing,0,Same
-481,481,calm,calms,V;3;SG;PRS,Regular,0,calm0,calms,1,calms,1,Same
-482,482,deem,deemed,V;PST,Regular,2,deem2,deemed,1,deemed,1,Same
-483,483,deneutralize,deneutralized,V;PST,Irregular,2,deneutralize2,deneutralized,1,deneutralized,1,Same
-484,484,abscind,abscinding,V;V.PTCP;PRS,Regular,3,abscind3,abscinding,1,abscinding,1,Same
-485,485,smoulder,smouldering,V;V.PTCP;PRS,Regular,3,smoulder3,smouldering,1,smouldering,1,Same
-486,486,wiss,wiss,V;NFIN,Regular,1,wiss1,wiss,1,wiss,1,Same
-487,487,Maorify,Maorify,V;NFIN,Regular,1,Maorify1,maorify,0,maorify,0,Same
-488,488,glei,gleis,V;3;SG;PRS,Regular,0,glei0,gleis,1,gleis,1,Same
-489,489,desquamate,desquamated,V;V.PTCP;PST,Irregular,4,desquamate4,desquamated,1,desquamated,1,Same
-490,490,begowk,begowks,V;3;SG;PRS,Regular,0,begowk0,begowks,1,begowks,1,Same
-491,491,restick,restick,V;NFIN,Regular,1,restick1,restick,1,restick,1,Same
-492,492,resculpt,resculpting,V;V.PTCP;PRS,Regular,3,resculpt3,resculpting,1,resculpting,1,Same
-493,493,marline,marlined,V;PST,Irregular,2,marline2,marlined,1,marlined,1,Same
-494,494,crusade,crusaded,V;PST,Irregular,2,crusade2,crusaded,1,crusaded,1,Same
-495,495,overveil,overveiled,V;PST,Regular,2,overveil2,overveilld,0,overveilld,0,Same
-496,496,waken,waken,V;NFIN,Regular,1,waken1,waken,1,waken,1,Same
-497,497,overtalk,overtalks,V;3;SG;PRS,Regular,0,overtalk0,overtalks,1,overtalks,1,Same
-498,498,dummy,dummy,V;NFIN,Regular,1,dummy1,dummy,1,dummy,1,Same
-499,499,top-dress,top-dressing,V;V.PTCP;PRS,Regular,3,top-dress3,top-dressing,1,top-dressing,1,Same
-500,500,sacre,sacres,V;3;SG;PRS,Regular,0,sacre0,sacres,1,sacres,1,Same
-501,501,enveigle,enveigle,V;NFIN,Regular,1,enveigle1,enveigle,1,enveigle,1,Same
-502,502,pimp,pimped,V;V.PTCP;PST,Regular,4,pimp4,pimped,1,pimped,1,Same
-503,503,capacify,capacified,V;V.PTCP;PST,Irregular,4,capacify4,capacified,1,capacified,1,Same
-504,504,reutilise,reutilise,V;NFIN,Regular,1,reutilise1,reutilise,1,reutilise,1,Same
-505,505,reinitiate,reinitiate,V;NFIN,Regular,1,reinitiate1,reinitiate,1,reinitiate,1,Same
-506,506,phone,phoned,V;V.PTCP;PST,Irregular,4,phone4,phoned,1,phoned,1,Same
-507,507,uptalk,uptalked,V;PST,Regular,2,uptalk2,uptalked,1,uptalked,1,Same
-508,508,rebalance,rebalance,V;NFIN,Regular,1,rebalance1,rebalance,1,rebalance,1,Same
-509,509,wet,wet,V;V.PTCP;PST,Irregular,4,wet4,wett eeeeeeeeeeee,0,wett tttettttt,0,Not Same
-510,510,rame,rame,V;NFIN,Regular,1,rame1,rame,1,rame,1,Same
-511,511,accustom,accustoms,V;3;SG;PRS,Regular,0,accustom0,accustoms,1,accustoms,1,Same
-512,512,lacker,lackering,V;V.PTCP;PRS,Regular,3,lacker3,lackering,1,lackering,1,Same
-513,513,infest,infests,V;3;SG;PRS,Regular,0,infest0,infests,1,infests,1,Same
-514,514,protuberate,protuberate,V;NFIN,Regular,1,protuberate1,protuberate,1,protuberate,1,Same
-515,515,audit,audited,V;PST,Regular,2,audit2,audited,1,audited,1,Same
-516,516,sensationalize,sensationalizes,V;3;SG;PRS,Regular,0,sensationalize0,sensationalizes,1,sensationalizes,1,Same
-517,517,comigrate,comigrated,V;PST,Irregular,2,comigrate2,comigrated,1,comigrated,1,Same
-518,518,autoinfect,autoinfects,V;3;SG;PRS,Regular,0,autoinfect0,autoinfects,1,autoinfects,1,Same
-519,519,pincushion,pincushioned,V;PST,Regular,2,pincushion2,pincushioned,1,pincushioned,1,Same
-520,520,write-off,write-off,V;NFIN,Regular,1,write-off1,write-off,1,write-off,1,Same
-521,521,furnish,furnishes,V;3;SG;PRS,Irregular,0,furnish0,furnishes,1,furnishes,1,Same
-522,522,zeroise,zeroised,V;V.PTCP;PST,Irregular,4,zeroise4,zeroised,1,zeroised,1,Same
-523,523,cony-catch,cony-catching,V;V.PTCP;PRS,Regular,3,cony-catch3,cony-catching,1,cony-catching,1,Same
-524,524,outface,outfaced,V;V.PTCP;PST,Irregular,4,outface4,outfaced,1,outfaced,1,Same
-525,525,fatten,fattened,V;V.PTCP;PST,Regular,4,fatten4,fattened,1,fattened,1,Same
-526,526,apprentice,apprenticing,V;V.PTCP;PRS,Irregular,3,apprentice3,apprenticing,1,apprenticing,1,Same
-527,527,overcommit,overcommits,V;3;SG;PRS,Regular,0,overcommit0,overcommits,1,overcommits,1,Same
-528,528,manifold,manifolded,V;V.PTCP;PST,Regular,4,manifold4,manifolded,1,manifolded,1,Same
-529,529,controverse,controversed,V;V.PTCP;PST,Irregular,4,controverse4,controversed,1,controversed,1,Same
-530,530,wisen,wisens,V;3;SG;PRS,Regular,0,wisen0,wisens,1,wisens,1,Same
-531,531,encroach,encroached,V;V.PTCP;PST,Regular,4,encroach4,encroached,1,encroached,1,Same
-532,532,gift,gifts,V;3;SG;PRS,Regular,0,gift0,gifts,1,gifts,1,Same
-533,533,transitivize,transitivize,V;NFIN,Regular,1,transitivize1,transitivize,1,transitivize,1,Same
-534,534,teeter,teetered,V;PST,Regular,2,teeter2,teetered,1,teetered,1,Same
-535,535,macromanage,macromanages,V;3;SG;PRS,Regular,0,macromanage0,macromanages,1,macromanages,1,Same
-536,536,vagabond,vagabonding,V;V.PTCP;PRS,Regular,3,vagabond3,vagabonding,1,vagabonding,1,Same
-537,537,overidentify,overidentified,V;PST,Irregular,2,overidentify2,overidentified,1,overidentified,1,Same
-538,538,counterindoctrinate,counterindoctrinated,V;PST,Irregular,2,counterindoctrinate2,countdrridootroinade,0,countdrridootroinade,0,Same
-539,539,inspire,inspiring,V;V.PTCP;PRS,Irregular,3,inspire3,inspiring,1,inspiring,1,Same
-540,540,tympanize,tympanizes,V;3;SG;PRS,Regular,0,tympanize0,tympanizes,1,tympanizes,1,Same
-541,541,annihilate,annihilated,V;PST,Irregular,2,annihilate2,annihilated,1,annihilated,1,Same
-542,542,disenvowel,disenvowelled,V;PST,Irregular,2,disenvowel2,disenvowelled,1,disenvowelled,1,Same
-543,543,dross,dross,V;NFIN,Regular,1,dross1,dross,1,dross,1,Same
-544,544,standby,standby,V;NFIN,Regular,1,standby1,standby,1,standby,1,Same
-545,545,recategorize,recategorizing,V;V.PTCP;PRS,Irregular,3,recategorize3,recategorizing,1,recategorizing,1,Same
-546,546,outbutt,outbutted,V;V.PTCP;PST,Regular,4,outbutt4,outbutted,1,outbutted,1,Same
-547,547,unreeve,unreeved,V;PST,Irregular,2,unreeve2,unreeved,1,unreeved,1,Same
-548,548,monopolise,monopolised,V;PST,Irregular,2,monopolise2,monopolised,1,monopolised,1,Same
-549,549,autocatalyze,autocatalyzes,V;3;SG;PRS,Regular,0,autocatalyze0,autocatalyzes,1,autocatalyzes,1,Same
-550,550,fly-tip,fly-tip,V;NFIN,Regular,1,fly-tip1,fly-tip,1,fly-tip,1,Same
-551,551,outprize,outprized,V;PST,Irregular,2,outprize2,outprized,1,outprized,1,Same
-552,552,reisolate,reisolating,V;V.PTCP;PRS,Irregular,3,reisolate3,reisolating,1,reisolating,1,Same
-553,553,bridge,bridged,V;PST,Irregular,2,bridge2,bridged,1,bridged,1,Same
-554,554,unwork,unworks,V;3;SG;PRS,Regular,0,unwork0,unworks,1,unworks,1,Same
-555,555,quay,quays,V;3;SG;PRS,Regular,0,quay0,quays,1,quays,1,Same
-556,556,inchamber,inchambered,V;V.PTCP;PST,Regular,4,inchamber4,inchambered,1,inchambered,1,Same
-557,557,bartend,bartended,V;V.PTCP;PST,Regular,4,bartend4,bartended,1,bartended,1,Same
-558,558,miscome,miscome,V;V.PTCP;PST,Irregular,4,miscome4,miscomed ,0,miscomed ,0,Same
-559,559,swidden,swiddened,V;V.PTCP;PST,Regular,4,swidden4,swiddened,1,swiddened,1,Same
-560,560,insinuate,insinuating,V;V.PTCP;PRS,Irregular,3,insinuate3,insinuating,1,insinuating,1,Same
-561,561,vocode,vocode,V;NFIN,Regular,1,vocode1,vocode,1,vocode,1,Same
-562,562,mew,mews,V;3;SG;PRS,Regular,0,mew0,mews,1,mews,1,Same
-563,563,fire,fire,V;NFIN,Regular,1,fire1,fire,1,fire,1,Same
-564,564,parameterize,parameterized,V;V.PTCP;PST,Irregular,4,parameterize4,parameterized,1,parameterized,1,Same
-565,565,decard,decarding,V;V.PTCP;PRS,Regular,3,decard3,decarding,1,decarding,1,Same
-566,566,chirm,chirm,V;NFIN,Regular,1,chirm1,chirm,1,chirm,1,Same
-567,567,shake,shakes,V;3;SG;PRS,Regular,0,shake0,shakes,1,shakes,1,Same
-568,568,contex,contexing,V;V.PTCP;PRS,Regular,3,contex3,contexing,1,contexing,1,Same
-569,569,attinge,attinged,V;V.PTCP;PST,Irregular,4,attinge4,attinged,1,attinged,1,Same
-570,570,backset,backset,V;PST,Irregular,2,backset2,backsete eeeeeeeeee,0,backsete eeeeeeeeee,0,Same
-571,571,enthuse,enthuses,V;3;SG;PRS,Regular,0,enthuse0,enthuses,1,enthuses,1,Same
-572,572,freeboot,freeboots,V;3;SG;PRS,Regular,0,freeboot0,freeboots,1,freeboots,1,Same
-573,573,capacify,capacify,V;NFIN,Regular,1,capacify1,capacify,1,capacify,1,Same
-574,574,redargue,redargue,V;NFIN,Regular,1,redargue1,redargue,1,redargue,1,Same
-575,575,ditto,dittos,V;3;SG;PRS,Regular,0,ditto0,dittos,1,dittos,1,Same
-576,576,mich,miching,V;V.PTCP;PRS,Regular,3,mich3,miching,1,miching,1,Same
-577,577,strinkle,strinkled,V;PST,Irregular,2,strinkle2,strinkled,1,strinkled,1,Same
-578,578,floodlight,floodlighted,V;PST,Regular,2,floodlight2,floodlighted,1,floodlighted,1,Same
-579,579,dure,dured,V;V.PTCP;PST,Irregular,4,dure4,dured,1,dured,1,Same
-580,580,brandish,brandished,V;V.PTCP;PST,Regular,4,brandish4,brandished,1,brandished,1,Same
-581,581,chastize,chastized,V;PST,Irregular,2,chastize2,chastized,1,chastized,1,Same
-582,582,crossref,crossreffed,V;V.PTCP;PST,Irregular,4,crossref4,crossrefeed,0,crossrefeed,0,Same
-583,583,swamp,swamping,V;V.PTCP;PRS,Regular,3,swamp3,swamping,1,swamping,1,Same
-584,584,embloom,emblooming,V;V.PTCP;PRS,Regular,3,embloom3,emblooming,1,emblooming,1,Same
-585,585,toughen,toughening,V;V.PTCP;PRS,Regular,3,toughen3,toughening,1,toughening,1,Same
-586,586,unown,unowns,V;3;SG;PRS,Regular,0,unown0,unowns,1,unowns,1,Same
-587,587,perendinate,perendinate,V;NFIN,Regular,1,perendinate1,perendinate,1,perendinate,1,Same
-588,588,dedupe,deduping,V;V.PTCP;PRS,Irregular,3,dedupe3,deduping,1,deduping,1,Same
-589,589,pastour,pastoured,V;PST,Regular,2,pastour2,pastoured,1,pastoured,1,Same
-590,590,gash,gashes,V;3;SG;PRS,Irregular,0,gash0,gashes,1,gashes,1,Same
-591,591,outrange,outranges,V;3;SG;PRS,Regular,0,outrange0,outranges,1,outranges,1,Same
-592,592,raspberry,raspberried,V;V.PTCP;PST,Irregular,4,raspberry4,raspberried,1,raspberried,1,Same
-593,593,transfrete,transfreted,V;PST,Irregular,2,transfrete2,transfreted,1,transfreted,1,Same
-594,594,unface,unfacing,V;V.PTCP;PRS,Irregular,3,unface3,unfacing,1,unfacing,1,Same
-595,595,indevour,indevours,V;3;SG;PRS,Regular,0,indevour0,indevours,1,indevours,1,Same
-596,596,cloverleaf,cloverleafs,V;3;SG;PRS,Regular,0,cloverleaf0,cloverleafs,1,cloverleafs,1,Same
-597,597,acronymise,acronymises,V;3;SG;PRS,Regular,0,acronymise0,acronymises,1,acronymises,1,Same
-598,598,ritualize,ritualizing,V;V.PTCP;PRS,Irregular,3,ritualize3,ritualizing,1,ritualizing,1,Same
-599,599,resediment,resedimented,V;V.PTCP;PST,Regular,4,resediment4,resedimented,1,resedimented,1,Same
-600,600,stellify,stellifies,V;3;SG;PRS,Irregular,0,stellify0,stellifies,1,stellifies,1,Same
-601,601,triphthongize,triphthongized,V;PST,Irregular,2,triphthongize2,triphthongized,1,triphthongized,1,Same
-602,602,reblog,reblogs,V;3;SG;PRS,Regular,0,reblog0,reblogs,1,reblogs,1,Same
-603,603,shirt,shirting,V;V.PTCP;PRS,Regular,3,shirt3,shirting,1,shirting,1,Same
-604,604,defecate,defecated,V;V.PTCP;PST,Irregular,4,defecate4,defecated,1,defecated,1,Same
-605,605,whirr,whirring,V;V.PTCP;PRS,Regular,3,whirr3,whirring,1,whirring,1,Same
-606,606,disturn,disturned,V;V.PTCP;PST,Regular,4,disturn4,disturned,1,disturned,1,Same
-607,607,boln,bolns,V;3;SG;PRS,Regular,0,boln0,bolns,1,bolns,1,Same
-608,608,crispen,crispened,V;PST,Regular,2,crispen2,crispened,1,crispened,1,Same
-609,609,gladder,gladder,V;NFIN,Regular,1,gladder1,gladder,1,gladder,1,Same
-610,610,telecopy,telecopied,V;PST,Irregular,2,telecopy2,telecopied,1,telecopied,1,Same
-611,611,advocate,advocate,V;NFIN,Regular,1,advocate1,advocate,1,advocate,1,Same
-612,612,blacken,blackened,V;V.PTCP;PST,Regular,4,blacken4,blackened,1,blackened,1,Same
-613,613,incombine,incombined,V;V.PTCP;PST,Irregular,4,incombine4,incombined,1,incombined,1,Same
-614,614,annunciate,annunciate,V;NFIN,Regular,1,annunciate1,annunciate,1,annunciate,1,Same
-615,615,weight,weighted,V;V.PTCP;PST,Regular,4,weight4,weighted,1,weighted,1,Same
-616,616,anhele,anheled,V;PST,Irregular,2,anhele2,anheled,1,anheled,1,Same
-617,617,bedaggle,bedaggles,V;3;SG;PRS,Regular,0,bedaggle0,bedaggles,1,bedaggles,1,Same
-618,618,jawn,jawn,V;NFIN,Regular,1,jawn1,jawn,1,jawn,1,Same
-619,619,tote,totes,V;3;SG;PRS,Regular,0,tote0,totes,1,totes,1,Same
-620,620,mischristen,mischristening,V;V.PTCP;PRS,Regular,3,mischristen3,mischristening,1,mischristening,1,Same
-621,621,solecize,solecized,V;PST,Irregular,2,solecize2,solecized,1,solecized,1,Same
-622,622,photorelease,photoreleased,V;PST,Irregular,2,photorelease2,photoreleased,1,photoreleased,1,Same
-623,623,ferule,feruled,V;PST,Irregular,2,ferule2,feruled,1,feruled,1,Same
-624,624,unaccept,unaccept,V;NFIN,Regular,1,unaccept1,unaccept,1,unaccept,1,Same
-625,625,frown,frown,V;NFIN,Regular,1,frown1,frown,1,frown,1,Same
-626,626,pinion,pinioned,V;V.PTCP;PST,Regular,4,pinion4,pinioned,1,pinioned,1,Same
-627,627,disflesh,disfleshes,V;3;SG;PRS,Irregular,0,disflesh0,disfleshes,1,disfleshes,1,Same
-628,628,b'lieve,b'lieved,V;V.PTCP;PST,Irregular,4,b'lieve4,b'lieved,1,b'lieved,1,Same
-629,629,phagocytize,phagocytized,V;PST,Irregular,2,phagocytize2,phagocytized,1,phagocytized,1,Same
-630,630,bivy,bivyed,V;PST,Regular,2,bivy2,bivied,0,bivied,0,Same
-631,631,imbrown,imbrowned,V;PST,Regular,2,imbrown2,imbrowned,1,imbrowned,1,Same
-632,632,chuck,chucked,V;V.PTCP;PST,Regular,4,chuck4,chucked,1,chucked,1,Same
-633,633,gainstrive,gainstrove,V;PST,Irregular,2,gainstrive2,gainstrived ,0,gainstrived ,0,Same
-634,634,campus,campusing,V;V.PTCP;PRS,Regular,3,campus3,campusing,1,campusing,1,Same
-635,635,bewhore,bewhored,V;PST,Irregular,2,bewhore2,bewhored,1,bewhored,1,Same
-636,636,fisk,fisking,V;V.PTCP;PRS,Regular,3,fisk3,fisking,1,fisking,1,Same
-637,637,increment,increments,V;3;SG;PRS,Regular,0,increment0,increments,1,increments,1,Same
-638,638,misplan,misplanning,V;V.PTCP;PRS,Irregular,3,misplan3,misplanigng,0,misplanigng,0,Same
-639,639,preoccupate,preoccupated,V;PST,Irregular,2,preoccupate2,preoccupated,1,preoccupated,1,Same
-640,640,whoo,whoo,V;NFIN,Regular,1,whoo1,whoo,1,whoo,1,Same
-641,641,Australianise,Australianising,V;V.PTCP;PRS,Irregular,3,Australianise3,australianising,0,australianising,0,Same
-642,642,validify,validified,V;V.PTCP;PST,Irregular,4,validify4,validified,1,validified,1,Same
-643,643,jip,jipped,V;V.PTCP;PST,Irregular,4,jip4,jipped,1,jipped,1,Same
-644,644,overgeneralize,overgeneralized,V;V.PTCP;PST,Irregular,4,overgeneralize4,overgeneralized,1,overgeneralized,1,Same
-645,645,reinfect,reinfected,V;PST,Regular,2,reinfect2,reinfected,1,reinfected,1,Same
-646,646,interlay,interlaid,V;V.PTCP;PST,Irregular,4,interlay4,interlayd,0,interlaie,0,Not Same
-647,647,adnominalize,adnominalizing,V;V.PTCP;PRS,Irregular,3,adnominalize3,adnominalizing,1,adnominalizing,1,Same
-648,648,unjoint,unjoints,V;3;SG;PRS,Regular,0,unjoint0,unjoints,1,unjoints,1,Same
-649,649,inaugur,inaugured,V;V.PTCP;PST,Regular,4,inaugur4,inaugured,1,inaugured,1,Same
-650,650,reclip,reclip,V;NFIN,Regular,1,reclip1,reclip,1,reclip,1,Same
-651,651,bully,bullied,V;V.PTCP;PST,Irregular,4,bully4,bullied,1,bullied,1,Same
-652,652,dropkick,dropkicked,V;PST,Regular,2,dropkick2,dropkicked,1,dropkicked,1,Same
-653,653,flabergast,flabergasted,V;PST,Regular,2,flabergast2,flabergasted,1,flabergasted,1,Same
-654,654,unchoke,unchoke,V;NFIN,Regular,1,unchoke1,unchoke,1,unchoke,1,Same
-655,655,derogate,derogated,V;V.PTCP;PST,Irregular,4,derogate4,derogated,1,derogated,1,Same
-656,656,resilence,resilence,V;NFIN,Regular,1,resilence1,resilence,1,resilence,1,Same
-657,657,bedaze,bedaze,V;NFIN,Regular,1,bedaze1,bedaze,1,bedaze,1,Same
-658,658,remelt,remelting,V;V.PTCP;PRS,Regular,3,remelt3,remelting,1,remelting,1,Same
-659,659,splatter,splatters,V;3;SG;PRS,Regular,0,splatter0,splatters,1,splatters,1,Same
-660,660,reboiler,reboilers,V;3;SG;PRS,Regular,0,reboiler0,reboilers,1,reboilers,1,Same
-661,661,sally,sally,V;NFIN,Regular,1,sally1,sally,1,sally,1,Same
-662,662,bioconcentrate,bioconcentrated,V;PST,Irregular,2,bioconcentrate2,bioconcentrated,1,bioconcentrated,1,Same
-663,663,unbeast,unbeasts,V;3;SG;PRS,Regular,0,unbeast0,unbeasts,1,unbeasts,1,Same
-664,664,engraft,engrafting,V;V.PTCP;PRS,Regular,3,engraft3,engrafting,1,engrafting,1,Same
-665,665,occlude,occluded,V;V.PTCP;PST,Irregular,4,occlude4,occluded,1,occludede ,0,Not Same
-666,666,yarr,yarring,V;V.PTCP;PRS,Regular,3,yarr3,yarring,1,yarring,1,Same
-667,667,braze,brazing,V;V.PTCP;PRS,Irregular,3,braze3,brazing,1,brazing,1,Same
-668,668,resplend,resplends,V;3;SG;PRS,Regular,0,resplend0,resplends,1,resplends,1,Same
-669,669,preface,prefaced,V;V.PTCP;PST,Irregular,4,preface4,prefaced,1,prefaced,1,Same
-670,670,slighten,slightening,V;V.PTCP;PRS,Regular,3,slighten3,slightening,1,slightening,1,Same
-671,671,mase,mases,V;3;SG;PRS,Regular,0,mase0,mases,1,mases,1,Same
-672,672,overlearn,overlearning,V;V.PTCP;PRS,Regular,3,overlearn3,overlearning,1,overlearning,1,Same
-673,673,initialise,initialises,V;3;SG;PRS,Regular,0,initialise0,initialises,1,initialises,1,Same
-674,674,boulder,boulders,V;3;SG;PRS,Regular,0,boulder0,boulders,1,boulders,1,Same
-675,675,command,command,V;NFIN,Regular,1,command1,command,1,command,1,Same
-676,676,incend,incends,V;3;SG;PRS,Regular,0,incend0,incends,1,incends,1,Same
-677,677,monumentalize,monumentalized,V;PST,Irregular,2,monumentalize2,monumentalized,1,monumentalized,1,Same
-678,678,overjoy,overjoyed,V;V.PTCP;PST,Regular,4,overjoy4,overjoyed,1,overjoied,0,Not Same
-679,679,adeem,adeems,V;3;SG;PRS,Regular,0,adeem0,adeems,1,adeems,1,Same
-680,680,deacetylate,deacetylated,V;PST,Irregular,2,deacetylate2,deacetylated,1,deacetylated,1,Same
-681,681,metricise,metricised,V;V.PTCP;PST,Irregular,4,metricise4,metricised,1,metricised,1,Same
-682,682,haver,havers,V;3;SG;PRS,Regular,0,haver0,havers,1,havers,1,Same
-683,683,usurp,usurps,V;3;SG;PRS,Regular,0,usurp0,usurps,1,usurps,1,Same
-684,684,overweight,overweighted,V;PST,Regular,2,overweight2,overweighted,1,overweighted,1,Same
-685,685,offlead,offleading,V;V.PTCP;PRS,Regular,3,offlead3,offleading,1,offleading,1,Same
-686,686,bread,breaded,V;V.PTCP;PST,Regular,4,bread4,breaded,1,breaded,1,Same
-687,687,bach,baches,V;3;SG;PRS,Irregular,0,bach0,baches,1,baches,1,Same
-688,688,paragon,paragoned,V;V.PTCP;PST,Regular,4,paragon4,paragoned,1,paragoned,1,Same
-689,689,amass,amasses,V;3;SG;PRS,Irregular,0,amass0,amasses,1,amasses,1,Same
-690,690,monotask,monotasked,V;PST,Regular,2,monotask2,monotasked,1,monotasked,1,Same
-691,691,outdare,outdaring,V;V.PTCP;PRS,Irregular,3,outdare3,outdaring,1,outdaring,1,Same
-692,692,structuralise,structuralising,V;V.PTCP;PRS,Irregular,3,structuralise3,structuralising,1,structuralising,1,Same
-693,693,broil,broiled,V;V.PTCP;PST,Regular,4,broil4,broilld,0,broilld,0,Same
-694,694,dastard,dastarded,V;V.PTCP;PST,Regular,4,dastard4,dastarded,1,dastarded,1,Same
-695,695,toenail,toenailed,V;V.PTCP;PST,Regular,4,toenail4,toenailld,0,toenailld,0,Same
-696,696,wrong-foot,wrong-footing,V;V.PTCP;PRS,Regular,3,wrong-foot3,wrong-footing,1,wrong-footing,1,Same
-697,697,reactivate,reactivating,V;V.PTCP;PRS,Irregular,3,reactivate3,reactivating,1,reactivating,1,Same
-698,698,unshape,unshope,V;PST,Irregular,2,unshape2,unshaped ,0,unshaped ,0,Same
-699,699,gush,gushes,V;3;SG;PRS,Irregular,0,gush0,gushes,1,gushes,1,Same
-700,700,surround,surrounded,V;PST,Regular,2,surround2,surrounded,1,surrounded,1,Same
-701,701,consociate,consociate,V;NFIN,Regular,1,consociate1,consociate,1,consociate,1,Same
-702,702,Zuluize,Zuluized,V;V.PTCP;PST,Irregular,4,Zuluize4,zuluizen,0,zuluized,0,Not Same
-703,703,negroize,negroizes,V;3;SG;PRS,Regular,0,negroize0,negroizes,1,negroizes,1,Same
-704,704,warranty,warranties,V;3;SG;PRS,Irregular,0,warranty0,warranties,1,warranties,1,Same
-705,705,compt,compts,V;3;SG;PRS,Regular,0,compt0,compts,1,compts,1,Same
-706,706,reverse-pickpocket,reverse-pickpocket,V;NFIN,Regular,1,reverse-pickpocket1,reverse-pickpocket,1,reverse-pickpocoice ,0,Not Same
-707,707,arear,arears,V;3;SG;PRS,Regular,0,arear0,arears,1,arears,1,Same
-708,708,outworth,outworths,V;3;SG;PRS,Regular,0,outworth0,outworthe,0,outworthe,0,Same
-709,709,task,tasking,V;V.PTCP;PRS,Regular,3,task3,tasking,1,tasking,1,Same
-710,710,dodder,dodders,V;3;SG;PRS,Regular,0,dodder0,dodders,1,dodders,1,Same
-711,711,lant,lanted,V;PST,Regular,2,lant2,lanted,1,lanted,1,Same
-712,712,overcanopy,overcanopy,V;NFIN,Regular,1,overcanopy1,overcanopy,1,overcanopy,1,Same
-713,713,interrelate,interrelate,V;NFIN,Regular,1,interrelate1,interrelate,1,interrelate,1,Same
-714,714,shmooze,shmoozing,V;V.PTCP;PRS,Irregular,3,shmooze3,shmoozing,1,shmoozing,1,Same
-715,715,germinate,germinating,V;V.PTCP;PRS,Irregular,3,germinate3,germinating,1,germinating,1,Same
-716,716,beblur,beblurs,V;3;SG;PRS,Regular,0,beblur0,beblurs,1,beblurs,1,Same
-717,717,atseek,atseek,V;NFIN,Regular,1,atseek1,atseek,1,atseek,1,Same
-718,718,provocate,provocating,V;V.PTCP;PRS,Irregular,3,provocate3,provocating,1,provocating,1,Same
-719,719,atsake,atsake,V;NFIN,Regular,1,atsake1,atsake,1,atsake,1,Same
-720,720,squeeze,squeezed,V;V.PTCP;PST,Irregular,4,squeeze4,squeezed,1,squeezed,1,Same
-721,721,desocialise,desocialises,V;3;SG;PRS,Regular,0,desocialise0,desocialises,1,desocialises,1,Same
-722,722,nymshift,nymshifted,V;V.PTCP;PST,Regular,4,nymshift4,nymshifted,1,nymshifted,1,Same
-723,723,facilize,facilized,V;PST,Irregular,2,facilize2,facilized,1,facilized,1,Same
-724,724,avert,averted,V;V.PTCP;PST,Regular,4,avert4,averted,1,averted,1,Same
-725,725,plip,plips,V;3;SG;PRS,Regular,0,plip0,plips,1,plips,1,Same
-726,726,beast,beasting,V;V.PTCP;PRS,Regular,3,beast3,beasting,1,beasting,1,Same
-727,727,flood,floods,V;3;SG;PRS,Regular,0,flood0,floods,1,floods,1,Same
-728,728,oversail,oversails,V;3;SG;PRS,Regular,0,oversail0,oversails,1,oversails,1,Same
-729,729,imposthumate,imposthumated,V;PST,Irregular,2,imposthumate2,imposthumated,1,imposthumated,1,Same
-730,730,sley,sleying,V;V.PTCP;PRS,Regular,3,sley3,sleying,1,sleying,1,Same
-731,731,unflatten,unflattened,V;PST,Regular,2,unflatten2,unflattened,1,unflattened,1,Same
-732,732,coiffure,coiffure,V;NFIN,Regular,1,coiffure1,coiffure,1,coiffure,1,Same
-733,733,uphilt,uphilted,V;V.PTCP;PST,Regular,4,uphilt4,uphilted,1,uphilted,1,Same
-734,734,clabber,clabbering,V;V.PTCP;PRS,Regular,3,clabber3,clabbering,1,clabbering,1,Same
-735,735,outwear,outworn,V;V.PTCP;PST,Irregular,4,outwear4,outweke,0,outwearg eeeeeeeeee,0,Not Same
-736,736,spawn,spawns,V;3;SG;PRS,Regular,0,spawn0,spawns,1,spawns,1,Same
-737,737,accentuate,accentuated,V;V.PTCP;PST,Irregular,4,accentuate4,accentuated,1,accentuated,1,Same
-738,738,gasconade,gasconading,V;V.PTCP;PRS,Irregular,3,gasconade3,gasconading,1,gasconading,1,Same
-739,739,reprize,reprized,V;PST,Irregular,2,reprize2,reprized,1,reprized,1,Same
-740,740,accriminate,accriminated,V;PST,Irregular,2,accriminate2,accriminated,1,accriminated,1,Same
-741,741,appliqué,appliqué,V;NFIN,Regular,1,appliqué1,appliquUNK,0,appliquUNK,0,Same
-742,742,dulcify,dulcifying,V;V.PTCP;PRS,Regular,3,dulcify3,dulcifying,1,dulcifying,1,Same
-743,743,reirrigate,reirrigates,V;3;SG;PRS,Regular,0,reirrigate0,reirrigates,1,reirrigates,1,Same
-744,744,forhew,forhewing,V;V.PTCP;PRS,Regular,3,forhew3,forhewing,1,forhewing,1,Same
-745,745,Catalanize,Catalanizes,V;3;SG;PRS,Regular,0,Catalanize0,catalanizes,0,catalanizes,0,Same
-746,746,bebang,bebanged,V;PST,Regular,2,bebang2,bebanged,1,bebanged,1,Same
-747,747,scunge,scunge,V;NFIN,Regular,1,scunge1,scunge,1,scunge,1,Same
-748,748,imprecate,imprecating,V;V.PTCP;PRS,Irregular,3,imprecate3,imprecating,1,imprecating,1,Same
-749,749,cathect,cathected,V;PST,Regular,2,cathect2,cathected,1,cathected,1,Same
-750,750,flesh,flesh,V;NFIN,Regular,1,flesh1,flesh,1,flesh,1,Same
-751,751,gowl,gowling,V;V.PTCP;PRS,Regular,3,gowl3,gowling,1,gowling,1,Same
-752,752,bleg,bleg,V;NFIN,Regular,1,bleg1,bleg,1,bleg,1,Same
-753,753,attorn,attorning,V;V.PTCP;PRS,Regular,3,attorn3,attorning,1,attorning,1,Same
-754,754,dedisperse,dedispersed,V;PST,Irregular,2,dedisperse2,dedispersed,1,dedispersed,1,Same
-755,755,coaptate,coaptating,V;V.PTCP;PRS,Irregular,3,coaptate3,coaptating,1,coaptating,1,Same
-756,756,ink,inks,V;3;SG;PRS,Regular,0,ink0,inks,1,inks,1,Same
-757,757,coteach,coteaches,V;3;SG;PRS,Irregular,0,coteach0,coteaches,1,coteaches,1,Same
-758,758,lapidate,lapidated,V;PST,Irregular,2,lapidate2,lapidated,1,lapidated,1,Same
-759,759,caparison,caparisoned,V;PST,Regular,2,caparison2,caparisoned,1,caparisoned,1,Same
-760,760,predesignate,predesignating,V;V.PTCP;PRS,Irregular,3,predesignate3,predesignating,1,predesignating,1,Same
-761,761,temper,tempering,V;V.PTCP;PRS,Regular,3,temper3,tempering,1,tempering,1,Same
-762,762,inheart,inhearts,V;3;SG;PRS,Regular,0,inheart0,inhearts,1,inhearts,1,Same
-763,763,tip,tip,V;NFIN,Regular,1,tip1,tip,1,tip,1,Same
-764,764,vow,vowed,V;V.PTCP;PST,Regular,4,vow4,vownd,0,vowed,1,Not Same
-765,765,classify,classified,V;PST,Irregular,2,classify2,classified,1,classified,1,Same
-766,766,remand,remanded,V;PST,Regular,2,remand2,remanded,1,remanded,1,Same
-767,767,oversaturate,oversaturated,V;V.PTCP;PST,Irregular,4,oversaturate4,oversaturated,1,oversaturated,1,Same
-768,768,devirginate,devirginate,V;NFIN,Regular,1,devirginate1,devirginate,1,devirginate,1,Same
-769,769,disfurnish,disfurnished,V;PST,Regular,2,disfurnish2,disfurnished,1,disfurnished,1,Same
-770,770,decay,decay,V;NFIN,Regular,1,decay1,decay,1,decay,1,Same
-771,771,nosedive,nosedives,V;3;SG;PRS,Regular,0,nosedive0,nosedives,1,nosedives,1,Same
-772,772,sportfish,sportfish,V;NFIN,Regular,1,sportfish1,sportfish,1,sportfish,1,Same
-773,773,desulfurize,desulfurized,V;PST,Irregular,2,desulfurize2,desulfurized,1,desulfurized,1,Same
-774,774,modelize,modelizes,V;3;SG;PRS,Regular,0,modelize0,modelizes,1,modelizes,1,Same
-775,775,outwell,outwelling,V;V.PTCP;PRS,Regular,3,outwell3,outwelling,1,outwelling,1,Same
-776,776,tempre,tempred,V;V.PTCP;PST,Irregular,4,tempre4,tempred,1,tempred,1,Same
-777,777,uplock,uplocked,V;PST,Regular,2,uplock2,uplocked,1,uplocked,1,Same
-778,778,mistranslate,mistranslates,V;3;SG;PRS,Regular,0,mistranslate0,mistranslates,1,mistranslates,1,Same
-779,779,autofit,autofitting,V;V.PTCP;PRS,Irregular,3,autofit3,autofitiing,0,autofitiing,0,Same
-780,780,antioxidise,antioxidising,V;V.PTCP;PRS,Irregular,3,antioxidise3,antioxidising,1,antioxidising,1,Same
-781,781,parascend,parascends,V;3;SG;PRS,Regular,0,parascend0,parascends,1,parascends,1,Same
-782,782,dawdle,dawdled,V;V.PTCP;PST,Irregular,4,dawdle4,dawdled,1,dawdled,1,Same
-783,783,defalk,defalked,V;PST,Regular,2,defalk2,defalked,1,defalked,1,Same
-784,784,droop,drooped,V;PST,Regular,2,droop2,drooped,1,drooped,1,Same
-785,785,rind,rinding,V;V.PTCP;PRS,Regular,3,rind3,rinding,1,rinding,1,Same
-786,786,reerect,reerect,V;NFIN,Regular,1,reerect1,reerect,1,reerect,1,Same
-787,787,dis,disses,V;3;SG;PRS,Irregular,0,dis0,dise,0,dise,0,Same
-788,788,author,authored,V;PST,Regular,2,author2,authored,1,authored,1,Same
-789,789,prepend,prepending,V;V.PTCP;PRS,Regular,3,prepend3,prepending,1,prepending,1,Same
-790,790,birr,birred,V;PST,Regular,2,birr2,birred,1,birred,1,Same
-791,791,atter,atters,V;3;SG;PRS,Regular,0,atter0,atters,1,atters,1,Same
-792,792,repair,repaired,V;V.PTCP;PST,Regular,4,repair4,repaired,1,repaired,1,Same
-793,793,elicit,elicited,V;PST,Regular,2,elicit2,elicited,1,elicited,1,Same
-794,794,chevy,chevying,V;V.PTCP;PRS,Regular,3,chevy3,chevying,1,chevying,1,Same
-795,795,incubate,incubate,V;NFIN,Regular,1,incubate1,incubate,1,incubate,1,Same
-796,796,coarsen,coarsen,V;NFIN,Regular,1,coarsen1,coarsen,1,coarsen,1,Same
-797,797,separate,separating,V;V.PTCP;PRS,Irregular,3,separate3,separating,1,separating,1,Same
-798,798,creampie,creampies,V;3;SG;PRS,Regular,0,creampie0,creampies,1,creampies,1,Same
-799,799,gamahuche,gamahuched,V;V.PTCP;PST,Irregular,4,gamahuche4,gamahuched,1,gamahuched,1,Same
-800,800,handpick,handpicking,V;V.PTCP;PRS,Regular,3,handpick3,handpicking,1,handpicking,1,Same
-801,801,bedrift,bedrift,V;NFIN,Regular,1,bedrift1,bedrift,1,bedrift,1,Same
-802,802,unnail,unnails,V;3;SG;PRS,Regular,0,unnail0,unnails,1,unnails,1,Same
-803,803,gill,gills,V;3;SG;PRS,Regular,0,gill0,gills,1,gills,1,Same
-804,804,counter,countered,V;V.PTCP;PST,Regular,4,counter4,countered,1,countered,1,Same
-805,805,outpoise,outpoising,V;V.PTCP;PRS,Irregular,3,outpoise3,outpoising,1,outpoising,1,Same
-806,806,obsess,obsesses,V;3;SG;PRS,Irregular,0,obsess0,obsesses,1,obsesses,1,Same
-807,807,manse,mansed,V;PST,Irregular,2,manse2,mansed,1,mansed,1,Same
-808,808,unhat,unhatted,V;PST,Irregular,2,unhat2,unhateed,0,unhateed,0,Same
-809,809,bego,bego,V;NFIN,Regular,1,bego1,bego,1,bego,1,Same
-810,810,beclout,beclout,V;NFIN,Regular,1,beclout1,beclout,1,beclout,1,Same
-811,811,besom,besom,V;NFIN,Regular,1,besom1,besom,1,besom,1,Same
-812,812,left-click,left-clicks,V;3;SG;PRS,Regular,0,left-click0,left-clicks,1,left-clicks,1,Same
-813,813,reaffiliate,reaffiliated,V;PST,Irregular,2,reaffiliate2,reaffiliated,1,reaffiliated,1,Same
-814,814,outflank,outflanking,V;V.PTCP;PRS,Regular,3,outflank3,outflanking,1,outflanking,1,Same
-815,815,conduce,conduced,V;PST,Irregular,2,conduce2,conduced,1,conduced,1,Same
-816,816,contextualise,contextualised,V;V.PTCP;PST,Irregular,4,contextualise4,contextualised,1,contextualised,1,Same
-817,817,knot,knotting,V;V.PTCP;PRS,Irregular,3,knot3,knotiing,0,knotiing,0,Same
-818,818,slake,slaked,V;PST,Irregular,2,slake2,slaked,1,slaked,1,Same
-819,819,unsecret,unsecret,V;NFIN,Regular,1,unsecret1,unsecret,1,unsecret,1,Same
-820,820,anæsthetize,anæsthetized,V;V.PTCP;PST,Irregular,4,anæsthetize4,anUNKsthetized,0,anUNKsthetized,0,Same
-821,821,redeclare,redeclare,V;NFIN,Regular,1,redeclare1,redeclare,1,redeclare,1,Same
-822,822,beknave,beknaved,V;V.PTCP;PST,Irregular,4,beknave4,beknaved,1,beknaved,1,Same
-823,823,uncoach,uncoached,V;PST,Regular,2,uncoach2,uncoached,1,uncoached,1,Same
-824,824,disenter,disenterred,V;V.PTCP;PST,Irregular,4,disenter4,disentereed,0,disentereed,0,Same
-825,825,ensober,ensobering,V;V.PTCP;PRS,Regular,3,ensober3,ensobering,1,ensobering,1,Same
-826,826,darraign,darraigned,V;PST,Regular,2,darraign2,darraigned,1,darraigned,1,Same
-827,827,rasterize,rasterize,V;NFIN,Regular,1,rasterize1,rasterize,1,rasterize,1,Same
-828,828,shape,shapen,V;V.PTCP;PST,Irregular,4,shape4,shaped,0,shaped,0,Same
-829,829,paginate,paginating,V;V.PTCP;PRS,Irregular,3,paginate3,paginating,1,paginating,1,Same
-830,830,artificialize,artificialize,V;NFIN,Regular,1,artificialize1,artificialize,1,artificialize,1,Same
-831,831,fourpeat,fourpeat,V;NFIN,Regular,1,fourpeat1,fourpeat,1,fourpeat,1,Same
-832,832,salvage,salvage,V;NFIN,Regular,1,salvage1,salvage,1,salvage,1,Same
-833,833,unfill,unfill,V;NFIN,Regular,1,unfill1,unfill,1,unfill,1,Same
-834,834,deface,defaces,V;3;SG;PRS,Regular,0,deface0,defaces,1,defaces,1,Same
-835,835,opt,opted,V;PST,Regular,2,opt2,opt,0,opt,0,Same
-836,836,grout,grouted,V;PST,Regular,2,grout2,grouted,1,grouted,1,Same
-837,837,forwean,forweaned,V;PST,Regular,2,forwean2,forweaned,1,forweaned,1,Same
-838,838,indigenize,indigenizing,V;V.PTCP;PRS,Irregular,3,indigenize3,indigenizing,1,indigenizing,1,Same
-839,839,devilize,devilized,V;PST,Irregular,2,devilize2,devilized,1,devilized,1,Same
-840,840,goose-step,goose-steps,V;3;SG;PRS,Regular,0,goose-step0,goose-steps,1,goose-steps,1,Same
-841,841,sympathise,sympathised,V;V.PTCP;PST,Irregular,4,sympathise4,sympathised,1,sympathised,1,Same
-842,842,sniggle,sniggles,V;3;SG;PRS,Regular,0,sniggle0,sniggles,1,sniggles,1,Same
-843,843,antevolate,antevolate,V;NFIN,Regular,1,antevolate1,antevolate,1,antevolate,1,Same
-844,844,decontaminate,decontaminated,V;PST,Irregular,2,decontaminate2,decontaminated,1,decontaminated,1,Same
-845,845,cosign,cosigning,V;V.PTCP;PRS,Regular,3,cosign3,cosigning,1,cosigning,1,Same
-846,846,renovel,renovelled,V;V.PTCP;PST,Irregular,4,renovel4,renovellen,0,renovellld,0,Not Same
-847,847,trampoose,trampoose,V;NFIN,Regular,1,trampoose1,trampoose,1,trampoose,1,Same
-848,848,relace,relaced,V;V.PTCP;PST,Irregular,4,relace4,relaced,1,relaced,1,Same
-849,849,unpaganize,unpaganizing,V;V.PTCP;PRS,Irregular,3,unpaganize3,unpaganizing,1,unpaganizing,1,Same
-850,850,forjudge,forjudging,V;V.PTCP;PRS,Irregular,3,forjudge3,forjudging,1,forjudging,1,Same
-851,851,rejumble,rejumbled,V;PST,Irregular,2,rejumble2,rejumbled,1,rejumbled,1,Same
-852,852,excruciate,excruciated,V;PST,Irregular,2,excruciate2,excruciated,1,excruciated,1,Same
-853,853,sissy,sissy,V;NFIN,Regular,1,sissy1,sissy,1,sissy,1,Same
-854,854,collogue,collogues,V;3;SG;PRS,Regular,0,collogue0,collogues,1,collogues,1,Same
-855,855,betoss,betossed,V;PST,Regular,2,betoss2,betossed,1,betossed,1,Same
-856,856,kleptoparasite,kleptoparasited,V;V.PTCP;PST,Irregular,4,kleptoparasite4,kleptoparasited,1,kleptoparasited,1,Same
-857,857,fingerpick,fingerpicked,V;PST,Regular,2,fingerpick2,fingerpicked,1,fingerpicked,1,Same
-858,858,recouple,recoupled,V;V.PTCP;PST,Irregular,4,recouple4,recoupled,1,recoupled,1,Same
-859,859,bottle,bottling,V;V.PTCP;PRS,Irregular,3,bottle3,bottling,1,bottling,1,Same
-860,860,photoisomerize,photoisomerize,V;NFIN,Regular,1,photoisomerize1,photoisomerize,1,photoisomerize,1,Same
-861,861,misdescribe,misdescribe,V;NFIN,Regular,1,misdescribe1,misdescribe,1,misdescribe,1,Same
-862,862,thermoform,thermoforms,V;3;SG;PRS,Regular,0,thermoform0,thermoforms,1,thermoforms,1,Same
-863,863,delabialize,delabialized,V;V.PTCP;PST,Irregular,4,delabialize4,delabialized,1,delabialized,1,Same
-864,864,pooh,poohs,V;3;SG;PRS,Regular,0,pooh0,poohe,0,poohe,0,Same
-865,865,diffuse,diffused,V;PST,Irregular,2,diffuse2,diffused,1,diffused,1,Same
-866,866,revictual,revictualled,V;PST,Irregular,2,revictual2,revictualeed,0,revictualeed,0,Same
-867,867,wirble,wirbled,V;V.PTCP;PST,Irregular,4,wirble4,wirbled,1,wirbled,1,Same
-868,868,offcast,offcast,V;NFIN,Regular,1,offcast1,offcast,1,offcast,1,Same
-869,869,assfuck,assfuck,V;NFIN,Regular,1,assfuck1,assfuck,1,assfuck,1,Same
-870,870,fibrillate,fibrillate,V;NFIN,Regular,1,fibrillate1,fibrillate,1,fibrillate,1,Same
-871,871,retrodisplace,retrodisplaced,V;V.PTCP;PST,Irregular,4,retrodisplace4,retrodisplaced,1,retrodisplaced,1,Same
-872,872,corrugate,corrugated,V;V.PTCP;PST,Irregular,4,corrugate4,corrugated,1,corrugated,1,Same
-873,873,ransack,ransacked,V;PST,Regular,2,ransack2,ransacked,1,ransacked,1,Same
-874,874,fat-finger,fat-fingered,V;PST,Regular,2,fat-finger2,fat-fingered,1,fat-fingered,1,Same
-875,875,ordinate,ordinates,V;3;SG;PRS,Regular,0,ordinate0,ordinates,1,ordinates,1,Same
-876,876,manhandle,manhandling,V;V.PTCP;PRS,Irregular,3,manhandle3,manhandling,1,manhandling,1,Same
-877,877,prowl,prowls,V;3;SG;PRS,Regular,0,prowl0,prowls,1,prowls,1,Same
-878,878,educate,educates,V;3;SG;PRS,Regular,0,educate0,educates,1,educates,1,Same
-879,879,recommend,recommended,V;PST,Regular,2,recommend2,recommended,1,recommended,1,Same
-880,880,cannonade,cannonading,V;V.PTCP;PRS,Irregular,3,cannonade3,cannonading,1,cannonading,1,Same
-881,881,affix,affixed,V;V.PTCP;PST,Regular,4,affix4,affixed,1,affixed,1,Same
-882,882,repower,repower,V;NFIN,Regular,1,repower1,repower,1,repower,1,Same
-883,883,bow,bowing,V;V.PTCP;PRS,Regular,3,bow3,bowing,1,bowing,1,Same
-884,884,dree,dreeing,V;V.PTCP;PRS,Regular,3,dree3,drieing,0,drieing,0,Same
-885,885,swash,swashed,V;PST,Regular,2,swash2,swashed,1,swashed,1,Same
-886,886,priss,prisss,V;3;SG;PRS,Regular,0,priss0,prisse,0,prisse,0,Same
-887,887,bewaste,bewasting,V;V.PTCP;PRS,Irregular,3,bewaste3,bewasting,1,bewasting,1,Same
-888,888,backfoot,backfoot,V;NFIN,Regular,1,backfoot1,backfoot,1,backfoot,1,Same
-889,889,airt,airted,V;PST,Regular,2,airt2,airted,1,airted,1,Same
-890,890,uncredit,uncredited,V;PST,Regular,2,uncredit2,uncredited,1,uncredited,1,Same
-891,891,heapsort,heapsorted,V;PST,Regular,2,heapsort2,heapsorted,1,heapsorted,1,Same
-892,892,overpursue,overpursue,V;NFIN,Regular,1,overpursue1,overpursue,1,overpursue,1,Same
-893,893,actuate,actuates,V;3;SG;PRS,Regular,0,actuate0,actuates,1,actuates,1,Same
-894,894,clank,clanked,V;PST,Regular,2,clank2,clanked,1,clanked,1,Same
-895,895,regather,regathers,V;3;SG;PRS,Regular,0,regather0,regathers,1,regathers,1,Same
-896,896,retexturize,retexturizes,V;3;SG;PRS,Regular,0,retexturize0,retexturizes,1,retexturizes,1,Same
-897,897,discard,discarding,V;V.PTCP;PRS,Regular,3,discard3,discarding,1,discarding,1,Same
-898,898,masculate,masculated,V;PST,Irregular,2,masculate2,masculated,1,masculated,1,Same
-899,899,deduct,deducts,V;3;SG;PRS,Regular,0,deduct0,deducts,1,deducts,1,Same
-900,900,outclimb,outclimbed,V;V.PTCP;PST,Regular,4,outclimb4,outclimbed,1,outclimbed,1,Same
-901,901,overbake,overbaked,V;PST,Irregular,2,overbake2,overbaked,1,overbaked,1,Same
-902,902,reflate,reflated,V;V.PTCP;PST,Irregular,4,reflate4,reflated,1,reflated,1,Same
-903,903,reamend,reamended,V;PST,Regular,2,reamend2,reamended,1,reamended,1,Same
-904,904,offsplit,offsplit,V;PST,Irregular,2,offsplit2,offsplit,1,offsplit,1,Same
-905,905,outcaste,outcastes,V;3;SG;PRS,Regular,0,outcaste0,outcastes,1,outcastes,1,Same
-906,906,marble,marbles,V;3;SG;PRS,Regular,0,marble0,marbles,1,marbles,1,Same
-907,907,vaticinate,vaticinate,V;NFIN,Regular,1,vaticinate1,vaticinate,1,vaticinate,1,Same
-908,908,unharness,unharnessed,V;PST,Regular,2,unharness2,unharnessed,1,unharnessed,1,Same
-909,909,casevac,casevacked,V;PST,Irregular,2,casevac2,casevacked,1,casevacked,1,Same
-910,910,bespit,bespits,V;3;SG;PRS,Regular,0,bespit0,bespits,1,bespits,1,Same
-911,911,demutualize,demutualized,V;PST,Irregular,2,demutualize2,demutualized,1,demutualized,1,Same
-912,912,rafter,raftered,V;V.PTCP;PST,Regular,4,rafter4,raftered,1,raftered,1,Same
-913,913,attaminate,attaminated,V;V.PTCP;PST,Irregular,4,attaminate4,attaminated,1,attaminated,1,Same
-914,914,pulverate,pulverated,V;PST,Irregular,2,pulverate2,pulverated,1,pulverated,1,Same
-915,915,skilder,skildered,V;PST,Regular,2,skilder2,skildered,1,skildered,1,Same
-916,916,laudanum,laudanum,V;NFIN,Regular,1,laudanum1,laudanum,1,laudanum,1,Same
-917,917,dick,dick,V;NFIN,Regular,1,dick1,dick,1,dick,1,Same
-918,918,flote,flotes,V;3;SG;PRS,Regular,0,flote0,flotes,1,flotes,1,Same
-919,919,emasculate,emasculated,V;V.PTCP;PST,Irregular,4,emasculate4,emasculated,1,emasculated,1,Same
-920,920,snook,snooked,V;PST,Regular,2,snook2,snooked,1,snooked,1,Same
-921,921,recondition,reconditioning,V;V.PTCP;PRS,Regular,3,recondition3,reconditioning,1,reconditioning,1,Same
-922,922,club,clubbing,V;V.PTCP;PRS,Irregular,3,club3,clubiing,0,clubiing,0,Same
-923,923,enbliss,enbliss,V;NFIN,Regular,1,enbliss1,enbliss,1,enbliss,1,Same
-924,924,recompact,recompacting,V;V.PTCP;PRS,Regular,3,recompact3,recompacting,1,recompacting,1,Same
-925,925,decide,deciding,V;V.PTCP;PRS,Irregular,3,decide3,deciding,1,deciding,1,Same
-926,926,spurt,spurted,V;PST,Regular,2,spurt2,spurted,1,spurted,1,Same
-927,927,gather,gather,V;NFIN,Regular,1,gather1,gather,1,gather,1,Same
-928,928,ochre,ochred,V;PST,Irregular,2,ochre2,ochred,1,ochred,1,Same
-929,929,underrepresent,underrepresents,V;3;SG;PRS,Regular,0,underrepresent0,underrepresents,1,underrepresents,1,Same
-930,930,girth,girth,V;NFIN,Regular,1,girth1,girth,1,girth,1,Same
-931,931,impignorate,impignorating,V;V.PTCP;PRS,Irregular,3,impignorate3,impignorating,1,impignorating,1,Same
-932,932,thematize,thematized,V;V.PTCP;PST,Irregular,4,thematize4,thematized,1,thematized,1,Same
-933,933,wuther,wuther,V;NFIN,Regular,1,wuther1,wuther,1,wuther,1,Same
-934,934,systemize,systemizing,V;V.PTCP;PRS,Irregular,3,systemize3,systemizing,1,systemizing,1,Same
-935,935,cumber,cumbered,V;PST,Regular,2,cumber2,cumbered,1,cumbered,1,Same
-936,936,wray,wrayed,V;V.PTCP;PST,Regular,4,wray4,wrayed,1,wrayed,1,Same
-937,937,fike,fikes,V;3;SG;PRS,Regular,0,fike0,fikes,1,fikes,1,Same
-938,938,jihadize,jihadizes,V;3;SG;PRS,Regular,0,jihadize0,jihadizes,1,jihadizes,1,Same
-939,939,mountebank,mountebanked,V;V.PTCP;PST,Regular,4,mountebank4,mountebanked,1,mountebanked,1,Same
-940,940,spiff,spiffing,V;V.PTCP;PRS,Regular,3,spiff3,spiffing,1,spiffing,1,Same
-941,941,dun,dunned,V;PST,Irregular,2,dun2,dunned,1,dunned,1,Same
-942,942,hotlist,hotlisted,V;PST,Regular,2,hotlist2,hotlisted,1,hotlisted,1,Same
-943,943,dryclean,drycleaned,V;PST,Regular,2,dryclean2,drycleaned,1,drycleaned,1,Same
-944,944,plough,ploughed,V;V.PTCP;PST,Regular,4,plough4,ploughed,1,ploughed,1,Same
-945,945,interpenetrate,interpenetrated,V;V.PTCP;PST,Irregular,4,interpenetrate4,interpenetrated,1,interpenetrated,1,Same
-946,946,overperform,overperforming,V;V.PTCP;PRS,Regular,3,overperform3,overperforming,1,overperforming,1,Same
-947,947,emblazon,emblazons,V;3;SG;PRS,Regular,0,emblazon0,emblazons,1,emblazons,1,Same
-948,948,subitise,subitised,V;PST,Irregular,2,subitise2,subitised,1,subitised,1,Same
-949,949,pipette,pipettes,V;3;SG;PRS,Regular,0,pipette0,pipettes,1,pipettes,1,Same
-950,950,enjoy,enjoys,V;3;SG;PRS,Regular,0,enjoy0,enjoys,1,enjoys,1,Same
-951,951,eventerate,eventerate,V;NFIN,Regular,1,eventerate1,eventerate,1,eventerate,1,Same
-952,952,co-chair,co-chairing,V;V.PTCP;PRS,Regular,3,co-chair3,co-chairing,1,co-chairing,1,Same
-953,953,cameo,cameoed,V;PST,Regular,2,cameo2,cameoed,1,cameoed,1,Same
-954,954,emprove,emproved,V;PST,Irregular,2,emprove2,emproved,1,emproved,1,Same
-955,955,compile,compiles,V;3;SG;PRS,Regular,0,compile0,compiles,1,compiles,1,Same
-956,956,letheonize,letheonize,V;NFIN,Regular,1,letheonize1,letheonize,1,letheonize,1,Same
-957,957,overstep,oversteps,V;3;SG;PRS,Regular,0,overstep0,oversteps,1,oversteps,1,Same
-958,958,remonetise,remonetise,V;NFIN,Regular,1,remonetise1,remonetise,1,remonetise,1,Same
-959,959,delabialize,delabializing,V;V.PTCP;PRS,Irregular,3,delabialize3,delabializing,1,delabializing,1,Same
-960,960,texture,textured,V;PST,Irregular,2,texture2,textured,1,textured,1,Same
-961,961,belave,belaves,V;3;SG;PRS,Regular,0,belave0,belaves,1,belaves,1,Same
-962,962,wee,weed,V;V.PTCP;PST,Irregular,4,wee4,weed,1,weed,1,Same
-963,963,ravel,ravelled,V;PST,Irregular,2,ravel2,ravelled,1,ravelled,1,Same
-964,964,marmalize,marmalizing,V;V.PTCP;PRS,Irregular,3,marmalize3,marmalizing,1,marmalizing,1,Same
-965,965,rat-race,rat-raced,V;PST,Irregular,2,rat-race2,rat-raced,1,rat-raced,1,Same
-966,966,garrote,garrotting,V;V.PTCP;PRS,Irregular,3,garrote3,garrotiing,0,garrotiing,0,Same
-967,967,disaffirm,disaffirmed,V;PST,Regular,2,disaffirm2,disaffirmed,1,disaffirmed,1,Same
-968,968,transvest,transvests,V;3;SG;PRS,Regular,0,transvest0,transvests,1,transvests,1,Same
-969,969,cameltoe,cameltoed,V;PST,Irregular,2,cameltoe2,cameltoed,1,cameltoed,1,Same
-970,970,folk-etymologize,folk-etymologizing,V;V.PTCP;PRS,Irregular,3,folk-etymologize3,folk-etymologizing,1,folk-etymologizing,1,Same
-971,971,noseprint,noseprints,V;3;SG;PRS,Regular,0,noseprint0,noseprints,1,noseprints,1,Same
-972,972,corrade,corraded,V;V.PTCP;PST,Irregular,4,corrade4,corraded,1,corradede ,0,Not Same
-973,973,unbandage,unbandaged,V;V.PTCP;PST,Irregular,4,unbandage4,unbandaged,1,unbandaged,1,Same
-974,974,overmaster,overmaster,V;NFIN,Regular,1,overmaster1,overmaster,1,overmaster,1,Same
-975,975,decline,declining,V;V.PTCP;PRS,Irregular,3,decline3,declining,1,declining,1,Same
-976,976,refel,refelling,V;V.PTCP;PRS,Irregular,3,refel3,refeliing,0,refeliing,0,Same
-977,977,blister,blistered,V;PST,Regular,2,blister2,blistered,1,blistered,1,Same
-978,978,tea-bag,tea-bagging,V;V.PTCP;PRS,Irregular,3,tea-bag3,tea-bagi,0,tea-bagi,0,Same
-979,979,crowdsource,crowdsourced,V;V.PTCP;PST,Irregular,4,crowdsource4,crowdsourced,1,crowdsourced,1,Same
-980,980,ush,ushes,V;3;SG;PRS,Irregular,0,ush0,ushes,1,ushes,1,Same
-981,981,vilipend,vilipended,V;V.PTCP;PST,Regular,4,vilipend4,vilipended,1,vilipended,1,Same
-982,982,twattle,twattle,V;NFIN,Regular,1,twattle1,twattle,1,twattle,1,Same
-983,983,kaw,kawed,V;V.PTCP;PST,Regular,4,kaw4,kawnd,0,kawed,1,Not Same
-984,984,wetnurse,wetnurse,V;NFIN,Regular,1,wetnurse1,wetnurse,1,wetnurse,1,Same
-985,985,drinkle,drinkle,V;NFIN,Regular,1,drinkle1,drinkle,1,drinkle,1,Same
-986,986,misstructure,misstructured,V;V.PTCP;PST,Irregular,4,misstructure4,misstructured,1,misstructured,1,Same
-987,987,evitate,evitating,V;V.PTCP;PRS,Irregular,3,evitate3,evitating,1,evitating,1,Same
-988,988,ultracentrifuge,ultracentrifuges,V;3;SG;PRS,Regular,0,ultracentrifuge0,ultracentrifuges,1,ultracentrifuges,1,Same
-989,989,bace,bace,V;NFIN,Regular,1,bace1,bace,1,bace,1,Same
-990,990,invert,inverts,V;3;SG;PRS,Regular,0,invert0,inverts,1,inverts,1,Same
-991,991,answer,answered,V;PST,Regular,2,answer2,answered,1,answered,1,Same
-992,992,lick,licked,V;V.PTCP;PST,Regular,4,lick4,licked,1,licked,1,Same
-993,993,compost,composting,V;V.PTCP;PRS,Regular,3,compost3,composting,1,composting,1,Same
-994,994,decree,decree,V;NFIN,Regular,1,decree1,decree,1,decree,1,Same
-995,995,fulmine,fulmine,V;NFIN,Regular,1,fulmine1,fulmine,1,fulmine,1,Same
-996,996,foozle,foozles,V;3;SG;PRS,Regular,0,foozle0,foozles,1,foozles,1,Same
-997,997,beseem,beseeming,V;V.PTCP;PRS,Regular,3,beseem3,beseeming,1,beseeming,1,Same
-998,998,undumpish,undumpishes,V;3;SG;PRS,Irregular,0,undumpish0,undumpishes,1,undumpishes,1,Same
-999,999,underuse,underused,V;V.PTCP;PST,Irregular,4,underuse4,underused,1,underused,1,Same
+,Index,root,inflection,tag,rule,reg,tag_cat,input_tag,pred,Acc,Each_pred,Each_Acc,Compare,diff,count,train_diff_count,each_train_count
+0,0,enwind,enwound,V;PST,special,Irregular,2,enwind2,enwinn,0,enwinde,0,Not Same,ind-ound,1,4,2
+1,1,conscript,conscripted,V;PST,+ed,Regular,2,conscript2,conscripted,1,conscripted,1,Same,-ed,186,1605,817
+2,2,behallow,behallow,V;NFIN,no change,Regular,1,behallow1,behallow,1,behallow,1,Same,-,180,2035,2008
+3,3,inbend,inbent,V;V.PTCP;PST,special,Irregular,4,inbend4,inbende eeeeeeeeeeeee,0,inbende eeedeeeddee,0,Not Same,d-t,2,7,3
+4,4,inchant,inchanting,V;V.PTCP;PRS,+ing,Regular,3,inchant3,inchanting,1,inchanting,1,Same,-ing,101,949,949
+5,5,topicalise,topicalised,V;V.PTCP;PST,+d,Irregular,4,topicalise4,topicalised,1,topicalised,1,Same,-d,169,1718,862
+6,6,foretoken,foretokens,V;3;SG;PRS,+s,Regular,0,foretoken0,foretokens,1,foretokens,1,Same,-s,185,1842,1842
+7,7,handknit,handknitted,V;V.PTCP;PST,double spell,Irregular,4,handknit4,handkniteed,0,handkniteed,0,Same,-ted,2,43,20
+8,8,unwork,unwork,V;NFIN,no change,Regular,1,unwork1,unwork,1,unwork,1,Same,-,180,2035,2008
+9,9,unpolish,unpolished,V;V.PTCP;PST,+ed,Regular,4,unpolish4,unpolished,1,unpolished,1,Same,-ed,186,1605,788
+10,10,Anglify,Anglifying,V;V.PTCP;PRS,+ing,Regular,3,Anglify3,anglifying,1,anglifying,1,Same,-ing,101,949,949
+11,11,forespread,forespreading,V;V.PTCP;PRS,+ing,Regular,3,forespread3,forespreading,1,forespreading,1,Same,-ing,101,949,949
+12,12,philibuster,philibustering,V;V.PTCP;PRS,+ing,Regular,3,philibuster3,philibusterrng,0,philibustiring,0,Not Same,-ing,101,949,949
+13,13,internationalise,internationalised,V;V.PTCP;PST,+d,Irregular,4,internationalise4,internationalised,1,internationnlised,0,Not Same,-d,169,1718,862
+14,14,hypertextualize,hypertextualizes,V;3;SG;PRS,+s,Regular,0,hypertextualize0,hypertextualizes,1,hypertextualizes,1,Same,-s,185,1842,1842
+15,15,intervent,intervent,V;NFIN,no change,Regular,1,intervent1,intervent,1,intervent,1,Same,-,180,2035,2008
+16,16,stereotype,stereotyped,V;PST,+d,Irregular,2,stereotype2,stereotyped,1,stereotiped,0,Not Same,-d,169,1718,856
+17,17,endorse,endorse,V;NFIN,no change,Regular,1,endorse1,endorse,1,endorse,1,Same,-,180,2035,2008
+18,18,overgorge,overgorges,V;3;SG;PRS,+s,Regular,0,overgorge0,overgorges,1,overgorges,1,Same,-s,185,1842,1842
+19,19,countervail,countervailed,V;PST,+ed,Regular,2,countervail2,countervailed,1,countervailed,1,Same,-ed,186,1605,817
+20,20,ovalize,ovalized,V;V.PTCP;PST,+d,Irregular,4,ovalize4,ovalized,1,ovalized,1,Same,-d,169,1718,862
+21,21,overdrive,overdrive,V;NFIN,no change,Regular,1,overdrive1,overdrive,1,overdrive,1,Same,-,180,2035,2008
+22,22,becue,becued,V;PST,+d,Irregular,2,becue2,becued,1,becued,1,Same,-d,169,1718,856
+23,23,slog-sweep,slog-swept,V;V.PTCP;PST,special,Irregular,4,slog-sweep4,slog-sweep,0,slog-sweepe eee,0,Not Same,ep-pt,1,2,2
+24,24,jolt,jolting,V;V.PTCP;PRS,+ing,Regular,3,jolt3,jolting,1,jolting,1,Same,-ing,101,949,949
+25,25,adhibit,adhibited,V;V.PTCP;PST,+ed,Regular,4,adhibit4,adhibited,1,adhibited,1,Same,-ed,186,1605,788
+26,26,healthify,healthifying,V;V.PTCP;PRS,+ing,Regular,3,healthify3,healthifying,1,healthifying,1,Same,-ing,101,949,949
+27,27,caffeinate,caffeinating,V;V.PTCP;PRS,-e+ing,Irregular,3,caffeinate3,caffeinating,1,caffeinating,1,Same,e-ing,84,832,831
+28,28,disfeature,disfeatured,V;PST,+d,Irregular,2,disfeature2,disfeatured,1,disfeatured,1,Same,-d,169,1718,856
+29,29,remerge,remerged,V;V.PTCP;PST,+d,Irregular,4,remerge4,remerged,1,remerged,1,Same,-d,169,1718,862
+30,30,inescate,inescated,V;V.PTCP;PST,+d,Irregular,4,inescate4,inescated,1,inescated,1,Same,-d,169,1718,862
+31,31,dativize,dativizes,V;3;SG;PRS,+s,Regular,0,dativize0,dativizes,1,dativizes,1,Same,-s,185,1842,1842
+32,32,bar,barred,V;V.PTCP;PST,double spell,Irregular,4,bar4,barred,1,barred,1,Same,-red,2,18,12
+33,33,reclone,reclones,V;3;SG;PRS,+s,Regular,0,reclone0,reclones,1,reclones,1,Same,-s,185,1842,1842
+34,34,respray,resprayed,V;PST,+ed,Regular,2,respray2,resprayed,1,resprayed,1,Same,-ed,186,1605,817
+35,35,clart,clart,V;NFIN,no change,Regular,1,clart1,clart,1,clart,1,Same,-,180,2035,2008
+36,36,disentomb,disentombed,V;V.PTCP;PST,+ed,Regular,4,disentomb4,disentombed,1,disentombed,1,Same,-ed,186,1605,788
+37,37,Englishify,Englishified,V;V.PTCP;PST,y-ied,Irregular,4,Englishify4,englishified,0,englishified,1,Same,y-ied,14,145,66
+38,38,jab,jabbed,V;V.PTCP;PST,double spell,Irregular,4,jab4,jabbed,1,jabbed,1,Same,-bed,3,16,9
+39,39,pandy,pandies,V;3;SG;PRS,y-ies,Irregular,0,pandy0,pandies,1,pannies,0,Not Same,y-ies,7,74,74
+40,40,shriek,shrieks,V;3;SG;PRS,+s,Regular,0,shriek0,shrieks,1,shrieks,1,Same,-s,185,1842,1842
+41,41,rerank,rerank,V;NFIN,no change,Regular,1,rerank1,rerank,1,rerank,1,Same,-,180,2035,2008
+42,42,denuclearize,denuclearizing,V;V.PTCP;PRS,-e+ing,Irregular,3,denuclearize3,denuclearizing,1,denuclearizing,1,Same,e-ing,84,832,831
+43,43,reposit,reposit,V;NFIN,no change,Regular,1,reposit1,reposit,1,reposit,1,Same,-,180,2035,2008
+44,44,perturbate,perturbate,V;NFIN,no change,Regular,1,perturbate1,perturbate,1,perturbate,1,Same,-,180,2035,2008
+45,45,languish,languished,V;V.PTCP;PST,+ed,Regular,4,languish4,languished,1,languished,1,Same,-ed,186,1605,788
+46,46,suburbanize,suburbanizing,V;V.PTCP;PRS,-e+ing,Irregular,3,suburbanize3,suburbanizing,1,suburbanizing,1,Same,e-ing,84,832,831
+47,47,void,voided,V;V.PTCP;PST,+ed,Regular,4,void4,voided,1,voided,1,Same,-ed,186,1605,788
+48,48,stage,staged,V;PST,+d,Irregular,2,stage2,staged,1,staged,1,Same,-d,169,1718,856
+49,49,failcascade,failcascades,V;3;SG;PRS,+s,Regular,0,failcascade0,failcascades,1,failcascaaes,0,Not Same,-s,185,1842,1842
+50,50,requisition,requisitions,V;3;SG;PRS,+s,Regular,0,requisition0,requisitions,1,rrquisitions,0,Not Same,-s,185,1842,1842
+51,51,punch,punching,V;V.PTCP;PRS,+ing,Regular,3,punch3,punching,1,punching,1,Same,-ing,101,949,949
+52,52,blueberry,blueberries,V;3;SG;PRS,y-ies,Irregular,0,blueberry0,blueberries,1,blueberries,1,Same,y-ies,7,74,74
+53,53,recertificate,recertificated,V;V.PTCP;PST,+d,Irregular,4,recertificate4,recertificated,1,recertificated,1,Same,-d,169,1718,862
+54,54,repro,repros,V;3;SG;PRS,+s,Regular,0,repro0,repros,1,repros,1,Same,-s,185,1842,1842
+55,55,picturize,picturizes,V;3;SG;PRS,+s,Regular,0,picturize0,picturizes,1,picturizes,1,Same,-s,185,1842,1842
+56,56,detonize,detonize,V;NFIN,no change,Regular,1,detonize1,detonize,1,detonize,1,Same,-,180,2035,2008
+57,57,punk,punked,V;PST,+ed,Regular,2,punk2,punked,1,punked,1,Same,-ed,186,1605,817
+58,58,outlead,outled,V;V.PTCP;PST,special,Irregular,4,outlead4,outlea,0,outlea,0,Same,ad-d,1,4,2
+59,59,repromise,repromised,V;V.PTCP;PST,+d,Irregular,4,repromise4,repromised,1,repromised,1,Same,-d,169,1718,862
+60,60,disrobe,disrobed,V;V.PTCP;PST,+d,Irregular,4,disrobe4,disrobed,1,disrobed,1,Same,-d,169,1718,862
+61,61,harlot,harlots,V;3;SG;PRS,+s,Regular,0,harlot0,harlots,1,harlots,1,Same,-s,185,1842,1842
+62,62,tempt,tempted,V;PST,+ed,Regular,2,tempt2,tempted,1,tempted,1,Same,-ed,186,1605,817
+63,63,forspeak,forspeak,V;NFIN,no change,Regular,1,forspeak1,forspeak,1,forspeak,1,Same,-,180,2035,2008
+64,64,refugee,refugee,V;NFIN,no change,Regular,1,refugee1,refugee,1,refugee,1,Same,-,180,2035,2008
+65,65,cytolyze,cytolyzing,V;V.PTCP;PRS,-e+ing,Irregular,3,cytolyze3,cytolyzing,1,cytolyzing,1,Same,e-ing,84,832,831
+66,66,neutralise,neutralised,V;V.PTCP;PST,+d,Irregular,4,neutralise4,neutralised,1,neutralised,1,Same,-d,169,1718,862
+67,67,retail,retailing,V;V.PTCP;PRS,+ing,Regular,3,retail3,retailing,1,retailing,1,Same,-ing,101,949,949
+68,68,self-deport,self-deported,V;PST,+ed,Regular,2,self-deport2,self-deported,1,self-deported,1,Same,-ed,186,1605,817
+69,69,gall,galled,V;PST,+ed,Regular,2,gall2,galled,1,galled,1,Same,-ed,186,1605,817
+70,70,snog,snogs,V;3;SG;PRS,+s,Regular,0,snog0,snogs,1,snogs,1,Same,-s,185,1842,1842
+71,71,recrown,recrown,V;NFIN,no change,Regular,1,recrown1,recrown,1,recrown,1,Same,-,180,2035,2008
+72,72,permanent,permanented,V;V.PTCP;PST,+ed,Regular,4,permanent4,permanented,1,permanented,1,Same,-ed,186,1605,788
+73,73,recentre,recentred,V;V.PTCP;PST,+d,Irregular,4,recentre4,recentred,1,recentred,1,Same,-d,169,1718,862
+74,74,matriculate,matriculated,V;PST,+d,Irregular,2,matriculate2,matriculated,1,matriculated,1,Same,-d,169,1718,856
+75,75,outspeed,outspeeding,V;V.PTCP;PRS,+ing,Regular,3,outspeed3,outspeeding,1,outspeeding,1,Same,-ing,101,949,949
+76,76,re-use,re-used,V;V.PTCP;PST,+d,Irregular,4,re-use4,re-used,1,re-used,1,Same,-d,169,1718,862
+77,77,receave,receaving,V;V.PTCP;PRS,-e+ing,Irregular,3,receave3,receaving,1,receaving,1,Same,e-ing,84,832,831
+78,78,pepper-spray,pepper-spray,V;NFIN,no change,Regular,1,pepper-spray1,pepper-spray,1,pepper-spray,1,Same,-,180,2035,2008
+79,79,februate,februated,V;V.PTCP;PST,+d,Irregular,4,februate4,februated,1,februated,1,Same,-d,169,1718,862
+80,80,retroflect,retroflects,V;3;SG;PRS,+s,Regular,0,retroflect0,retroflects,1,retroflects,1,Same,-s,185,1842,1842
+81,81,recense,recensed,V;V.PTCP;PST,+d,Irregular,4,recense4,recensed,1,recensed,1,Same,-d,169,1718,862
+82,82,tidy,tidying,V;V.PTCP;PRS,+ing,Regular,3,tidy3,tidying,1,tidying,1,Same,-ing,101,949,949
+83,83,slump,slumping,V;V.PTCP;PRS,+ing,Regular,3,slump3,slumppng,0,slumping,1,Not Same,-ing,101,949,949
+84,84,Gothicize,Gothicizing,V;V.PTCP;PRS,-e+ing,Irregular,3,Gothicize3,gothicizing,1,gothicizing,1,Same,e-ing,84,832,831
+85,85,wallpaper,wallpapering,V;V.PTCP;PRS,+ing,Regular,3,wallpaper3,wallpapering,1,wallpapering,1,Same,-ing,101,949,949
+86,86,misdefend,misdefend,V;NFIN,no change,Regular,1,misdefend1,misdefend,1,misdefend,1,Same,-,180,2035,2008
+87,87,lavish,lavishes,V;3;SG;PRS,+es,Irregular,0,lavish0,lavishes,1,lavishes,1,Same,-es,17,103,103
+88,88,de-humanise,de-humanised,V;V.PTCP;PST,+d,Irregular,4,de-humanise4,de-humanised,1,de-humanised,1,Same,-d,169,1718,862
+89,89,condensate,condensating,V;V.PTCP;PRS,-e+ing,Irregular,3,condensate3,condensating,1,condensating,1,Same,e-ing,84,832,831
+90,90,grout,grouting,V;V.PTCP;PRS,+ing,Regular,3,grout3,grouting,1,grouttng,0,Not Same,-ing,101,949,949
+91,91,rattle,rattling,V;V.PTCP;PRS,-e+ing,Irregular,3,rattle3,rattling,1,rattling,1,Same,e-ing,84,832,831
+92,92,shmooze,shmoozed,V;PST,+d,Irregular,2,shmooze2,shmoozed,1,shmoozed,1,Same,-d,169,1718,856
+93,93,overtan,overtans,V;3;SG;PRS,+s,Regular,0,overtan0,overtans,1,overtans,1,Same,-s,185,1842,1842
+94,94,pool,pools,V;3;SG;PRS,+s,Regular,0,pool0,pools,1,pools,1,Same,-s,185,1842,1842
+95,95,empurple,empurpling,V;V.PTCP;PRS,-e+ing,Irregular,3,empurple3,empurpling,1,empurpling,1,Same,e-ing,84,832,831
+96,96,chromize,chromizing,V;V.PTCP;PRS,-e+ing,Irregular,3,chromize3,chromizing,1,chromizing,1,Same,e-ing,84,832,831
+97,97,moodle,moodled,V;V.PTCP;PST,+d,Irregular,4,moodle4,moodled,1,moodled,1,Same,-d,169,1718,862
+98,98,reacquire,reacquired,V;PST,+d,Irregular,2,reacquire2,reacquired,1,reacquired,1,Same,-d,169,1718,856
+99,99,flabberghast,flabberghast,V;NFIN,no change,Regular,1,flabberghast1,flabberghast,1,flabberghast,1,Same,-,180,2035,2008
+100,100,willow,willowing,V;V.PTCP;PRS,+ing,Regular,3,willow3,willowing,1,willowing,1,Same,-ing,101,949,949
+101,101,sleid,sleiding,V;V.PTCP;PRS,+ing,Regular,3,sleid3,sleiding,1,sleiding,1,Same,-ing,101,949,949
+102,102,screen-scrape,screen-scraping,V;V.PTCP;PRS,-e+ing,Irregular,3,screen-scrape3,screen-scraping,1,screen-scraping,1,Same,e-ing,84,832,831
+103,103,compartmentalise,compartmentalising,V;V.PTCP;PRS,-e+ing,Irregular,3,compartmentalise3,compartmentalising,1,compartmentalising,1,Same,e-ing,84,832,831
+104,104,de-ice,de-ice,V;NFIN,no change,Regular,1,de-ice1,de-ice,1,de-ice,1,Same,-,180,2035,2008
+105,105,dearn,dearn,V;NFIN,no change,Regular,1,dearn1,dearn,1,dearn,1,Same,-,180,2035,2008
+106,106,paint,painted,V;V.PTCP;PST,+ed,Regular,4,paint4,painted,1,painted,1,Same,-ed,186,1605,788
+107,107,bedabble,bedabbles,V;3;SG;PRS,+s,Regular,0,bedabble0,bedabbles,1,bedabbles,1,Same,-s,185,1842,1842
+108,108,kebab,kebabbed,V;PST,double spell,Irregular,2,kebab2,kebabbed,1,kebabeed,0,Not Same,-bed,3,16,7
+109,109,doublecross,doublecrosses,V;3;SG;PRS,+es,Irregular,0,doublecross0,doublecrosses,1,doublecross,0,Not Same,-es,17,103,103
+110,110,rebreed,rebreed,V;NFIN,no change,Regular,1,rebreed1,rebreed,1,rebreed,1,Same,-,180,2035,2008
+111,111,recork,recorked,V;V.PTCP;PST,+ed,Regular,4,recork4,recorked,1,recorked,1,Same,-ed,186,1605,788
+112,112,downscale,downscales,V;3;SG;PRS,+s,Regular,0,downscale0,downscales,1,downscales,1,Same,-s,185,1842,1842
+113,113,mythicize,mythicized,V;V.PTCP;PST,+d,Irregular,4,mythicize4,mythicized,1,mythicized,1,Same,-d,169,1718,862
+114,114,suspicion,suspicioned,V;PST,+ed,Regular,2,suspicion2,suspicioned,1,suspicioned,1,Same,-ed,186,1605,817
+115,115,provinciate,provinciated,V;PST,+d,Irregular,2,provinciate2,provinciated,1,provinciated,1,Same,-d,169,1718,856
+116,116,sqush,squshed,V;V.PTCP;PST,+ed,Regular,4,sqush4,squshed,1,squshed,1,Same,-ed,186,1605,788
+117,117,overroast,overroast,V;NFIN,no change,Regular,1,overroast1,overroast,1,overroast,1,Same,-,180,2035,2008
+118,118,impleach,impleached,V;V.PTCP;PST,+ed,Regular,4,impleach4,impleached,1,impleached,1,Same,-ed,186,1605,788
+119,119,sulphur,sulphured,V;V.PTCP;PST,+ed,Regular,4,sulphur4,sulphured,1,sulphured,1,Same,-ed,186,1605,788
+120,120,pivot,pivoted,V;PST,+ed,Regular,2,pivot2,pivoted,1,pivoted,1,Same,-ed,186,1605,817
+121,121,cheese,cheeses,V;3;SG;PRS,+s,Regular,0,cheese0,cheeses,1,cheeses,1,Same,-s,185,1842,1842
+122,122,betow,betowed,V;V.PTCP;PST,+ed,Regular,4,betow4,betowed,1,betowed,1,Same,-ed,186,1605,788
+123,123,peeve,peeve,V;NFIN,no change,Regular,1,peeve1,peeve,1,peeve,1,Same,-,180,2035,2008
+124,124,infract,infracted,V;PST,+ed,Regular,2,infract2,infracted,1,infracted,1,Same,-ed,186,1605,817
+125,125,LOL,LOLing,V;V.PTCP;PRS,+ing,Regular,3,LOL3,loling,1,loling,1,Same,-ing,101,949,949
+126,126,circle,circling,V;V.PTCP;PRS,-e+ing,Irregular,3,circle3,circling,1,circling,1,Same,e-ing,84,832,831
+127,127,infantilize,infantilizes,V;3;SG;PRS,+s,Regular,0,infantilize0,infantilizes,1,infantilizes,1,Same,-s,185,1842,1842
+128,128,tyrannise,tyrannising,V;V.PTCP;PRS,-e+ing,Irregular,3,tyrannise3,tyrannising,1,tyrannising,1,Same,e-ing,84,832,831
+129,129,reorientate,reorientating,V;V.PTCP;PRS,-e+ing,Irregular,3,reorientate3,reorientating,1,reorientating,1,Same,e-ing,84,832,831
+130,130,approve,approving,V;V.PTCP;PRS,-e+ing,Irregular,3,approve3,approving,1,approving,1,Same,e-ing,84,832,831
+131,131,indorse,indorsing,V;V.PTCP;PRS,-e+ing,Irregular,3,indorse3,indorsing,1,indorsing,1,Same,e-ing,84,832,831
+132,132,Romanianize,Romanianizes,V;3;SG;PRS,+s,Regular,0,Romanianize0,romanianizes,1,romanianizes,1,Same,-s,185,1842,1842
+133,133,overpunch,overpunches,V;3;SG;PRS,+es,Irregular,0,overpunch0,overpunches,1,overpunnhes,0,Not Same,-es,17,103,103
+134,134,swifter,swiftering,V;V.PTCP;PRS,+ing,Regular,3,swifter3,swiftering,1,swiftering,1,Same,-ing,101,949,949
+135,135,TUPE,TUPEd,V;V.PTCP;PST,+d,Irregular,4,TUPE4,tuped,1,tuped,1,Same,-d,169,1718,862
+136,136,collectivise,collectivise,V;NFIN,no change,Regular,1,collectivise1,collectivise,1,collectivise,1,Same,-,180,2035,2008
+137,137,buttress,buttress,V;NFIN,no change,Regular,1,buttress1,buttress,1,buttress,1,Same,-,180,2035,2008
+138,138,forejudge,forejudges,V;3;SG;PRS,+s,Regular,0,forejudge0,forejudges,1,forejudges,1,Same,-s,185,1842,1842
+139,139,decoct,decocted,V;PST,+ed,Regular,2,decoct2,decocted,1,decocted,1,Same,-ed,186,1605,817
+140,140,differentiate,differentiates,V;3;SG;PRS,+s,Regular,0,differentiate0,differentiates,1,differentiates,1,Same,-s,185,1842,1842
+141,141,mimeograph,mimeographing,V;V.PTCP;PRS,+ing,Regular,3,mimeograph3,mimeographing,1,mimeographing,1,Same,-ing,101,949,949
+142,142,encomber,encombers,V;3;SG;PRS,+s,Regular,0,encomber0,encombers,1,encombers,1,Same,-s,185,1842,1842
+143,143,vitaminise,vitaminising,V;V.PTCP;PRS,-e+ing,Irregular,3,vitaminise3,vitaminising,1,vitaminising,1,Same,e-ing,84,832,831
+144,144,misdesign,misdesign,V;NFIN,no change,Regular,1,misdesign1,misdesign,1,misdesign,1,Same,-,180,2035,2008
+145,145,forhele,forhole,V;PST,special,Irregular,2,forhele2,forheled,0,forheled eeeeeeeeeeeeeeed,0,Not Same,e-o,1,2,2
+146,146,malfunction,malfunctions,V;3;SG;PRS,+s,Regular,0,malfunction0,malfunctions,1,malfunctions,1,Same,-s,185,1842,1842
+147,147,gross,grossed,V;PST,+ed,Regular,2,gross2,grossed,1,grossed,1,Same,-ed,186,1605,817
+148,148,swang,swangs,V;3;SG;PRS,+s,Regular,0,swang0,swangs,1,swangs,1,Same,-s,185,1842,1842
+149,149,foreshape,foreshaping,V;V.PTCP;PRS,-e+ing,Irregular,3,foreshape3,foreshaping,1,foreshaping,1,Same,e-ing,84,832,831
+150,150,muse,mused,V;PST,+d,Irregular,2,muse2,mused,1,mused,1,Same,-d,169,1718,856
+151,151,misbrand,misbrands,V;3;SG;PRS,+s,Regular,0,misbrand0,misbrands,1,misbranns,0,Not Same,-s,185,1842,1842
+152,152,glair,glaired,V;V.PTCP;PST,+ed,Regular,4,glair4,glaired,1,glaired,1,Same,-ed,186,1605,788
+153,153,puke,puked,V;V.PTCP;PST,+d,Irregular,4,puke4,puked,1,puked,1,Same,-d,169,1718,862
+154,154,whiten,whitening,V;V.PTCP;PRS,+ing,Regular,3,whiten3,whitening,1,whitening,1,Same,-ing,101,949,949
+155,155,detonate,detonated,V;PST,+d,Irregular,2,detonate2,detonated,1,detonated,1,Same,-d,169,1718,856
+156,156,substantivize,substantivizes,V;3;SG;PRS,+s,Regular,0,substantivize0,substantivizes,1,substantivizes,1,Same,-s,185,1842,1842
+157,157,halloo,halloo,V;NFIN,no change,Regular,1,halloo1,halloo,1,halloo,1,Same,-,180,2035,2008
+158,158,distil,distil,V;NFIN,no change,Regular,1,distil1,distil,1,distil,1,Same,-,180,2035,2008
+159,159,unbethink,unbethought,V;V.PTCP;PST,special,Irregular,4,unbethink4,unbethinggt,0,unbethingee,0,Not Same,ink-ought,1,4,2
+160,160,transpierce,transpierced,V;PST,+d,Irregular,2,transpierce2,transpierced,1,transpierced,1,Same,-d,169,1718,856
+161,161,scrat,scrat,V;NFIN,no change,Regular,1,scrat1,scrat,1,scrat,1,Same,-,180,2035,2008
+162,162,streamline,streamlined,V;PST,+d,Irregular,2,streamline2,streamlined,1,streamlined,1,Same,-d,169,1718,856
+163,163,knit,knit,V;PST,no change,Irregular,2,knit2,knite eeeeeeeee,0,knite eeeeeeeeddee,0,Not Same,-,180,2035,14
+164,164,intertwingle,intertwingling,V;V.PTCP;PRS,-e+ing,Irregular,3,intertwingle3,intertwingling,1,intertwingling,1,Same,e-ing,84,832,831
+165,165,subjoin,subjoined,V;PST,+ed,Regular,2,subjoin2,subjoined,1,subjoined,1,Same,-ed,186,1605,817
+166,166,polygonise,polygonises,V;3;SG;PRS,+s,Regular,0,polygonise0,polygonises,1,polygonises,1,Same,-s,185,1842,1842
+167,167,bicker,bickers,V;3;SG;PRS,+s,Regular,0,bicker0,bickers,1,bickers,1,Same,-s,185,1842,1842
+168,168,swale,swaled,V;PST,+d,Irregular,2,swale2,swaled,1,swaled,1,Same,-d,169,1718,856
+169,169,snift,snifted,V;V.PTCP;PST,+ed,Regular,4,snift4,snifted,1,snifted,1,Same,-ed,186,1605,788
+170,170,mischarge,mischarge,V;NFIN,no change,Regular,1,mischarge1,mischarge,1,mischarge,1,Same,-,180,2035,2008
+171,171,overstuff,overstuffed,V;V.PTCP;PST,+ed,Regular,4,overstuff4,overstuffed,1,overstuffed,1,Same,-ed,186,1605,788
+172,172,etherify,etherified,V;PST,y-ied,Irregular,2,etherify2,etherified,1,etherified,1,Same,y-ied,14,145,79
+173,173,self-deport,self-deported,V;V.PTCP;PST,+ed,Regular,4,self-deport4,self-deported,1,self-deported,1,Same,-ed,186,1605,788
+174,174,Timonize,Timonized,V;V.PTCP;PST,+d,Irregular,4,Timonize4,timonized,0,timonized,1,Same,-d,169,1718,862
+175,175,sauna,saunaed,V;V.PTCP;PST,+ed,Regular,4,sauna4,saunaed,1,saunaed,1,Same,-ed,186,1605,788
+176,176,exauthorize,exauthorizing,V;V.PTCP;PRS,-e+ing,Irregular,3,exauthorize3,exauthorizing,1,exauthorizing,1,Same,e-ing,84,832,831
+177,177,underpromise,underpromises,V;3;SG;PRS,+s,Regular,0,underpromise0,underpromises,1,underpromises,1,Same,-s,185,1842,1842
+178,178,reticket,reticketed,V;V.PTCP;PST,+ed,Regular,4,reticket4,reticketed,1,reticketed,1,Same,-ed,186,1605,788
+179,179,hotch,hotches,V;3;SG;PRS,+es,Irregular,0,hotch0,hotches,1,hotchss,0,Not Same,-es,17,103,103
+180,180,impoverish,impoverished,V;PST,+ed,Regular,2,impoverish2,impoverished,1,impoverished,1,Same,-ed,186,1605,817
+181,181,justify,justifying,V;V.PTCP;PRS,+ing,Regular,3,justify3,justifying,1,justifying,1,Same,-ing,101,949,949
+182,182,masculate,masculates,V;3;SG;PRS,+s,Regular,0,masculate0,masculates,1,masculates,1,Same,-s,185,1842,1842
+183,183,uninstall,uninstalls,V;3;SG;PRS,+s,Regular,0,uninstall0,uninstalls,1,uninstalls,1,Same,-s,185,1842,1842
+184,184,duress,duresses,V;3;SG;PRS,+es,Irregular,0,duress0,duresses,1,duress,0,Not Same,-es,17,103,103
+185,185,siphon,siphoning,V;V.PTCP;PRS,+ing,Regular,3,siphon3,siphoning,1,siphoning,1,Same,-ing,101,949,949
+186,186,overdeliver,overdeliver,V;NFIN,no change,Regular,1,overdeliver1,overdeliver,1,overdeliver,1,Same,-,180,2035,2008
+187,187,commend,commended,V;PST,+ed,Regular,2,commend2,commended,1,commended,1,Same,-ed,186,1605,817
+188,188,sue,suing,V;V.PTCP;PRS,-e+ing,Irregular,3,sue3,suing,1,suing,1,Same,e-ing,84,832,831
+189,189,abscess,abscessed,V;PST,+ed,Regular,2,abscess2,abscessed,1,abscessed,1,Same,-ed,186,1605,817
+190,190,sodomise,sodomised,V;V.PTCP;PST,+d,Irregular,4,sodomise4,sodomised,1,sodomised,1,Same,-d,169,1718,862
+191,191,smith,smiths,V;3;SG;PRS,+s,Regular,0,smith0,smithe,0,smiths,1,Not Same,-s,185,1842,1842
+192,192,nag,nag,V;NFIN,no change,Regular,1,nag1,nag,1,nag,1,Same,-,180,2035,2008
+193,193,wreath,wreathed,V;V.PTCP;PST,+ed,Regular,4,wreath4,wreathed,1,wreathed,1,Same,-ed,186,1605,788
+194,194,forthdraw,forthdrawing,V;V.PTCP;PRS,+ing,Regular,3,forthdraw3,forthdrawing,1,forthdrawing,1,Same,-ing,101,949,949
+195,195,converge,converges,V;3;SG;PRS,+s,Regular,0,converge0,converges,1,converges,1,Same,-s,185,1842,1842
+196,196,potchky,potchkying,V;V.PTCP;PRS,+ing,Regular,3,potchky3,potchkying,1,potchkying,1,Same,-ing,101,949,949
+197,197,cicurate,cicurated,V;PST,+d,Irregular,2,cicurate2,cicurated,1,cicurated,1,Same,-d,169,1718,856
+198,198,seduce,seduces,V;3;SG;PRS,+s,Regular,0,seduce0,seduces,1,seduces,1,Same,-s,185,1842,1842
+199,199,dyb,dybbing,V;V.PTCP;PRS,double spell,Irregular,3,dyb3,dybbing,1,dybbing,1,Same,-bing,3,13,13
+200,200,output,outputting,V;V.PTCP;PRS,double spell,Irregular,3,output3,outputting,1,outputting,1,Same,-ting,4,38,38
+201,201,unicycle,unicycle,V;NFIN,no change,Regular,1,unicycle1,unicycle,1,unicycle,1,Same,-,180,2035,2008
+202,202,befile,befile,V;NFIN,no change,Regular,1,befile1,befile,1,befile,1,Same,-,180,2035,2008
+203,203,wolf,wolfed,V;V.PTCP;PST,+ed,Regular,4,wolf4,wolfed,1,wolfed,1,Same,-ed,186,1605,788
+204,204,smatch,smatched,V;V.PTCP;PST,+ed,Regular,4,smatch4,smatched,1,smatched,1,Same,-ed,186,1605,788
+205,205,disroot,disrooted,V;PST,+ed,Regular,2,disroot2,disrooted,1,disrooted,1,Same,-ed,186,1605,817
+206,206,beblur,beblur,V;NFIN,no change,Regular,1,beblur1,beblur,1,beblur,1,Same,-,180,2035,2008
+207,207,ranch,ranch,V;NFIN,no change,Regular,1,ranch1,ranch,1,ranch,1,Same,-,180,2035,2008
+208,208,decontextualize,decontextualized,V;PST,+d,Irregular,2,decontextualize2,decontextualized,1,decontextualized,1,Same,-d,169,1718,856
+209,209,immunodetect,immunodetected,V;V.PTCP;PST,+ed,Regular,4,immunodetect4,immunodetected,1,immunodetected,1,Same,-ed,186,1605,788
+210,210,commercialize,commercializing,V;V.PTCP;PRS,-e+ing,Irregular,3,commercialize3,commercializing,1,commercializing,1,Same,e-ing,84,832,831
+211,211,sweb,swebbing,V;V.PTCP;PRS,double spell,Irregular,3,sweb3,swebbing,1,swebiing,0,Not Same,-bing,3,13,13
+212,212,rerun,rerun,V;NFIN,no change,Regular,1,rerun1,rerun,1,rerun,1,Same,-,180,2035,2008
+213,213,story,storied,V;V.PTCP;PST,y-ied,Irregular,4,story4,storied,1,storied,1,Same,y-ied,14,145,66
+214,214,statuminate,statuminates,V;3;SG;PRS,+s,Regular,0,statuminate0,statuminates,1,statuminates,1,Same,-s,185,1842,1842
+215,215,redispute,redisputing,V;V.PTCP;PRS,-e+ing,Irregular,3,redispute3,redisputing,1,redisputing,1,Same,e-ing,84,832,831
+216,216,bud,budded,V;PST,double spell,Irregular,2,bud2,budded,1,budded,1,Same,-ded,1,20,9
+217,217,relick,relicks,V;3;SG;PRS,+s,Regular,0,relick0,relicks,1,relicks,1,Same,-s,185,1842,1842
+218,218,inhere,inhered,V;PST,+d,Irregular,2,inhere2,inhered,1,inhered,1,Same,-d,169,1718,856
+219,219,exscind,exscind,V;NFIN,no change,Regular,1,exscind1,exscind,1,exscind,1,Same,-,180,2035,2008
+220,220,underbudget,underbudgeted,V;PST,+ed,Regular,2,underbudget2,underbudgeted,1,underbudgeted,1,Same,-ed,186,1605,817
+221,221,emasculate,emasculating,V;V.PTCP;PRS,-e+ing,Irregular,3,emasculate3,emasculating,1,emasculating,1,Same,e-ing,84,832,831
+222,222,beweigh,beweighed,V;PST,+ed,Regular,2,beweigh2,beweighed,1,beweighed,1,Same,-ed,186,1605,817
+223,223,munite,munited,V;V.PTCP;PST,+d,Irregular,4,munite4,munited,1,munited,1,Same,-d,169,1718,862
+224,224,sonnetize,sonnetized,V;PST,+d,Irregular,2,sonnetize2,sonnetized,1,sonnetized,1,Same,-d,169,1718,856
+225,225,worship,worships,V;3;SG;PRS,+s,Regular,0,worship0,worships,1,worships,1,Same,-s,185,1842,1842
+226,226,bezzle,bezzle,V;NFIN,no change,Regular,1,bezzle1,bezzle,1,bezzle,1,Same,-,180,2035,2008
+227,227,commodify,commodified,V;PST,y-ied,Irregular,2,commodify2,commodified,1,commodified,1,Same,y-ied,14,145,79
+228,228,judicialize,judicializing,V;V.PTCP;PRS,-e+ing,Irregular,3,judicialize3,judicializing,1,judicializing,1,Same,e-ing,84,832,831
+229,229,norn,norned,V;PST,+ed,Regular,2,norn2,norned,1,norned,1,Same,-ed,186,1605,817
+230,230,lyophilize,lyophilized,V;V.PTCP;PST,+d,Irregular,4,lyophilize4,lyophilized,1,lyophilized,1,Same,-d,169,1718,862
+231,231,marmalise,marmalising,V;V.PTCP;PRS,-e+ing,Irregular,3,marmalise3,marmalising,1,marmalising,1,Same,e-ing,84,832,831
+232,232,whistle-blow,whistle-blows,V;3;SG;PRS,+s,Regular,0,whistle-blow0,whistle-blows,1,whistle-blows,1,Same,-s,185,1842,1842
+233,233,favourize,favourized,V;V.PTCP;PST,+d,Irregular,4,favourize4,favourized,1,favourized,1,Same,-d,169,1718,862
+234,234,average,averaged,V;PST,+d,Irregular,2,average2,averaged,1,averaged,1,Same,-d,169,1718,856
+235,235,fortear,fortears,V;3;SG;PRS,+s,Regular,0,fortear0,fortears,1,fortears,1,Same,-s,185,1842,1842
+236,236,befinger,befinger,V;NFIN,no change,Regular,1,befinger1,befinger,1,befinger,1,Same,-,180,2035,2008
+237,237,thou,thoued,V;PST,+ed,Regular,2,thou2,thoued,1,thoued,1,Same,-ed,186,1605,817
+238,238,rake,rake,V;NFIN,no change,Regular,1,rake1,rake,1,rake,1,Same,-,180,2035,2008
+239,239,evocate,evocated,V;PST,+d,Irregular,2,evocate2,evocated,1,evocated,1,Same,-d,169,1718,856
+240,240,maternalise,maternalise,V;NFIN,no change,Regular,1,maternalise1,maternalise,1,maternalise,1,Same,-,180,2035,2008
+241,241,fistfight,fistfights,V;3;SG;PRS,+s,Regular,0,fistfight0,fistfights,1,fistfights,1,Same,-s,185,1842,1842
+242,242,truant,truant,V;NFIN,no change,Regular,1,truant1,truant,1,truant,1,Same,-,180,2035,2008
+243,243,squirt,squirts,V;3;SG;PRS,+s,Regular,0,squirt0,squirts,1,squirts,1,Same,-s,185,1842,1842
+244,244,aroynt,aroynted,V;V.PTCP;PST,+ed,Regular,4,aroynt4,aroynted,1,aroynted,1,Same,-ed,186,1605,788
+245,245,recontest,recontested,V;PST,+ed,Regular,2,recontest2,recontested,1,recontested,1,Same,-ed,186,1605,817
+246,246,expound,expounded,V;PST,+ed,Regular,2,expound2,expounded,1,expound,0,Not Same,-ed,186,1605,817
+247,247,biography,biographies,V;3;SG;PRS,y-ies,Irregular,0,biography0,biographies,1,biographies,1,Same,y-ies,7,74,74
+248,248,cruize,cruizing,V;V.PTCP;PRS,-e+ing,Irregular,3,cruize3,cruizing,1,cruizing,1,Same,e-ing,84,832,831
+249,249,emperil,emperilled,V;V.PTCP;PST,double spell,Irregular,4,emperil4,emperileed,0,emperileed,0,Same,-led,7,47,27
+250,250,confiscate,confiscating,V;V.PTCP;PRS,-e+ing,Irregular,3,confiscate3,confiscating,1,confiscating,1,Same,e-ing,84,832,831
+251,251,chipmunk,chipmunks,V;3;SG;PRS,+s,Regular,0,chipmunk0,chipmunks,1,chipmunks,1,Same,-s,185,1842,1842
+252,252,upbreed,upbred,V;PST,special,Irregular,2,upbreed2,upbred,1,upbree,0,Not Same,ed-d,1,8,7
+253,253,torend,torent,V;V.PTCP;PST,special,Irregular,4,torend4,torende eeeeeeeeeeeee,0,torende eee,0,Not Same,d-t,2,7,3
+254,254,gedge,gedging,V;V.PTCP;PRS,-e+ing,Irregular,3,gedge3,gedging,1,gedging,1,Same,e-ing,84,832,831
+255,255,deinterlace,deinterlacing,V;V.PTCP;PRS,-e+ing,Irregular,3,deinterlace3,deinterlacing,1,deinterlacing,1,Same,e-ing,84,832,831
+256,256,dammish,dammishing,V;V.PTCP;PRS,+ing,Regular,3,dammish3,dammishing,1,dammishing,1,Same,-ing,101,949,949
+257,257,munify,munifying,V;V.PTCP;PRS,+ing,Regular,3,munify3,munifying,1,munifying,1,Same,-ing,101,949,949
+258,258,recrudesce,recrudesced,V;PST,+d,Irregular,2,recrudesce2,recrudesced,1,recrudesced,1,Same,-d,169,1718,856
+259,259,disgrade,disgrade,V;NFIN,no change,Regular,1,disgrade1,disgrade,1,disgrade,1,Same,-,180,2035,2008
+260,260,chate,chated,V;V.PTCP;PST,+d,Irregular,4,chate4,chated,1,chated,1,Same,-d,169,1718,862
+261,261,it,it,V;NFIN,no change,Regular,1,it1,it,1,qit,0,Not Same,-,180,2035,2008
+262,262,stitch,stitched,V;PST,+ed,Regular,2,stitch2,stitched,1,stitched,1,Same,-ed,186,1605,817
+263,263,conservatise,conservatised,V;PST,+d,Irregular,2,conservatise2,conservatised,1,conservatised,1,Same,-d,169,1718,856
+264,264,criminalize,criminalized,V;PST,+d,Irregular,2,criminalize2,criminalized,1,criminalized,1,Same,-d,169,1718,856
+265,265,cancell,cancells,V;3;SG;PRS,+s,Regular,0,cancell0,cancells,1,cancells,1,Same,-s,185,1842,1842
+266,266,job,job,V;NFIN,no change,Regular,1,job1,job,1,job,1,Same,-,180,2035,2008
+267,267,cordon,cordon,V;NFIN,no change,Regular,1,cordon1,cordon,1,cordon,1,Same,-,180,2035,2008
+268,268,unplan,unplan,V;NFIN,no change,Regular,1,unplan1,unplan,1,unplan,1,Same,-,180,2035,2008
+269,269,resynchronize,resynchronize,V;NFIN,no change,Regular,1,resynchronize1,resynchronize,1,resynchronize,1,Same,-,180,2035,2008
+270,270,gork,gorked,V;PST,+ed,Regular,2,gork2,gorked,1,gorked,1,Same,-ed,186,1605,817
+271,271,churr,churred,V;V.PTCP;PST,+ed,Regular,4,churr4,churred,1,churred,1,Same,-ed,186,1605,788
+272,272,predeposit,predepositing,V;V.PTCP;PRS,+ing,Regular,3,predeposit3,predepositing,1,predepositing,1,Same,-ing,101,949,949
+273,273,carboard,carboarded,V;V.PTCP;PST,+ed,Regular,4,carboard4,carboarded,1,carboarded,1,Same,-ed,186,1605,788
+274,274,rejudge,rejudged,V;PST,+d,Irregular,2,rejudge2,rejudged,1,rejudged,1,Same,-d,169,1718,856
+275,275,misadjust,misadjusted,V;PST,+ed,Regular,2,misadjust2,misadjusted,1,misadjusted,1,Same,-ed,186,1605,817
+276,276,embus,embus,V;NFIN,no change,Regular,1,embus1,embus,1,embus,1,Same,-,180,2035,2008
+277,277,Arabianize,Arabianized,V;V.PTCP;PST,+d,Irregular,4,Arabianize4,arabianized,1,arabiannzed,0,Not Same,-d,169,1718,862
+278,278,rekeyboard,rekeyboarded,V;PST,+ed,Regular,2,rekeyboard2,rekeyboarded,1,rekeyboard,0,Not Same,-ed,186,1605,817
+279,279,paper,paper,V;NFIN,no change,Regular,1,paper1,paper,1,paper,1,Same,-,180,2035,2008
+280,280,banjax,banjaxed,V;PST,+ed,Regular,2,banjax2,banjaxed,1,banjaxed,1,Same,-ed,186,1605,817
+281,281,Calvinise,Calvinised,V;PST,+d,Irregular,2,Calvinise2,calvinised,1,calvinised,1,Same,-d,169,1718,856
+282,282,prenote,prenoted,V;PST,+d,Irregular,2,prenote2,prenoted,1,prenoted,1,Same,-d,169,1718,856
+283,283,revivify,revivifies,V;3;SG;PRS,y-ies,Irregular,0,revivify0,revivifies,1,revivifies,1,Same,y-ies,7,74,74
+284,284,prattle,prattling,V;V.PTCP;PRS,-e+ing,Irregular,3,prattle3,prattling,1,prattling,1,Same,e-ing,84,832,831
+285,285,stucco,stuccoed,V;PST,+ed,Regular,2,stucco2,stuccoed,1,stuccoed,1,Same,-ed,186,1605,817
+286,286,upsoar,upsoared,V;V.PTCP;PST,+ed,Regular,4,upsoar4,upsoared,1,upsoared,1,Same,-ed,186,1605,788
+287,287,transcend,transcended,V;PST,+ed,Regular,2,transcend2,transcended,1,transcend,0,Not Same,-ed,186,1605,817
+288,288,relapse,relapse,V;NFIN,no change,Regular,1,relapse1,relapse,1,relapse,1,Same,-,180,2035,2008
+289,289,imbrew,imbrewed,V;V.PTCP;PST,+ed,Regular,4,imbrew4,imbrewed,1,imbrewed,1,Same,-ed,186,1605,788
+290,290,ingurgitate,ingurgitated,V;V.PTCP;PST,+d,Irregular,4,ingurgitate4,ingurgitated,1,ingurgitated,1,Same,-d,169,1718,862
+291,291,hegemonize,hegemonized,V;PST,+d,Irregular,2,hegemonize2,hegemonized,1,hegemonized,1,Same,-d,169,1718,856
+292,292,politicize,politicized,V;V.PTCP;PST,+d,Irregular,4,politicize4,politicized,1,politicczed,0,Not Same,-d,169,1718,862
+293,293,flabrigast,flabrigasted,V;V.PTCP;PST,+ed,Regular,4,flabrigast4,flabrigasted,1,flabrigasted,1,Same,-ed,186,1605,788
+294,294,pre-teach,pre-teaching,V;V.PTCP;PRS,+ing,Regular,3,pre-teach3,pre-teaching,1,pre-teaching,1,Same,-ing,101,949,949
+295,295,misgauge,misgauge,V;NFIN,no change,Regular,1,misgauge1,misgauge,1,misgauge,1,Same,-,180,2035,2008
+296,296,audiotape,audiotapes,V;3;SG;PRS,+s,Regular,0,audiotape0,audiotapes,1,audiotapes,1,Same,-s,185,1842,1842
+297,297,revivificate,revivificates,V;3;SG;PRS,+s,Regular,0,revivificate0,revivificates,1,revivificates,1,Same,-s,185,1842,1842
+298,298,lipolyze,lipolyzed,V;V.PTCP;PST,+d,Irregular,4,lipolyze4,lipolyzed,1,lipolized,0,Not Same,-d,169,1718,862
+299,299,finalize,finalized,V;PST,+d,Irregular,2,finalize2,finalized,1,finalized,1,Same,-d,169,1718,856
+300,300,mishit,mishits,V;3;SG;PRS,+s,Regular,0,mishit0,mishits,1,mishits,1,Same,-s,185,1842,1842
+301,301,rebore,rebores,V;3;SG;PRS,+s,Regular,0,rebore0,rebores,1,rebores,1,Same,-s,185,1842,1842
+302,302,owe,owing,V;V.PTCP;PRS,-e+ing,Irregular,3,owe3,owing,1,owing,1,Same,e-ing,84,832,831
+303,303,rind,rinds,V;3;SG;PRS,+s,Regular,0,rind0,rinds,1,rinns,0,Not Same,-s,185,1842,1842
+304,304,Frisbee,Frisbees,V;3;SG;PRS,+s,Regular,0,Frisbee0,frisbees,1,frisbees,1,Same,-s,185,1842,1842
+305,305,yacht,yachting,V;V.PTCP;PRS,+ing,Regular,3,yacht3,yachting,1,yachting,1,Same,-ing,101,949,949
+306,306,deg,degged,V;PST,double spell,Irregular,2,deg2,degged,1,degeed,0,Not Same,-ged,1,40,18
+307,307,skirt,skirting,V;V.PTCP;PRS,+ing,Regular,3,skirt3,skirting,1,skirting,1,Same,-ing,101,949,949
+308,308,steeve,steeves,V;3;SG;PRS,+s,Regular,0,steeve0,steeves,1,steeves,1,Same,-s,185,1842,1842
+309,309,outthrust,outthrusted,V;PST,+ed,Regular,2,outthrust2,outthrusted,1,outthrusted,1,Same,-ed,186,1605,817
+310,310,intrunk,intrunks,V;3;SG;PRS,+s,Regular,0,intrunk0,intrunks,1,intrunks,1,Same,-s,185,1842,1842
+311,311,pregrill,pregrilled,V;V.PTCP;PST,+ed,Regular,4,pregrill4,pregrilled,1,pregrilled,1,Same,-ed,186,1605,788
+312,312,water,water,V;NFIN,no change,Regular,1,water1,water,1,water,1,Same,-,180,2035,2008
+313,313,vanquish,vanquishing,V;V.PTCP;PRS,+ing,Regular,3,vanquish3,vanquishing,1,vanquishing,1,Same,-ing,101,949,949
+314,314,appetise,appetised,V;V.PTCP;PST,+d,Irregular,4,appetise4,appetised,1,appetised,1,Same,-d,169,1718,862
+315,315,reticket,reticketed,V;PST,+ed,Regular,2,reticket2,reticketed,1,reticketed,1,Same,-ed,186,1605,817
+316,316,misrecord,misrecord,V;NFIN,no change,Regular,1,misrecord1,misrecord,1,misrecord,1,Same,-,180,2035,2008
+317,317,perchlorinate,perchlorinating,V;V.PTCP;PRS,-e+ing,Irregular,3,perchlorinate3,perchlorinating,1,perchlorinating,1,Same,e-ing,84,832,831
+318,318,defrost,defrost,V;NFIN,no change,Regular,1,defrost1,defrost,1,defrost,1,Same,-,180,2035,2008
+319,319,waucht,wauchting,V;V.PTCP;PRS,+ing,Regular,3,waucht3,wauchting,1,wauchting,1,Same,-ing,101,949,949
+320,320,enwheel,enwheeling,V;V.PTCP;PRS,+ing,Regular,3,enwheel3,enwheellng,0,enwheeling,1,Not Same,-ing,101,949,949
+321,321,deindustrialise,deindustrialised,V;V.PTCP;PST,+d,Irregular,4,deindustrialise4,deindustrialised,1,deindustrialised,1,Same,-d,169,1718,862
+322,322,baggs,baggses,V;3;SG;PRS,+es,Irregular,0,baggs0,baggsss,0,baggs,0,Not Same,-es,17,103,103
+323,323,clag,clags,V;3;SG;PRS,+s,Regular,0,clag0,clags,1,clags,1,Same,-s,185,1842,1842
+324,324,moisturize,moisturize,V;NFIN,no change,Regular,1,moisturize1,moisturize,1,moisturize,1,Same,-,180,2035,2008
+325,325,yodel,yodelled,V;PST,double spell,Irregular,2,yodel2,yodeleed,0,yodeleed,0,Same,-led,7,47,20
+326,326,redownload,redownload,V;NFIN,no change,Regular,1,redownload1,redownload,1,redownload,1,Same,-,180,2035,2008
+327,327,discommodate,discommodates,V;3;SG;PRS,+s,Regular,0,discommodate0,discommodates,1,discommodates,1,Same,-s,185,1842,1842
+328,328,gibe,gibing,V;V.PTCP;PRS,-e+ing,Irregular,3,gibe3,gibing,1,gibing,1,Same,e-ing,84,832,831
+329,329,crossreact,crossreacts,V;3;SG;PRS,+s,Regular,0,crossreact0,crossreacts,1,crossreacts,1,Same,-s,185,1842,1842
+330,330,smouch,smouching,V;V.PTCP;PRS,+ing,Regular,3,smouch3,smouching,1,smouching,1,Same,-ing,101,949,949
+331,331,externalize,externalized,V;PST,+d,Irregular,2,externalize2,externalized,1,externalized,1,Same,-d,169,1718,856
+332,332,reengage,reengaged,V;PST,+d,Irregular,2,reengage2,reengaged,1,reengaged,1,Same,-d,169,1718,856
+333,333,comport,comported,V;PST,+ed,Regular,2,comport2,comported,1,comported,1,Same,-ed,186,1605,817
+334,334,photoshop,photoshops,V;3;SG;PRS,+s,Regular,0,photoshop0,photoshops,1,photoshops,1,Same,-s,185,1842,1842
+335,335,growl,growled,V;PST,+ed,Regular,2,growl2,growled,1,growled,1,Same,-ed,186,1605,817
+336,336,fleech,fleeching,V;V.PTCP;PRS,+ing,Regular,3,fleech3,fleeching,1,fleeching,1,Same,-ing,101,949,949
+337,337,restrike,restrike,V;NFIN,no change,Regular,1,restrike1,restrike,1,restrike,1,Same,-,180,2035,2008
+338,338,rook,rooking,V;V.PTCP;PRS,+ing,Regular,3,rook3,rooking,1,rooking,1,Same,-ing,101,949,949
+339,339,courage,couraged,V;PST,+d,Irregular,2,courage2,couraged,1,couraged,1,Same,-d,169,1718,856
+340,340,redintegrate,redintegrates,V;3;SG;PRS,+s,Regular,0,redintegrate0,redintegrates,1,redintegrates,1,Same,-s,185,1842,1842
+341,341,neighbor,neighboring,V;V.PTCP;PRS,+ing,Regular,3,neighbor3,neighboring,1,neighboring,1,Same,-ing,101,949,949
+342,342,neighbour,neighboured,V;PST,+ed,Regular,2,neighbour2,neighboured,1,neighboured,1,Same,-ed,186,1605,817
+343,343,reentre,reentring,V;V.PTCP;PRS,-e+ing,Irregular,3,reentre3,reentring,1,reentring,1,Same,e-ing,84,832,831
+344,344,innerduce,innerducing,V;V.PTCP;PRS,-e+ing,Irregular,3,innerduce3,innerducing,1,innerducing,1,Same,e-ing,84,832,831
+345,345,glamorise,glamorised,V;PST,+d,Irregular,2,glamorise2,glamorised,1,glamorised,1,Same,-d,169,1718,856
+346,346,surround,surrounding,V;V.PTCP;PRS,+ing,Regular,3,surround3,surrounding,1,surrounding,1,Same,-ing,101,949,949
+347,347,undereat,undereat,V;NFIN,no change,Regular,1,undereat1,undereat,1,undereat,1,Same,-,180,2035,2008
+348,348,swallie,swallies,V;3;SG;PRS,+s,Regular,0,swallie0,swallies,1,swallies,1,Same,-s,185,1842,1842
+349,349,inbear,inborne,V;V.PTCP;PST,special,Irregular,4,inbear4,inbearnd,0,inbeared,0,Not Same,ear-orne,1,unseen,unseen
+350,350,zone,zoned,V;PST,+d,Irregular,2,zone2,zoned,1,zoned,1,Same,-d,169,1718,856
+351,351,diesel,dieseled,V;V.PTCP;PST,+ed,Regular,4,diesel4,dieselld,0,dieseled,1,Not Same,-ed,186,1605,788
+352,352,engulph,engulph,V;NFIN,no change,Regular,1,engulph1,engulph,1,engulph,1,Same,-,180,2035,2008
+353,353,debit,debited,V;PST,+ed,Regular,2,debit2,debited,1,debited,1,Same,-ed,186,1605,817
+354,354,enwrite,enwrote,V;PST,special,Irregular,2,enwrite2,enwrited,0,enwrited eeeeeeeeeeedeeed,0,Not Same,i-o,2,15,12
+355,355,inturn,inturn,V;NFIN,no change,Regular,1,inturn1,inturn,1,inturn,1,Same,-,180,2035,2008
+356,356,reach,reaches,V;3;SG;PRS,+es,Irregular,0,reach0,reaches,1,reaches,1,Same,-es,17,103,103
+357,357,hallmark,hallmarked,V;PST,+ed,Regular,2,hallmark2,hallmarked,1,hallmarked,1,Same,-ed,186,1605,817
+358,358,swim,swimming,V;V.PTCP;PRS,double spell,Irregular,3,swim3,swimiing,0,swimiing,0,Same,-ming,2,12,12
+359,359,angel,angeled,V;PST,+ed,Regular,2,angel2,angeled,1,angeled,1,Same,-ed,186,1605,817
+360,360,clothe,clothes,V;3;SG;PRS,+s,Regular,0,clothe0,clothes,1,clothes,1,Same,-s,185,1842,1842
+361,361,unlace,unlaced,V;PST,+d,Irregular,2,unlace2,unlaced,1,unlaced,1,Same,-d,169,1718,856
+362,362,disencharm,disencharms,V;3;SG;PRS,+s,Regular,0,disencharm0,disencharms,1,disencharms,1,Same,-s,185,1842,1842
+363,363,plane,planes,V;3;SG;PRS,+s,Regular,0,plane0,planes,1,planes,1,Same,-s,185,1842,1842
+364,364,guilt-trip,guilt-trips,V;3;SG;PRS,+s,Regular,0,guilt-trip0,guilt-trips,1,guilt-trips,1,Same,-s,185,1842,1842
+365,365,curb,curbing,V;V.PTCP;PRS,+ing,Regular,3,curb3,curbbng,0,curbing,1,Not Same,-ing,101,949,949
+366,366,chip,chipping,V;V.PTCP;PRS,double spell,Irregular,3,chip3,chipping,1,chipiing,0,Not Same,-ping,2,30,30
+367,367,recache,recache,V;NFIN,no change,Regular,1,recache1,recache,1,recache,1,Same,-,180,2035,2008
+368,368,codisplay,codisplay,V;NFIN,no change,Regular,1,codisplay1,codisplay,1,codisplay,1,Same,-,180,2035,2008
+369,369,Asianize,Asianize,V;NFIN,no change,Regular,1,Asianize1,asianize,1,asianize,1,Same,-,180,2035,2008
+370,370,malleablize,malleablizes,V;3;SG;PRS,+s,Regular,0,malleablize0,malleablizes,1,malleablizes,1,Same,-s,185,1842,1842
+371,371,pussywhip,pussywhipping,V;V.PTCP;PRS,double spell,Irregular,3,pussywhip3,pussywhipping,1,pussywhipping,1,Same,-ping,2,30,30
+372,372,cashier,cashiers,V;3;SG;PRS,+s,Regular,0,cashier0,cashiers,1,cashiers,1,Same,-s,185,1842,1842
+373,373,propound,propounds,V;3;SG;PRS,+s,Regular,0,propound0,propounds,1,propounns,0,Not Same,-s,185,1842,1842
+374,374,patron,patroned,V;PST,+ed,Regular,2,patron2,patroned,1,patroned,1,Same,-ed,186,1605,817
+375,375,peacify,peacifies,V;3;SG;PRS,y-ies,Irregular,0,peacify0,peacifies,1,peacifies,1,Same,y-ies,7,74,74
+376,376,enerve,enerve,V;NFIN,no change,Regular,1,enerve1,enerve,1,enerve,1,Same,-,180,2035,2008
+377,377,feat,feat,V;NFIN,no change,Regular,1,feat1,feat,1,feat,1,Same,-,180,2035,2008
+378,378,Sheetrock,Sheetrocks,V;3;SG;PRS,+s,Regular,0,Sheetrock0,sheetrocks,1,sheetrooks,0,Not Same,-s,185,1842,1842
+379,379,desalt,desalted,V;V.PTCP;PST,+ed,Regular,4,desalt4,desalted,1,desalted,1,Same,-ed,186,1605,788
+380,380,Danify,Danify,V;NFIN,no change,Regular,1,Danify1,danify,1,danify,1,Same,-,180,2035,2008
+381,381,asphyxiate,asphyxiate,V;NFIN,no change,Regular,1,asphyxiate1,asphyxiate,1,asphyxiate,1,Same,-,180,2035,2008
+382,382,frob,frobbed,V;V.PTCP;PST,double spell,Irregular,4,frob4,frobeed,0,frobeed,0,Same,-bed,3,16,9
+383,383,forelay,forelays,V;3;SG;PRS,+s,Regular,0,forelay0,forelays,1,forelays,1,Same,-s,185,1842,1842
+384,384,defriend,defriended,V;V.PTCP;PST,+ed,Regular,4,defriend4,defriended,1,defriended,1,Same,-ed,186,1605,788
+385,385,snack,snacking,V;V.PTCP;PRS,+ing,Regular,3,snack3,snacking,1,snacking,1,Same,-ing,101,949,949
+386,386,robustify,robustified,V;PST,y-ied,Irregular,2,robustify2,robustified,1,robustified,1,Same,y-ied,14,145,79
+387,387,cockneyfy,cockneyfied,V;PST,y-ied,Irregular,2,cockneyfy2,cockneyfied,1,cockneyfied,1,Same,y-ied,14,145,79
+388,388,outguess,outguessed,V;V.PTCP;PST,+ed,Regular,4,outguess4,outguessed,1,outguessed,1,Same,-ed,186,1605,788
+389,389,postil,postilling,V;V.PTCP;PRS,double spell,Irregular,3,postil3,postilling,1,postiliing,0,Not Same,-ling,3,20,20
+390,390,underflow,underflowing,V;V.PTCP;PRS,+ing,Regular,3,underflow3,underflowing,1,underflowing,1,Same,-ing,101,949,949
+391,391,scheme,schemes,V;3;SG;PRS,+s,Regular,0,scheme0,schemes,1,schemes,1,Same,-s,185,1842,1842
+392,392,reference,reference,V;NFIN,no change,Regular,1,reference1,reference,1,reference,1,Same,-,180,2035,2008
+393,393,imbosom,imbosomed,V;PST,+ed,Regular,2,imbosom2,imbosomed,1,imbosomed,1,Same,-ed,186,1605,817
+394,394,decenter,decenters,V;3;SG;PRS,+s,Regular,0,decenter0,decenters,1,decenters,1,Same,-s,185,1842,1842
+395,395,proke,proked,V;PST,+d,Irregular,2,proke2,proked,1,proked,1,Same,-d,169,1718,856
+396,396,pooh-pooh,pooh-poohed,V;PST,+ed,Regular,2,pooh-pooh2,pooh-poohed,1,pooh-poohed,1,Same,-ed,186,1605,817
+397,397,bepearl,bepearl,V;NFIN,no change,Regular,1,bepearl1,bepearl,1,bepearl,1,Same,-,180,2035,2008
+398,398,mell,melled,V;V.PTCP;PST,+ed,Regular,4,mell4,melled,1,melled,1,Same,-ed,186,1605,788
+399,399,malleablize,malleablized,V;V.PTCP;PST,+d,Irregular,4,malleablize4,malleablized,1,malleablized,1,Same,-d,169,1718,862
+400,400,new-model,new-modelled,V;PST,double spell,Irregular,2,new-model2,new-modeleed,0,new-modeleed,0,Same,-led,7,47,20
+401,401,apartheidize,apartheidizing,V;V.PTCP;PRS,-e+ing,Irregular,3,apartheidize3,apartheidizing,1,apartheidizing,1,Same,e-ing,84,832,831
+402,402,foreclose,forecloses,V;3;SG;PRS,+s,Regular,0,foreclose0,forecloses,1,forecloses,1,Same,-s,185,1842,1842
+403,403,shart,sharted,V;V.PTCP;PST,+ed,Regular,4,shart4,sharted,1,sharted,1,Same,-ed,186,1605,788
+404,404,disclame,disclamed,V;V.PTCP;PST,+d,Irregular,4,disclame4,disclamed,1,disclamed,1,Same,-d,169,1718,862
+405,405,double-end,double-end,V;NFIN,no change,Regular,1,double-end1,double-end,1,double-end,1,Same,-,180,2035,2008
+406,406,spaniel,spanielling,V;V.PTCP;PRS,double spell,Irregular,3,spaniel3,spanielling,1,spanieliing,0,Not Same,-ling,3,20,20
+407,407,minister,ministering,V;V.PTCP;PRS,+ing,Regular,3,minister3,ministering,1,ministering,1,Same,-ing,101,949,949
+408,408,revirginize,revirginize,V;NFIN,no change,Regular,1,revirginize1,revirginize,1,revirginize,1,Same,-,180,2035,2008
+409,409,chuckle,chuckles,V;3;SG;PRS,+s,Regular,0,chuckle0,chuckles,1,chuckles,1,Same,-s,185,1842,1842
+410,410,amount,amounts,V;3;SG;PRS,+s,Regular,0,amount0,amounts,1,amounts,1,Same,-s,185,1842,1842
+411,411,embarn,embarned,V;PST,+ed,Regular,2,embarn2,embarned,1,embarned,1,Same,-ed,186,1605,817
+412,412,defeature,featured,V;V.PTCP;PST,special,Irregular,4,defeature4,defeature eeeeeeeeeeeeeee,0,defeature,0,Not Same,dfeature-fatured,1,unseen,unseen
+413,413,rehone,rehoned,V;PST,+d,Irregular,2,rehone2,rehoned,1,rehoned,1,Same,-d,169,1718,856
+414,414,cone,coned,V;V.PTCP;PST,+d,Irregular,4,cone4,coned,1,coned,1,Same,-d,169,1718,862
+415,415,absquatulate,absquatulates,V;3;SG;PRS,+s,Regular,0,absquatulate0,absquatulates,1,absquatulates,1,Same,-s,185,1842,1842
+416,416,dimensionalise,dimensionalised,V;PST,+d,Irregular,2,dimensionalise2,dimensionalised,1,dimensionalised,1,Same,-d,169,1718,856
+417,417,mind-read,mind-read,V;NFIN,no change,Regular,1,mind-read1,mind-read,1,mind-read,1,Same,-,180,2035,2008
+418,418,encountre,encountring,V;V.PTCP;PRS,-e+ing,Irregular,3,encountre3,encountring,1,encountring,1,Same,e-ing,84,832,831
+419,419,temporalize,temporalize,V;NFIN,no change,Regular,1,temporalize1,temporalize,1,temporalize,1,Same,-,180,2035,2008
+420,420,mosey,moseying,V;V.PTCP;PRS,+ing,Regular,3,mosey3,moseying,1,moseying,1,Same,-ing,101,949,949
+421,421,basket,basket,V;NFIN,no change,Regular,1,basket1,basket,1,basket,1,Same,-,180,2035,2008
+422,422,unsoul,unsouled,V;V.PTCP;PST,+ed,Regular,4,unsoul4,unsouled,1,unsouled,1,Same,-ed,186,1605,788
+423,423,legitimize,legitimizes,V;3;SG;PRS,+s,Regular,0,legitimize0,legitimizes,1,legitimizes,1,Same,-s,185,1842,1842
+424,424,checker,checkered,V;PST,+ed,Regular,2,checker2,checkered,1,checkered,1,Same,-ed,186,1605,817
+425,425,slit,slits,V;3;SG;PRS,+s,Regular,0,slit0,slits,1,slits,1,Same,-s,185,1842,1842
+426,426,dick,dicks,V;3;SG;PRS,+s,Regular,0,dick0,dicks,1,dicks,1,Same,-s,185,1842,1842
+427,427,overwinter,overwintered,V;PST,+ed,Regular,2,overwinter2,overwintered,1,overwintered,1,Same,-ed,186,1605,817
+428,428,praemunire,praemunired,V;V.PTCP;PST,+d,Irregular,4,praemunire4,praemunired,1,praemunnred,0,Not Same,-d,169,1718,862
+429,429,pinpoint,pinpointing,V;V.PTCP;PRS,+ing,Regular,3,pinpoint3,pinpointing,1,pinpointing,1,Same,-ing,101,949,949
+430,430,scandal,scandals,V;3;SG;PRS,+s,Regular,0,scandal0,scandals,1,scannals,0,Not Same,-s,185,1842,1842
+431,431,install,installs,V;3;SG;PRS,+s,Regular,0,install0,installs,1,installs,1,Same,-s,185,1842,1842
+432,432,bemouth,bemouths,V;3;SG;PRS,+s,Regular,0,bemouth0,bemouthe,0,bemouths,1,Not Same,-s,185,1842,1842
+433,433,forsee,forsaw,V;PST,special,Irregular,2,forsee2,forsee,0,forsee,0,Same,ee-aw,1,1,1
+434,434,branch,branching,V;V.PTCP;PRS,+ing,Regular,3,branch3,branching,1,branching,1,Same,-ing,101,949,949
+435,435,ort,orted,V;V.PTCP;PST,+ed,Regular,4,ort4,orted,1,orted,1,Same,-ed,186,1605,788
+436,436,phagocyte,phagocyting,V;V.PTCP;PRS,-e+ing,Irregular,3,phagocyte3,phagocyting,1,phagocyting,1,Same,e-ing,84,832,831
+437,437,seize,seized,V;PST,+d,Irregular,2,seize2,seized,1,seized,1,Same,-d,169,1718,856
+438,438,impedite,impedite,V;NFIN,no change,Regular,1,impedite1,impedite,1,impedite,1,Same,-,180,2035,2008
+439,439,forwean,forweaning,V;V.PTCP;PRS,+ing,Regular,3,forwean3,forweaning,1,forweaning,1,Same,-ing,101,949,949
+440,440,billhook,billhooked,V;PST,+ed,Regular,2,billhook2,billhooked,1,billhooked,1,Same,-ed,186,1605,817
+441,441,withspeak,withspoken,V;V.PTCP;PST,special,Irregular,4,withspeak4,withspened,0,withspeeed,0,Not Same,eak-oken,1,1,1
+442,442,unminimize,unminimize,V;NFIN,no change,Regular,1,unminimize1,unminimize,1,unminimize,1,Same,-,180,2035,2008
+443,443,gully,gullied,V;PST,y-ied,Irregular,2,gully2,gullied,1,gullied,1,Same,y-ied,14,145,79
+444,444,boob,boobing,V;V.PTCP;PRS,+ing,Regular,3,boob3,boobbng,0,boobing,1,Not Same,-ing,101,949,949
+445,445,musicalize,musicalize,V;NFIN,no change,Regular,1,musicalize1,musicalize,1,musicalize,1,Same,-,180,2035,2008
+446,446,deperch,deperched,V;V.PTCP;PST,+ed,Regular,4,deperch4,deperched,1,deperched,1,Same,-ed,186,1605,788
+447,447,pamphletize,pamphletizing,V;V.PTCP;PRS,-e+ing,Irregular,3,pamphletize3,pamphletizing,1,pamphletizing,1,Same,e-ing,84,832,831
+448,448,happen,happening,V;V.PTCP;PRS,+ing,Regular,3,happen3,happening,1,happening,1,Same,-ing,101,949,949
+449,449,outbuy,outbuys,V;3;SG;PRS,+s,Regular,0,outbuy0,outbuys,1,outbuys,1,Same,-s,185,1842,1842
+450,450,whiff,whiffing,V;V.PTCP;PRS,+ing,Regular,3,whiff3,whiffing,1,whiffing,1,Same,-ing,101,949,949
+451,451,glaver,glavered,V;PST,+ed,Regular,2,glaver2,glavered,1,glavered,1,Same,-ed,186,1605,817
+452,452,unproof,unproofed,V;V.PTCP;PST,+ed,Regular,4,unproof4,unproofed,1,unproofed,1,Same,-ed,186,1605,788
+453,453,azotize,azotizing,V;V.PTCP;PRS,-e+ing,Irregular,3,azotize3,azotizing,1,azotizing,1,Same,e-ing,84,832,831
+454,454,subcategorise,subcategorised,V;PST,+d,Irregular,2,subcategorise2,subcategorised,1,subcategorised,1,Same,-d,169,1718,856
+455,455,modem,modem,V;NFIN,no change,Regular,1,modem1,modem,1,modem,1,Same,-,180,2035,2008
+456,456,permaban,permabanned,V;V.PTCP;PST,double spell,Irregular,4,permaban4,permabaneed,0,permabaneed,0,Same,-ned,2,20,8
+457,457,brown,browns,V;3;SG;PRS,+s,Regular,0,brown0,browns,1,browns,1,Same,-s,185,1842,1842
+458,458,itemise,itemises,V;3;SG;PRS,+s,Regular,0,itemise0,itemises,1,itemises,1,Same,-s,185,1842,1842
+459,459,displume,displume,V;NFIN,no change,Regular,1,displume1,displume,1,displume,1,Same,-,180,2035,2008
+460,460,copyleft,copyleft,V;NFIN,no change,Regular,1,copyleft1,copyleft,1,copyleft,1,Same,-,180,2035,2008
+461,461,curvet,curvetting,V;V.PTCP;PRS,double spell,Irregular,3,curvet3,curvetiing,0,curvetiing,0,Same,-ting,4,38,38
+462,462,subaid,subaids,V;3;SG;PRS,+s,Regular,0,subaid0,subaids,1,subaiis,0,Not Same,-s,185,1842,1842
+463,463,redeploy,redeploying,V;V.PTCP;PRS,+ing,Regular,3,redeploy3,redeploying,1,redeploying,1,Same,-ing,101,949,949
+464,464,adnominalize,adnominalized,V;PST,+d,Irregular,2,adnominalize2,adnominalized,1,adnominalized,1,Same,-d,169,1718,856
+465,465,forlese,forlese,V;NFIN,no change,Regular,1,forlese1,forlese,1,forlese,1,Same,-,180,2035,2008
+466,466,conquest,conquested,V;V.PTCP;PST,+ed,Regular,4,conquest4,conquested,1,conquested,1,Same,-ed,186,1605,788
+467,467,transude,transudes,V;3;SG;PRS,+s,Regular,0,transude0,transudes,1,transudes,1,Same,-s,185,1842,1842
+468,468,unvisard,unvisarded,V;V.PTCP;PST,+ed,Regular,4,unvisard4,unvisarded,1,unvisard,0,Not Same,-ed,186,1605,788
+469,469,gnosticise,gnosticise,V;NFIN,no change,Regular,1,gnosticise1,gnosticise,1,gnosticise,1,Same,-,180,2035,2008
+470,470,mischarge,mischarging,V;V.PTCP;PRS,-e+ing,Irregular,3,mischarge3,mischarging,1,mischarging,1,Same,e-ing,84,832,831
+471,471,hoke,hoked,V;V.PTCP;PST,+d,Irregular,4,hoke4,hoked,1,hoked,1,Same,-d,169,1718,862
+472,472,misgender,misgendered,V;V.PTCP;PST,+ed,Regular,4,misgender4,misgendered,1,misgendered,1,Same,-ed,186,1605,788
+473,473,photobleach,photobleached,V;V.PTCP;PST,+ed,Regular,4,photobleach4,photobleached,1,photobleached,1,Same,-ed,186,1605,788
+474,474,uplook,uplooks,V;3;SG;PRS,+s,Regular,0,uplook0,uplooks,1,uplooks,1,Same,-s,185,1842,1842
+475,475,fillet,filleted,V;V.PTCP;PST,+ed,Regular,4,fillet4,filleted,1,filleted,1,Same,-ed,186,1605,788
+476,476,perfix,perfixed,V;PST,+ed,Regular,2,perfix2,perfixed,1,perfixed,1,Same,-ed,186,1605,817
+477,477,dredge,dredging,V;V.PTCP;PRS,-e+ing,Irregular,3,dredge3,dredging,1,dredging,1,Same,e-ing,84,832,831
+478,478,super,supered,V;V.PTCP;PST,+ed,Regular,4,super4,supered,1,supered,1,Same,-ed,186,1605,788
+479,479,outwait,outwait,V;NFIN,no change,Regular,1,outwait1,outwait,1,outwait,1,Same,-,180,2035,2008
+480,480,strim,strimming,V;V.PTCP;PRS,double spell,Irregular,3,strim3,strimiing,0,strimiing,0,Same,-ming,2,12,12
+481,481,calm,calms,V;3;SG;PRS,+s,Regular,0,calm0,calms,1,calms,1,Same,-s,185,1842,1842
+482,482,deem,deemed,V;PST,+ed,Regular,2,deem2,deemed,1,deemed,1,Same,-ed,186,1605,817
+483,483,deneutralize,deneutralized,V;PST,+d,Irregular,2,deneutralize2,deneutralized,1,deneutralized,1,Same,-d,169,1718,856
+484,484,abscind,abscinding,V;V.PTCP;PRS,+ing,Regular,3,abscind3,abscinding,1,abscinding,1,Same,-ing,101,949,949
+485,485,smoulder,smouldering,V;V.PTCP;PRS,+ing,Regular,3,smoulder3,smouldering,1,smouldering,1,Same,-ing,101,949,949
+486,486,wiss,wiss,V;NFIN,no change,Regular,1,wiss1,wiss,1,wiss,1,Same,-,180,2035,2008
+487,487,Maorify,Maorify,V;NFIN,no change,Regular,1,Maorify1,maorify,1,maorify,1,Same,-,180,2035,2008
+488,488,glei,gleis,V;3;SG;PRS,+s,Regular,0,glei0,gleis,1,gleie,0,Not Same,-s,185,1842,1842
+489,489,desquamate,desquamated,V;V.PTCP;PST,+d,Irregular,4,desquamate4,desquamated,1,desquamated,1,Same,-d,169,1718,862
+490,490,begowk,begowks,V;3;SG;PRS,+s,Regular,0,begowk0,begowks,1,begowks,1,Same,-s,185,1842,1842
+491,491,restick,restick,V;NFIN,no change,Regular,1,restick1,restick,1,restick,1,Same,-,180,2035,2008
+492,492,resculpt,resculpting,V;V.PTCP;PRS,+ing,Regular,3,resculpt3,resculpting,1,resculpting,1,Same,-ing,101,949,949
+493,493,marline,marlined,V;PST,+d,Irregular,2,marline2,marlined,1,marlined,1,Same,-d,169,1718,856
+494,494,crusade,crusaded,V;PST,+d,Irregular,2,crusade2,crusaded,1,crusaded,1,Same,-d,169,1718,856
+495,495,overveil,overveiled,V;PST,+ed,Regular,2,overveil2,overveilld,0,overveiled,1,Not Same,-ed,186,1605,817
+496,496,waken,waken,V;NFIN,no change,Regular,1,waken1,waken,1,waken,1,Same,-,180,2035,2008
+497,497,overtalk,overtalks,V;3;SG;PRS,+s,Regular,0,overtalk0,overtalks,1,overtalks,1,Same,-s,185,1842,1842
+498,498,dummy,dummy,V;NFIN,no change,Regular,1,dummy1,dummy,1,dummy,1,Same,-,180,2035,2008
+499,499,top-dress,top-dressing,V;V.PTCP;PRS,+ing,Regular,3,top-dress3,top-dressing,1,top-dressing,1,Same,-ing,101,949,949
+500,500,sacre,sacres,V;3;SG;PRS,+s,Regular,0,sacre0,sacres,1,sacres,1,Same,-s,185,1842,1842
+501,501,enveigle,enveigle,V;NFIN,no change,Regular,1,enveigle1,enveigle,1,enveigle,1,Same,-,180,2035,2008
+502,502,pimp,pimped,V;V.PTCP;PST,+ed,Regular,4,pimp4,pimppd,0,pimped,1,Not Same,-ed,186,1605,788
+503,503,capacify,capacified,V;V.PTCP;PST,y-ied,Irregular,4,capacify4,capacified,1,capacified,1,Same,y-ied,14,145,66
+504,504,reutilise,reutilise,V;NFIN,no change,Regular,1,reutilise1,reutilise,1,reutilise,1,Same,-,180,2035,2008
+505,505,reinitiate,reinitiate,V;NFIN,no change,Regular,1,reinitiate1,reinitiate,1,reinitiate,1,Same,-,180,2035,2008
+506,506,phone,phoned,V;V.PTCP;PST,+d,Irregular,4,phone4,phoned,1,phoned,1,Same,-d,169,1718,862
+507,507,uptalk,uptalked,V;PST,+ed,Regular,2,uptalk2,uptalked,1,uptalked,1,Same,-ed,186,1605,817
+508,508,rebalance,rebalance,V;NFIN,no change,Regular,1,rebalance1,rebalance,1,rebalance,1,Same,-,180,2035,2008
+509,509,wet,wet,V;V.PTCP;PST,no change,Irregular,4,wet4,wett eeeeeeeeee,0,wete e,0,Not Same,-,180,2035,11
+510,510,rame,rame,V;NFIN,no change,Regular,1,rame1,rame,1,rame,1,Same,-,180,2035,2008
+511,511,accustom,accustoms,V;3;SG;PRS,+s,Regular,0,accustom0,accustoms,1,accustoms,1,Same,-s,185,1842,1842
+512,512,lacker,lackering,V;V.PTCP;PRS,+ing,Regular,3,lacker3,lackering,1,lackering,1,Same,-ing,101,949,949
+513,513,infest,infests,V;3;SG;PRS,+s,Regular,0,infest0,infests,1,infests,1,Same,-s,185,1842,1842
+514,514,protuberate,protuberate,V;NFIN,no change,Regular,1,protuberate1,protuberate,1,protuberate,1,Same,-,180,2035,2008
+515,515,audit,audited,V;PST,+ed,Regular,2,audit2,audited,1,audited,1,Same,-ed,186,1605,817
+516,516,sensationalize,sensationalizes,V;3;SG;PRS,+s,Regular,0,sensationalize0,sensationalizes,1,sensationalizes,1,Same,-s,185,1842,1842
+517,517,comigrate,comigrated,V;PST,+d,Irregular,2,comigrate2,comigrated,1,comigrated,1,Same,-d,169,1718,856
+518,518,autoinfect,autoinfects,V;3;SG;PRS,+s,Regular,0,autoinfect0,autoinfects,1,autoinfects,1,Same,-s,185,1842,1842
+519,519,pincushion,pincushioned,V;PST,+ed,Regular,2,pincushion2,pincushioned,1,pincushioned,1,Same,-ed,186,1605,817
+520,520,write-off,write-off,V;NFIN,no change,Regular,1,write-off1,write-off,1,write-off,1,Same,-,180,2035,2008
+521,521,furnish,furnishes,V;3;SG;PRS,+es,Irregular,0,furnish0,furnishes,1,furnishes,1,Same,-es,17,103,103
+522,522,zeroise,zeroised,V;V.PTCP;PST,+d,Irregular,4,zeroise4,zeroised,1,zeroised,1,Same,-d,169,1718,862
+523,523,cony-catch,cony-catching,V;V.PTCP;PRS,+ing,Regular,3,cony-catch3,cony-catching,1,cony-catching,1,Same,-ing,101,949,949
+524,524,outface,outfaced,V;V.PTCP;PST,+d,Irregular,4,outface4,outfaced,1,outfaced,1,Same,-d,169,1718,862
+525,525,fatten,fattened,V;V.PTCP;PST,+ed,Regular,4,fatten4,fattened,1,fattened,1,Same,-ed,186,1605,788
+526,526,apprentice,apprenticing,V;V.PTCP;PRS,-e+ing,Irregular,3,apprentice3,apprenticing,1,apprenticing,1,Same,e-ing,84,832,831
+527,527,overcommit,overcommits,V;3;SG;PRS,+s,Regular,0,overcommit0,overcommits,1,overcommits,1,Same,-s,185,1842,1842
+528,528,manifold,manifolded,V;V.PTCP;PST,+ed,Regular,4,manifold4,manifolded,1,manifolded,1,Same,-ed,186,1605,788
+529,529,controverse,controversed,V;V.PTCP;PST,+d,Irregular,4,controverse4,controversed,1,controversed,1,Same,-d,169,1718,862
+530,530,wisen,wisens,V;3;SG;PRS,+s,Regular,0,wisen0,wisens,1,wisens,1,Same,-s,185,1842,1842
+531,531,encroach,encroached,V;V.PTCP;PST,+ed,Regular,4,encroach4,encroached,1,encroached,1,Same,-ed,186,1605,788
+532,532,gift,gifts,V;3;SG;PRS,+s,Regular,0,gift0,gifts,1,gifts,1,Same,-s,185,1842,1842
+533,533,transitivize,transitivize,V;NFIN,no change,Regular,1,transitivize1,transitivize,1,transitivize,1,Same,-,180,2035,2008
+534,534,teeter,teetered,V;PST,+ed,Regular,2,teeter2,teetered,1,teetered,1,Same,-ed,186,1605,817
+535,535,macromanage,macromanages,V;3;SG;PRS,+s,Regular,0,macromanage0,macromanages,1,macromanages,1,Same,-s,185,1842,1842
+536,536,vagabond,vagabonding,V;V.PTCP;PRS,+ing,Regular,3,vagabond3,vagabonding,1,vagabonding,1,Same,-ing,101,949,949
+537,537,overidentify,overidentified,V;PST,y-ied,Irregular,2,overidentify2,overidentified,1,overidentified,1,Same,y-ied,14,145,79
+538,538,counterindoctrinate,counterindoctrinated,V;PST,+d,Irregular,2,counterindoctrinate2,counterindoctrinated,1,counterindoctriiiiiii iii,0,Not Same,-d,169,1718,856
+539,539,inspire,inspiring,V;V.PTCP;PRS,-e+ing,Irregular,3,inspire3,inspiring,1,inspiring,1,Same,e-ing,84,832,831
+540,540,tympanize,tympanizes,V;3;SG;PRS,+s,Regular,0,tympanize0,tympanizes,1,tympanizes,1,Same,-s,185,1842,1842
+541,541,annihilate,annihilated,V;PST,+d,Irregular,2,annihilate2,annihilated,1,annihilated,1,Same,-d,169,1718,856
+542,542,disenvowel,disenvowelled,V;PST,double spell,Irregular,2,disenvowel2,disenvoweleed,0,disenvoweleed,0,Same,-led,7,47,20
+543,543,dross,dross,V;NFIN,no change,Regular,1,dross1,dross,1,dross,1,Same,-,180,2035,2008
+544,544,standby,standby,V;NFIN,no change,Regular,1,standby1,standby,1,standby,1,Same,-,180,2035,2008
+545,545,recategorize,recategorizing,V;V.PTCP;PRS,-e+ing,Irregular,3,recategorize3,recategorizing,1,recategorizing,1,Same,e-ing,84,832,831
+546,546,outbutt,outbutted,V;V.PTCP;PST,+ed,Regular,4,outbutt4,outbutted,1,outbutted,1,Same,-ed,186,1605,788
+547,547,unreeve,unreeved,V;PST,+d,Irregular,2,unreeve2,unreeved,1,unreevvd,0,Not Same,-d,169,1718,856
+548,548,monopolise,monopolised,V;PST,+d,Irregular,2,monopolise2,monopolised,1,monopolised,1,Same,-d,169,1718,856
+549,549,autocatalyze,autocatalyzes,V;3;SG;PRS,+s,Regular,0,autocatalyze0,autocatalyzes,1,autocatalizes,0,Not Same,-s,185,1842,1842
+550,550,fly-tip,fly-tip,V;NFIN,no change,Regular,1,fly-tip1,fly-tip,1,fly-tip,1,Same,-,180,2035,2008
+551,551,outprize,outprized,V;PST,+d,Irregular,2,outprize2,outprized,1,outprized,1,Same,-d,169,1718,856
+552,552,reisolate,reisolating,V;V.PTCP;PRS,-e+ing,Irregular,3,reisolate3,reisolating,1,reisolating,1,Same,e-ing,84,832,831
+553,553,bridge,bridged,V;PST,+d,Irregular,2,bridge2,bridged,1,bridged,1,Same,-d,169,1718,856
+554,554,unwork,unworks,V;3;SG;PRS,+s,Regular,0,unwork0,unworks,1,unworks,1,Same,-s,185,1842,1842
+555,555,quay,quays,V;3;SG;PRS,+s,Regular,0,quay0,quays,1,quays,1,Same,-s,185,1842,1842
+556,556,inchamber,inchambered,V;V.PTCP;PST,+ed,Regular,4,inchamber4,inchambered,1,inchambered,1,Same,-ed,186,1605,788
+557,557,bartend,bartended,V;V.PTCP;PST,+ed,Regular,4,bartend4,bartended,1,bartended,1,Same,-ed,186,1605,788
+558,558,miscome,miscome,V;V.PTCP;PST,no change,Irregular,4,miscome4,miscomed,0,miscomed,0,Same,-,180,2035,11
+559,559,swidden,swiddened,V;V.PTCP;PST,+ed,Regular,4,swidden4,swiddened,1,swiddened,1,Same,-ed,186,1605,788
+560,560,insinuate,insinuating,V;V.PTCP;PRS,-e+ing,Irregular,3,insinuate3,insinuating,1,insinuating,1,Same,e-ing,84,832,831
+561,561,vocode,vocode,V;NFIN,no change,Regular,1,vocode1,vocode,1,vocode,1,Same,-,180,2035,2008
+562,562,mew,mews,V;3;SG;PRS,+s,Regular,0,mew0,mews,1,mews,1,Same,-s,185,1842,1842
+563,563,fire,fire,V;NFIN,no change,Regular,1,fire1,fire,1,fire,1,Same,-,180,2035,2008
+564,564,parameterize,parameterized,V;V.PTCP;PST,+d,Irregular,4,parameterize4,parameterized,1,parameterized,1,Same,-d,169,1718,862
+565,565,decard,decarding,V;V.PTCP;PRS,+ing,Regular,3,decard3,decarding,1,decarding,1,Same,-ing,101,949,949
+566,566,chirm,chirm,V;NFIN,no change,Regular,1,chirm1,chirm,1,chirm,1,Same,-,180,2035,2008
+567,567,shake,shakes,V;3;SG;PRS,+s,Regular,0,shake0,shakes,1,shakes,1,Same,-s,185,1842,1842
+568,568,contex,contexing,V;V.PTCP;PRS,+ing,Regular,3,contex3,contexing,1,contexing,1,Same,-ing,101,949,949
+569,569,attinge,attinged,V;V.PTCP;PST,+d,Irregular,4,attinge4,attinged,1,attinged,1,Same,-d,169,1718,862
+570,570,backset,backset,V;PST,no change,Irregular,2,backset2,backsete eeeeeeeeee,0,backsete eeeeeeeeeeedeeed,0,Not Same,-,180,2035,14
+571,571,enthuse,enthuses,V;3;SG;PRS,+s,Regular,0,enthuse0,enthuses,1,enthuses,1,Same,-s,185,1842,1842
+572,572,freeboot,freeboots,V;3;SG;PRS,+s,Regular,0,freeboot0,freeboots,1,freeboots,1,Same,-s,185,1842,1842
+573,573,capacify,capacify,V;NFIN,no change,Regular,1,capacify1,capacify,1,capacify,1,Same,-,180,2035,2008
+574,574,redargue,redargue,V;NFIN,no change,Regular,1,redargue1,redargue,1,redargue,1,Same,-,180,2035,2008
+575,575,ditto,dittos,V;3;SG;PRS,+s,Regular,0,ditto0,dittos,1,dittos,1,Same,-s,185,1842,1842
+576,576,mich,miching,V;V.PTCP;PRS,+ing,Regular,3,mich3,miching,1,miching,1,Same,-ing,101,949,949
+577,577,strinkle,strinkled,V;PST,+d,Irregular,2,strinkle2,strinkled,1,strinkled,1,Same,-d,169,1718,856
+578,578,floodlight,floodlighted,V;PST,+ed,Regular,2,floodlight2,floodlighted,1,floodlighted,1,Same,-ed,186,1605,817
+579,579,dure,dured,V;V.PTCP;PST,+d,Irregular,4,dure4,dured,1,dured,1,Same,-d,169,1718,862
+580,580,brandish,brandished,V;V.PTCP;PST,+ed,Regular,4,brandish4,brandished,1,brandished,1,Same,-ed,186,1605,788
+581,581,chastize,chastized,V;PST,+d,Irregular,2,chastize2,chastized,1,chastized,1,Same,-d,169,1718,856
+582,582,crossref,crossreffed,V;V.PTCP;PST,double spell,Irregular,4,crossref4,crossrefeed,0,crossrefeed,0,Same,-fed,1,unseen,unseen
+583,583,swamp,swamping,V;V.PTCP;PRS,+ing,Regular,3,swamp3,swamppng,0,swamping,1,Not Same,-ing,101,949,949
+584,584,embloom,emblooming,V;V.PTCP;PRS,+ing,Regular,3,embloom3,emblooming,1,emblooming,1,Same,-ing,101,949,949
+585,585,toughen,toughening,V;V.PTCP;PRS,+ing,Regular,3,toughen3,toughening,1,toughening,1,Same,-ing,101,949,949
+586,586,unown,unowns,V;3;SG;PRS,+s,Regular,0,unown0,unowns,1,unowns,1,Same,-s,185,1842,1842
+587,587,perendinate,perendinate,V;NFIN,no change,Regular,1,perendinate1,perendinate,1,perendinate,1,Same,-,180,2035,2008
+588,588,dedupe,deduping,V;V.PTCP;PRS,-e+ing,Irregular,3,dedupe3,deduping,1,deduping,1,Same,e-ing,84,832,831
+589,589,pastour,pastoured,V;PST,+ed,Regular,2,pastour2,pastoured,1,pastoured,1,Same,-ed,186,1605,817
+590,590,gash,gashes,V;3;SG;PRS,+es,Irregular,0,gash0,gashes,1,gashes,1,Same,-es,17,103,103
+591,591,outrange,outranges,V;3;SG;PRS,+s,Regular,0,outrange0,outranges,1,outranges,1,Same,-s,185,1842,1842
+592,592,raspberry,raspberried,V;V.PTCP;PST,y-ied,Irregular,4,raspberry4,raspberried,1,raspberried,1,Same,y-ied,14,145,66
+593,593,transfrete,transfreted,V;PST,+d,Irregular,2,transfrete2,transfreted,1,transfreted,1,Same,-d,169,1718,856
+594,594,unface,unfacing,V;V.PTCP;PRS,-e+ing,Irregular,3,unface3,unfacing,1,unfacing,1,Same,e-ing,84,832,831
+595,595,indevour,indevours,V;3;SG;PRS,+s,Regular,0,indevour0,indevours,1,indevours,1,Same,-s,185,1842,1842
+596,596,cloverleaf,cloverleafs,V;3;SG;PRS,+s,Regular,0,cloverleaf0,cloverleafs,1,cloverleafs,1,Same,-s,185,1842,1842
+597,597,acronymise,acronymises,V;3;SG;PRS,+s,Regular,0,acronymise0,acronymises,1,acronymises,1,Same,-s,185,1842,1842
+598,598,ritualize,ritualizing,V;V.PTCP;PRS,-e+ing,Irregular,3,ritualize3,ritualizing,1,ritualizing,1,Same,e-ing,84,832,831
+599,599,resediment,resedimented,V;V.PTCP;PST,+ed,Regular,4,resediment4,resedimented,1,resedimented,1,Same,-ed,186,1605,788
+600,600,stellify,stellifies,V;3;SG;PRS,y-ies,Irregular,0,stellify0,stellifies,1,stellifies,1,Same,y-ies,7,74,74
+601,601,triphthongize,triphthongized,V;PST,+d,Irregular,2,triphthongize2,triphthongized,1,triphthongized,1,Same,-d,169,1718,856
+602,602,reblog,reblogs,V;3;SG;PRS,+s,Regular,0,reblog0,reblogs,1,reblogs,1,Same,-s,185,1842,1842
+603,603,shirt,shirting,V;V.PTCP;PRS,+ing,Regular,3,shirt3,shirting,1,shirting,1,Same,-ing,101,949,949
+604,604,defecate,defecated,V;V.PTCP;PST,+d,Irregular,4,defecate4,defecated,1,defecated,1,Same,-d,169,1718,862
+605,605,whirr,whirring,V;V.PTCP;PRS,+ing,Regular,3,whirr3,whirrrng,0,whirring,1,Not Same,-ing,101,949,949
+606,606,disturn,disturned,V;V.PTCP;PST,+ed,Regular,4,disturn4,disturned,1,disturned,1,Same,-ed,186,1605,788
+607,607,boln,bolns,V;3;SG;PRS,+s,Regular,0,boln0,bolns,1,bolns,1,Same,-s,185,1842,1842
+608,608,crispen,crispened,V;PST,+ed,Regular,2,crispen2,crispened,1,crispened,1,Same,-ed,186,1605,817
+609,609,gladder,gladder,V;NFIN,no change,Regular,1,gladder1,gladder,1,gladder,1,Same,-,180,2035,2008
+610,610,telecopy,telecopied,V;PST,y-ied,Irregular,2,telecopy2,telecopied,1,telecopied,1,Same,y-ied,14,145,79
+611,611,advocate,advocate,V;NFIN,no change,Regular,1,advocate1,advocate,1,advocate,1,Same,-,180,2035,2008
+612,612,blacken,blackened,V;V.PTCP;PST,+ed,Regular,4,blacken4,blackened,1,blackened,1,Same,-ed,186,1605,788
+613,613,incombine,incombined,V;V.PTCP;PST,+d,Irregular,4,incombine4,incombined,1,incombined,1,Same,-d,169,1718,862
+614,614,annunciate,annunciate,V;NFIN,no change,Regular,1,annunciate1,annunciate,1,annunciate,1,Same,-,180,2035,2008
+615,615,weight,weighted,V;V.PTCP;PST,+ed,Regular,4,weight4,weighted,1,weighted,1,Same,-ed,186,1605,788
+616,616,anhele,anheled,V;PST,+d,Irregular,2,anhele2,anheled,1,anheled,1,Same,-d,169,1718,856
+617,617,bedaggle,bedaggles,V;3;SG;PRS,+s,Regular,0,bedaggle0,bedaggles,1,bedaggles,1,Same,-s,185,1842,1842
+618,618,jawn,jawn,V;NFIN,no change,Regular,1,jawn1,jawn,1,jawn,1,Same,-,180,2035,2008
+619,619,tote,totes,V;3;SG;PRS,+s,Regular,0,tote0,totes,1,totes,1,Same,-s,185,1842,1842
+620,620,mischristen,mischristening,V;V.PTCP;PRS,+ing,Regular,3,mischristen3,mischristening,1,mischristening,1,Same,-ing,101,949,949
+621,621,solecize,solecized,V;PST,+d,Irregular,2,solecize2,solecized,1,solecized,1,Same,-d,169,1718,856
+622,622,photorelease,photoreleased,V;PST,+d,Irregular,2,photorelease2,photoreleased,1,photoreleased,1,Same,-d,169,1718,856
+623,623,ferule,feruled,V;PST,+d,Irregular,2,ferule2,feruled,1,feruled,1,Same,-d,169,1718,856
+624,624,unaccept,unaccept,V;NFIN,no change,Regular,1,unaccept1,unaccept,1,unaccept,1,Same,-,180,2035,2008
+625,625,frown,frown,V;NFIN,no change,Regular,1,frown1,frown,1,frown,1,Same,-,180,2035,2008
+626,626,pinion,pinioned,V;V.PTCP;PST,+ed,Regular,4,pinion4,pinioned,1,pinioned,1,Same,-ed,186,1605,788
+627,627,disflesh,disfleshes,V;3;SG;PRS,+es,Irregular,0,disflesh0,disfleshes,1,disfleshes,1,Same,-es,17,103,103
+628,628,b'lieve,b'lieved,V;V.PTCP;PST,+d,Irregular,4,b'lieve4,b'lieved,1,b'lieved,1,Same,-d,169,1718,862
+629,629,phagocytize,phagocytized,V;PST,+d,Irregular,2,phagocytize2,phagocytized,1,phagocytized,1,Same,-d,169,1718,856
+630,630,bivy,bivyed,V;PST,+ed,Regular,2,bivy2,bivied,0,bivied,0,Same,-ed,186,1605,817
+631,631,imbrown,imbrowned,V;PST,+ed,Regular,2,imbrown2,imbrowned,1,imbrowned,1,Same,-ed,186,1605,817
+632,632,chuck,chucked,V;V.PTCP;PST,+ed,Regular,4,chuck4,chucked,1,chucked,1,Same,-ed,186,1605,788
+633,633,gainstrive,gainstrove,V;PST,special,Irregular,2,gainstrive2,gainstrived eee,0,gainstrived eeeeeeeeeeeee,0,Not Same,i-o,2,15,12
+634,634,campus,campusing,V;V.PTCP;PRS,+ing,Regular,3,campus3,campusing,1,campusing,1,Same,-ing,101,949,949
+635,635,bewhore,bewhored,V;PST,+d,Irregular,2,bewhore2,bewhored,1,bewhored,1,Same,-d,169,1718,856
+636,636,fisk,fisking,V;V.PTCP;PRS,+ing,Regular,3,fisk3,fisking,1,fisking,1,Same,-ing,101,949,949
+637,637,increment,increments,V;3;SG;PRS,+s,Regular,0,increment0,increments,1,increments,1,Same,-s,185,1842,1842
+638,638,misplan,misplanning,V;V.PTCP;PRS,double spell,Irregular,3,misplan3,misplaniing,0,misplaniing,0,Same,-ning,1,16,16
+639,639,preoccupate,preoccupated,V;PST,+d,Irregular,2,preoccupate2,preoccupated,1,preoccupated,1,Same,-d,169,1718,856
+640,640,whoo,whoo,V;NFIN,no change,Regular,1,whoo1,whoo,1,whoo,1,Same,-,180,2035,2008
+641,641,Australianise,Australianising,V;V.PTCP;PRS,-e+ing,Irregular,3,Australianise3,australianising,1,australianising,1,Same,e-ing,84,832,831
+642,642,validify,validified,V;V.PTCP;PST,y-ied,Irregular,4,validify4,validified,1,validified,1,Same,y-ied,14,145,66
+643,643,jip,jipped,V;V.PTCP;PST,double spell,Irregular,4,jip4,jipped,1,jipeed,0,Not Same,-ped,1,54,28
+644,644,overgeneralize,overgeneralized,V;V.PTCP;PST,+d,Irregular,4,overgeneralize4,overgeneralized,1,overgeneralized,1,Same,-d,169,1718,862
+645,645,reinfect,reinfected,V;PST,+ed,Regular,2,reinfect2,reinfected,1,reinfected,1,Same,-ed,186,1605,817
+646,646,interlay,interlaid,V;V.PTCP;PST,special,Irregular,4,interlay4,interlaye,0,interlaie,0,Not Same,y-id,1,10,4
+647,647,adnominalize,adnominalizing,V;V.PTCP;PRS,-e+ing,Irregular,3,adnominalize3,adnominalizing,1,adnominalizing,1,Same,e-ing,84,832,831
+648,648,unjoint,unjoints,V;3;SG;PRS,+s,Regular,0,unjoint0,unjoints,1,unjoints,1,Same,-s,185,1842,1842
+649,649,inaugur,inaugured,V;V.PTCP;PST,+ed,Regular,4,inaugur4,inaugured,1,inaugured,1,Same,-ed,186,1605,788
+650,650,reclip,reclip,V;NFIN,no change,Regular,1,reclip1,reclip,1,reclip,1,Same,-,180,2035,2008
+651,651,bully,bullied,V;V.PTCP;PST,y-ied,Irregular,4,bully4,bullied,1,bullied,1,Same,y-ied,14,145,66
+652,652,dropkick,dropkicked,V;PST,+ed,Regular,2,dropkick2,dropkicked,1,dropkicked,1,Same,-ed,186,1605,817
+653,653,flabergast,flabergasted,V;PST,+ed,Regular,2,flabergast2,flabergasted,1,flabergasted,1,Same,-ed,186,1605,817
+654,654,unchoke,unchoke,V;NFIN,no change,Regular,1,unchoke1,unchoke,1,unchoke,1,Same,-,180,2035,2008
+655,655,derogate,derogated,V;V.PTCP;PST,+d,Irregular,4,derogate4,derogated,1,derogated,1,Same,-d,169,1718,862
+656,656,resilence,resilence,V;NFIN,no change,Regular,1,resilence1,resilence,1,resilence,1,Same,-,180,2035,2008
+657,657,bedaze,bedaze,V;NFIN,no change,Regular,1,bedaze1,bedaze,1,bedaze,1,Same,-,180,2035,2008
+658,658,remelt,remelting,V;V.PTCP;PRS,+ing,Regular,3,remelt3,remelting,1,remelting,1,Same,-ing,101,949,949
+659,659,splatter,splatters,V;3;SG;PRS,+s,Regular,0,splatter0,splatters,1,splatters,1,Same,-s,185,1842,1842
+660,660,reboiler,reboilers,V;3;SG;PRS,+s,Regular,0,reboiler0,reboilers,1,reboilers,1,Same,-s,185,1842,1842
+661,661,sally,sally,V;NFIN,no change,Regular,1,sally1,sally,1,sally,1,Same,-,180,2035,2008
+662,662,bioconcentrate,bioconcentrated,V;PST,+d,Irregular,2,bioconcentrate2,bioconcentrated,1,bioconcentrated,1,Same,-d,169,1718,856
+663,663,unbeast,unbeasts,V;3;SG;PRS,+s,Regular,0,unbeast0,unbeasts,1,unbeasts,1,Same,-s,185,1842,1842
+664,664,engraft,engrafting,V;V.PTCP;PRS,+ing,Regular,3,engraft3,engrafting,1,engrafting,1,Same,-ing,101,949,949
+665,665,occlude,occluded,V;V.PTCP;PST,+d,Irregular,4,occlude4,occluded,1,occluded,1,Same,-d,169,1718,862
+666,666,yarr,yarring,V;V.PTCP;PRS,+ing,Regular,3,yarr3,yarring,1,yarring,1,Same,-ing,101,949,949
+667,667,braze,brazing,V;V.PTCP;PRS,-e+ing,Irregular,3,braze3,brazing,1,brazing,1,Same,e-ing,84,832,831
+668,668,resplend,resplends,V;3;SG;PRS,+s,Regular,0,resplend0,resplends,1,resplenns,0,Not Same,-s,185,1842,1842
+669,669,preface,prefaced,V;V.PTCP;PST,+d,Irregular,4,preface4,prefaced,1,prefaced,1,Same,-d,169,1718,862
+670,670,slighten,slightening,V;V.PTCP;PRS,+ing,Regular,3,slighten3,slightening,1,slightening,1,Same,-ing,101,949,949
+671,671,mase,mases,V;3;SG;PRS,+s,Regular,0,mase0,mases,1,mases,1,Same,-s,185,1842,1842
+672,672,overlearn,overlearning,V;V.PTCP;PRS,+ing,Regular,3,overlearn3,overlearning,1,overlearning,1,Same,-ing,101,949,949
+673,673,initialise,initialises,V;3;SG;PRS,+s,Regular,0,initialise0,initialises,1,initialises,1,Same,-s,185,1842,1842
+674,674,boulder,boulders,V;3;SG;PRS,+s,Regular,0,boulder0,boulders,1,boullers,0,Not Same,-s,185,1842,1842
+675,675,command,command,V;NFIN,no change,Regular,1,command1,command,1,command,1,Same,-,180,2035,2008
+676,676,incend,incends,V;3;SG;PRS,+s,Regular,0,incend0,incends,1,incenns,0,Not Same,-s,185,1842,1842
+677,677,monumentalize,monumentalized,V;PST,+d,Irregular,2,monumentalize2,monumentalized,1,monumentalized,1,Same,-d,169,1718,856
+678,678,overjoy,overjoyed,V;V.PTCP;PST,+ed,Regular,4,overjoy4,overjoyed,1,overjoied,0,Not Same,-ed,186,1605,788
+679,679,adeem,adeems,V;3;SG;PRS,+s,Regular,0,adeem0,adeems,1,adeems,1,Same,-s,185,1842,1842
+680,680,deacetylate,deacetylated,V;PST,+d,Irregular,2,deacetylate2,deacetylated,1,deacetylated,1,Same,-d,169,1718,856
+681,681,metricise,metricised,V;V.PTCP;PST,+d,Irregular,4,metricise4,metricised,1,metricised,1,Same,-d,169,1718,862
+682,682,haver,havers,V;3;SG;PRS,+s,Regular,0,haver0,havers,1,havers,1,Same,-s,185,1842,1842
+683,683,usurp,usurps,V;3;SG;PRS,+s,Regular,0,usurp0,usurps,1,usurps,1,Same,-s,185,1842,1842
+684,684,overweight,overweighted,V;PST,+ed,Regular,2,overweight2,overweighted,1,overweighted,1,Same,-ed,186,1605,817
+685,685,offlead,offleading,V;V.PTCP;PRS,+ing,Regular,3,offlead3,offleading,1,offleading,1,Same,-ing,101,949,949
+686,686,bread,breaded,V;V.PTCP;PST,+ed,Regular,4,bread4,breaded,1,breaded,1,Same,-ed,186,1605,788
+687,687,bach,baches,V;3;SG;PRS,+es,Irregular,0,bach0,baches,1,bachss,0,Not Same,-es,17,103,103
+688,688,paragon,paragoned,V;V.PTCP;PST,+ed,Regular,4,paragon4,paragoned,1,paragoned,1,Same,-ed,186,1605,788
+689,689,amass,amasses,V;3;SG;PRS,+es,Irregular,0,amass0,amasses,1,amass,0,Not Same,-es,17,103,103
+690,690,monotask,monotasked,V;PST,+ed,Regular,2,monotask2,monotasked,1,monotasked,1,Same,-ed,186,1605,817
+691,691,outdare,outdaring,V;V.PTCP;PRS,-e+ing,Irregular,3,outdare3,outdaring,1,outdaring,1,Same,e-ing,84,832,831
+692,692,structuralise,structuralising,V;V.PTCP;PRS,-e+ing,Irregular,3,structuralise3,structuralising,1,structuralising,1,Same,e-ing,84,832,831
+693,693,broil,broiled,V;V.PTCP;PST,+ed,Regular,4,broil4,broiled,1,broiled,1,Same,-ed,186,1605,788
+694,694,dastard,dastarded,V;V.PTCP;PST,+ed,Regular,4,dastard4,dastarded,1,dastarded,1,Same,-ed,186,1605,788
+695,695,toenail,toenailed,V;V.PTCP;PST,+ed,Regular,4,toenail4,toenailed,1,toenailed,1,Same,-ed,186,1605,788
+696,696,wrong-foot,wrong-footing,V;V.PTCP;PRS,+ing,Regular,3,wrong-foot3,wrong-footing,1,wrong-footing,1,Same,-ing,101,949,949
+697,697,reactivate,reactivating,V;V.PTCP;PRS,-e+ing,Irregular,3,reactivate3,reactivating,1,reactivating,1,Same,e-ing,84,832,831
+698,698,unshape,unshope,V;PST,special,Irregular,2,unshape2,unshoped,0,unshaped eeeeeeeeeeedeeed,0,Not Same,a-o,1,1,1
+699,699,gush,gushes,V;3;SG;PRS,+es,Irregular,0,gush0,gushes,1,gushes,1,Same,-es,17,103,103
+700,700,surround,surrounded,V;PST,+ed,Regular,2,surround2,surrounded,1,surrounded,1,Same,-ed,186,1605,817
+701,701,consociate,consociate,V;NFIN,no change,Regular,1,consociate1,consociate,1,consociate,1,Same,-,180,2035,2008
+702,702,Zuluize,Zuluized,V;V.PTCP;PST,+d,Irregular,4,Zuluize4,zuluized,0,zuluized,1,Same,-d,169,1718,862
+703,703,negroize,negroizes,V;3;SG;PRS,+s,Regular,0,negroize0,negroizes,1,negroizes,1,Same,-s,185,1842,1842
+704,704,warranty,warranties,V;3;SG;PRS,y-ies,Irregular,0,warranty0,warranties,1,warranties,1,Same,y-ies,7,74,74
+705,705,compt,compts,V;3;SG;PRS,+s,Regular,0,compt0,compts,1,compts,1,Same,-s,185,1842,1842
+706,706,reverse-pickpocket,reverse-pickpocket,V;NFIN,no change,Regular,1,reverse-pickpocket1,reverse-pickpockes,0,reverse-pickpocccc,0,Not Same,-,180,2035,2008
+707,707,arear,arears,V;3;SG;PRS,+s,Regular,0,arear0,arears,1,arears,1,Same,-s,185,1842,1842
+708,708,outworth,outworths,V;3;SG;PRS,+s,Regular,0,outworth0,outworthe,0,outworths,1,Not Same,-s,185,1842,1842
+709,709,task,tasking,V;V.PTCP;PRS,+ing,Regular,3,task3,tasking,1,tasking,1,Same,-ing,101,949,949
+710,710,dodder,dodders,V;3;SG;PRS,+s,Regular,0,dodder0,dodders,1,dodders,1,Same,-s,185,1842,1842
+711,711,lant,lanted,V;PST,+ed,Regular,2,lant2,lanted,1,lanted,1,Same,-ed,186,1605,817
+712,712,overcanopy,overcanopy,V;NFIN,no change,Regular,1,overcanopy1,overcanopy,1,overcanopy,1,Same,-,180,2035,2008
+713,713,interrelate,interrelate,V;NFIN,no change,Regular,1,interrelate1,interrelate,1,interrelate,1,Same,-,180,2035,2008
+714,714,shmooze,shmoozing,V;V.PTCP;PRS,-e+ing,Irregular,3,shmooze3,shmoozing,1,shmoozing,1,Same,e-ing,84,832,831
+715,715,germinate,germinating,V;V.PTCP;PRS,-e+ing,Irregular,3,germinate3,germinating,1,germinating,1,Same,e-ing,84,832,831
+716,716,beblur,beblurs,V;3;SG;PRS,+s,Regular,0,beblur0,beblurs,1,beblurs,1,Same,-s,185,1842,1842
+717,717,atseek,atseek,V;NFIN,no change,Regular,1,atseek1,atseek,1,atseek,1,Same,-,180,2035,2008
+718,718,provocate,provocating,V;V.PTCP;PRS,-e+ing,Irregular,3,provocate3,provocating,1,provocating,1,Same,e-ing,84,832,831
+719,719,atsake,atsake,V;NFIN,no change,Regular,1,atsake1,atsake,1,atsake,1,Same,-,180,2035,2008
+720,720,squeeze,squeezed,V;V.PTCP;PST,+d,Irregular,4,squeeze4,squeezed,1,squeezed,1,Same,-d,169,1718,862
+721,721,desocialise,desocialises,V;3;SG;PRS,+s,Regular,0,desocialise0,desocialises,1,desocialises,1,Same,-s,185,1842,1842
+722,722,nymshift,nymshifted,V;V.PTCP;PST,+ed,Regular,4,nymshift4,nymshifted,1,nymshifted,1,Same,-ed,186,1605,788
+723,723,facilize,facilized,V;PST,+d,Irregular,2,facilize2,facilized,1,facilized,1,Same,-d,169,1718,856
+724,724,avert,averted,V;V.PTCP;PST,+ed,Regular,4,avert4,averted,1,averted,1,Same,-ed,186,1605,788
+725,725,plip,plips,V;3;SG;PRS,+s,Regular,0,plip0,plips,1,plips,1,Same,-s,185,1842,1842
+726,726,beast,beasting,V;V.PTCP;PRS,+ing,Regular,3,beast3,beasting,1,beasting,1,Same,-ing,101,949,949
+727,727,flood,floods,V;3;SG;PRS,+s,Regular,0,flood0,floods,1,flooos,0,Not Same,-s,185,1842,1842
+728,728,oversail,oversails,V;3;SG;PRS,+s,Regular,0,oversail0,oversails,1,oversails,1,Same,-s,185,1842,1842
+729,729,imposthumate,imposthumated,V;PST,+d,Irregular,2,imposthumate2,imposthumated,1,imposthumated,1,Same,-d,169,1718,856
+730,730,sley,sleying,V;V.PTCP;PRS,+ing,Regular,3,sley3,sleying,1,sleying,1,Same,-ing,101,949,949
+731,731,unflatten,unflattened,V;PST,+ed,Regular,2,unflatten2,unflattened,1,unflattened,1,Same,-ed,186,1605,817
+732,732,coiffure,coiffure,V;NFIN,no change,Regular,1,coiffure1,coiffure,1,coiffure,1,Same,-,180,2035,2008
+733,733,uphilt,uphilted,V;V.PTCP;PST,+ed,Regular,4,uphilt4,uphilted,1,uphilted,1,Same,-ed,186,1605,788
+734,734,clabber,clabbering,V;V.PTCP;PRS,+ing,Regular,3,clabber3,clabbering,1,clabbering,1,Same,-ing,101,949,949
+735,735,outwear,outworn,V;V.PTCP;PST,special,Irregular,4,outwear4,outweeen,0,outwear,0,Not Same,ear-orn,1,unseen,unseen
+736,736,spawn,spawns,V;3;SG;PRS,+s,Regular,0,spawn0,spawns,1,spawns,1,Same,-s,185,1842,1842
+737,737,accentuate,accentuated,V;V.PTCP;PST,+d,Irregular,4,accentuate4,accentuated,1,accentuated,1,Same,-d,169,1718,862
+738,738,gasconade,gasconading,V;V.PTCP;PRS,-e+ing,Irregular,3,gasconade3,gasconading,1,gasconading,1,Same,e-ing,84,832,831
+739,739,reprize,reprized,V;PST,+d,Irregular,2,reprize2,reprized,1,reprized,1,Same,-d,169,1718,856
+740,740,accriminate,accriminated,V;PST,+d,Irregular,2,accriminate2,accriminated,1,accriminated,1,Same,-d,169,1718,856
+741,741,appliqué,appliqué,V;NFIN,no change,Regular,1,appliqué1,appliquUNK,1,appliquUNK,1,Same,-,180,2035,2008
+742,742,dulcify,dulcifying,V;V.PTCP;PRS,+ing,Regular,3,dulcify3,dulcifying,1,dulcifying,1,Same,-ing,101,949,949
+743,743,reirrigate,reirrigates,V;3;SG;PRS,+s,Regular,0,reirrigate0,reirrigates,1,reirrigates,1,Same,-s,185,1842,1842
+744,744,forhew,forhewing,V;V.PTCP;PRS,+ing,Regular,3,forhew3,forhewing,1,forhewing,1,Same,-ing,101,949,949
+745,745,Catalanize,Catalanizes,V;3;SG;PRS,+s,Regular,0,Catalanize0,catalanizes,1,catalanizes,1,Same,-s,185,1842,1842
+746,746,bebang,bebanged,V;PST,+ed,Regular,2,bebang2,bebanggd,0,bebanged,1,Not Same,-ed,186,1605,817
+747,747,scunge,scunge,V;NFIN,no change,Regular,1,scunge1,scunge,1,scunge,1,Same,-,180,2035,2008
+748,748,imprecate,imprecating,V;V.PTCP;PRS,-e+ing,Irregular,3,imprecate3,imprecating,1,imprecating,1,Same,e-ing,84,832,831
+749,749,cathect,cathected,V;PST,+ed,Regular,2,cathect2,cathected,1,cathected,1,Same,-ed,186,1605,817
+750,750,flesh,flesh,V;NFIN,no change,Regular,1,flesh1,flesh,1,flesh,1,Same,-,180,2035,2008
+751,751,gowl,gowling,V;V.PTCP;PRS,+ing,Regular,3,gowl3,gowling,1,gowling,1,Same,-ing,101,949,949
+752,752,bleg,bleg,V;NFIN,no change,Regular,1,bleg1,bleg,1,bleg,1,Same,-,180,2035,2008
+753,753,attorn,attorning,V;V.PTCP;PRS,+ing,Regular,3,attorn3,attorning,1,attorning,1,Same,-ing,101,949,949
+754,754,dedisperse,dedispersed,V;PST,+d,Irregular,2,dedisperse2,dedispersed,1,dedispersed,1,Same,-d,169,1718,856
+755,755,coaptate,coaptating,V;V.PTCP;PRS,-e+ing,Irregular,3,coaptate3,coaptating,1,coaptating,1,Same,e-ing,84,832,831
+756,756,ink,inks,V;3;SG;PRS,+s,Regular,0,ink0,inks,1,inks,1,Same,-s,185,1842,1842
+757,757,coteach,coteaches,V;3;SG;PRS,+es,Irregular,0,coteach0,coteaches,1,coteaches,1,Same,-es,17,103,103
+758,758,lapidate,lapidated,V;PST,+d,Irregular,2,lapidate2,lapidated,1,lapidated,1,Same,-d,169,1718,856
+759,759,caparison,caparisoned,V;PST,+ed,Regular,2,caparison2,caparisoned,1,caparisoned,1,Same,-ed,186,1605,817
+760,760,predesignate,predesignating,V;V.PTCP;PRS,-e+ing,Irregular,3,predesignate3,predesignating,1,predesignating,1,Same,e-ing,84,832,831
+761,761,temper,tempering,V;V.PTCP;PRS,+ing,Regular,3,temper3,tempering,1,tempering,1,Same,-ing,101,949,949
+762,762,inheart,inhearts,V;3;SG;PRS,+s,Regular,0,inheart0,inhearts,1,inhearts,1,Same,-s,185,1842,1842
+763,763,tip,tip,V;NFIN,no change,Regular,1,tip1,tip,1,tip,1,Same,-,180,2035,2008
+764,764,vow,vowed,V;V.PTCP;PST,+ed,Regular,4,vow4,vownd,0,vownd,0,Same,-ed,186,1605,788
+765,765,classify,classified,V;PST,y-ied,Irregular,2,classify2,classified,1,classified,1,Same,y-ied,14,145,79
+766,766,remand,remanded,V;PST,+ed,Regular,2,remand2,remanded,1,remanded,1,Same,-ed,186,1605,817
+767,767,oversaturate,oversaturated,V;V.PTCP;PST,+d,Irregular,4,oversaturate4,oversaturated,1,oversaturated,1,Same,-d,169,1718,862
+768,768,devirginate,devirginate,V;NFIN,no change,Regular,1,devirginate1,devirginate,1,devirginate,1,Same,-,180,2035,2008
+769,769,disfurnish,disfurnished,V;PST,+ed,Regular,2,disfurnish2,disfurnished,1,disfurnished,1,Same,-ed,186,1605,817
+770,770,decay,decay,V;NFIN,no change,Regular,1,decay1,decay,1,decay,1,Same,-,180,2035,2008
+771,771,nosedive,nosedives,V;3;SG;PRS,+s,Regular,0,nosedive0,nosedives,1,nosedives,1,Same,-s,185,1842,1842
+772,772,sportfish,sportfish,V;NFIN,no change,Regular,1,sportfish1,sportfish,1,sportfish,1,Same,-,180,2035,2008
+773,773,desulfurize,desulfurized,V;PST,+d,Irregular,2,desulfurize2,desulfurized,1,desulfurized,1,Same,-d,169,1718,856
+774,774,modelize,modelizes,V;3;SG;PRS,+s,Regular,0,modelize0,modelizes,1,modelizes,1,Same,-s,185,1842,1842
+775,775,outwell,outwelling,V;V.PTCP;PRS,+ing,Regular,3,outwell3,outwelling,1,outwelling,1,Same,-ing,101,949,949
+776,776,tempre,tempred,V;V.PTCP;PST,+d,Irregular,4,tempre4,tempred,1,tempred,1,Same,-d,169,1718,862
+777,777,uplock,uplocked,V;PST,+ed,Regular,2,uplock2,uplocked,1,uplocked,1,Same,-ed,186,1605,817
+778,778,mistranslate,mistranslates,V;3;SG;PRS,+s,Regular,0,mistranslate0,mistranslates,1,mistranslates,1,Same,-s,185,1842,1842
+779,779,autofit,autofitting,V;V.PTCP;PRS,double spell,Irregular,3,autofit3,autofitiing,0,autofitiing,0,Same,-ting,4,38,38
+780,780,antioxidise,antioxidising,V;V.PTCP;PRS,-e+ing,Irregular,3,antioxidise3,antioxidising,1,antioxidising,1,Same,e-ing,84,832,831
+781,781,parascend,parascends,V;3;SG;PRS,+s,Regular,0,parascend0,parascends,1,parascends,1,Same,-s,185,1842,1842
+782,782,dawdle,dawdled,V;V.PTCP;PST,+d,Irregular,4,dawdle4,dawdled,1,dawdled,1,Same,-d,169,1718,862
+783,783,defalk,defalked,V;PST,+ed,Regular,2,defalk2,defalked,1,defalked,1,Same,-ed,186,1605,817
+784,784,droop,drooped,V;PST,+ed,Regular,2,droop2,drooppd,0,drooped,1,Not Same,-ed,186,1605,817
+785,785,rind,rinding,V;V.PTCP;PRS,+ing,Regular,3,rind3,rinding,1,rinding,1,Same,-ing,101,949,949
+786,786,reerect,reerect,V;NFIN,no change,Regular,1,reerect1,reerect,1,reerect,1,Same,-,180,2035,2008
+787,787,dis,disses,V;3;SG;PRS,special,Irregular,0,dis0,diss,0,dis,0,Not Same,-ses,1,unseen,unseen
+788,788,author,authored,V;PST,+ed,Regular,2,author2,authored,1,authored,1,Same,-ed,186,1605,817
+789,789,prepend,prepending,V;V.PTCP;PRS,+ing,Regular,3,prepend3,prepending,1,prepending,1,Same,-ing,101,949,949
+790,790,birr,birred,V;PST,+ed,Regular,2,birr2,birred,1,birred,1,Same,-ed,186,1605,817
+791,791,atter,atters,V;3;SG;PRS,+s,Regular,0,atter0,atters,1,atters,1,Same,-s,185,1842,1842
+792,792,repair,repaired,V;V.PTCP;PST,+ed,Regular,4,repair4,repaired,1,repaired,1,Same,-ed,186,1605,788
+793,793,elicit,elicited,V;PST,+ed,Regular,2,elicit2,elicited,1,elicited,1,Same,-ed,186,1605,817
+794,794,chevy,chevying,V;V.PTCP;PRS,+ing,Regular,3,chevy3,chevying,1,chevying,1,Same,-ing,101,949,949
+795,795,incubate,incubate,V;NFIN,no change,Regular,1,incubate1,incubate,1,incubate,1,Same,-,180,2035,2008
+796,796,coarsen,coarsen,V;NFIN,no change,Regular,1,coarsen1,coarsen,1,coarsen,1,Same,-,180,2035,2008
+797,797,separate,separating,V;V.PTCP;PRS,-e+ing,Irregular,3,separate3,separating,1,separating,1,Same,e-ing,84,832,831
+798,798,creampie,creampies,V;3;SG;PRS,+s,Regular,0,creampie0,creampies,1,creampies,1,Same,-s,185,1842,1842
+799,799,gamahuche,gamahuched,V;V.PTCP;PST,+d,Irregular,4,gamahuche4,gamahuched,1,gamahuched,1,Same,-d,169,1718,862
+800,800,handpick,handpicking,V;V.PTCP;PRS,+ing,Regular,3,handpick3,handpicking,1,handpicking,1,Same,-ing,101,949,949
+801,801,bedrift,bedrift,V;NFIN,no change,Regular,1,bedrift1,bedrift,1,bedrift,1,Same,-,180,2035,2008
+802,802,unnail,unnails,V;3;SG;PRS,+s,Regular,0,unnail0,unnails,1,unnails,1,Same,-s,185,1842,1842
+803,803,gill,gills,V;3;SG;PRS,+s,Regular,0,gill0,gills,1,gills,1,Same,-s,185,1842,1842
+804,804,counter,countered,V;V.PTCP;PST,+ed,Regular,4,counter4,countered,1,countered,1,Same,-ed,186,1605,788
+805,805,outpoise,outpoising,V;V.PTCP;PRS,-e+ing,Irregular,3,outpoise3,outpoising,1,outpoising,1,Same,e-ing,84,832,831
+806,806,obsess,obsesses,V;3;SG;PRS,+es,Irregular,0,obsess0,obsesses,1,obsesses,1,Same,-es,17,103,103
+807,807,manse,mansed,V;PST,+d,Irregular,2,manse2,mansed,1,mansed,1,Same,-d,169,1718,856
+808,808,unhat,unhatted,V;PST,double spell,Irregular,2,unhat2,unhateed,0,unhateed,0,Same,-ted,2,43,23
+809,809,bego,bego,V;NFIN,no change,Regular,1,bego1,bego,1,bego,1,Same,-,180,2035,2008
+810,810,beclout,beclout,V;NFIN,no change,Regular,1,beclout1,beclout,1,beclout,1,Same,-,180,2035,2008
+811,811,besom,besom,V;NFIN,no change,Regular,1,besom1,besom,1,besom,1,Same,-,180,2035,2008
+812,812,left-click,left-clicks,V;3;SG;PRS,+s,Regular,0,left-click0,left-clicks,1,lefttclicks,0,Not Same,-s,185,1842,1842
+813,813,reaffiliate,reaffiliated,V;PST,+d,Irregular,2,reaffiliate2,reaffiliated,1,reaffiliated,1,Same,-d,169,1718,856
+814,814,outflank,outflanking,V;V.PTCP;PRS,+ing,Regular,3,outflank3,outflanking,1,outflanking,1,Same,-ing,101,949,949
+815,815,conduce,conduced,V;PST,+d,Irregular,2,conduce2,conduced,1,conduced,1,Same,-d,169,1718,856
+816,816,contextualise,contextualised,V;V.PTCP;PST,+d,Irregular,4,contextualise4,contextualised,1,contextualised,1,Same,-d,169,1718,862
+817,817,knot,knotting,V;V.PTCP;PRS,double spell,Irregular,3,knot3,knotiing,0,knotiing,0,Same,-ting,4,38,38
+818,818,slake,slaked,V;PST,+d,Irregular,2,slake2,slaked,1,slaked,1,Same,-d,169,1718,856
+819,819,unsecret,unsecret,V;NFIN,no change,Regular,1,unsecret1,unsecret,1,unsecret,1,Same,-,180,2035,2008
+820,820,anæsthetize,anæsthetized,V;V.PTCP;PST,+d,Irregular,4,anæsthetize4,anUNKsthetized,1,anUNKsthetized,1,Same,-d,169,1718,862
+821,821,redeclare,redeclare,V;NFIN,no change,Regular,1,redeclare1,redeclare,1,redeclare,1,Same,-,180,2035,2008
+822,822,beknave,beknaved,V;V.PTCP;PST,+d,Irregular,4,beknave4,beknaved,1,beknaved,1,Same,-d,169,1718,862
+823,823,uncoach,uncoached,V;PST,+ed,Regular,2,uncoach2,uncoached,1,uncoached,1,Same,-ed,186,1605,817
+824,824,disenter,disenterred,V;V.PTCP;PST,double spell,Irregular,4,disenter4,disentereed,0,disentereed,0,Same,-red,2,18,12
+825,825,ensober,ensobering,V;V.PTCP;PRS,+ing,Regular,3,ensober3,ensobering,1,ensobering,1,Same,-ing,101,949,949
+826,826,darraign,darraigned,V;PST,+ed,Regular,2,darraign2,darraigned,1,darraigned,1,Same,-ed,186,1605,817
+827,827,rasterize,rasterize,V;NFIN,no change,Regular,1,rasterize1,rasterize,1,rasterize,1,Same,-,180,2035,2008
+828,828,shape,shapen,V;V.PTCP;PST,special,Irregular,4,shape4,shaped,0,shaped,0,Same,-n,1,19,19
+829,829,paginate,paginating,V;V.PTCP;PRS,-e+ing,Irregular,3,paginate3,paginating,1,paginating,1,Same,e-ing,84,832,831
+830,830,artificialize,artificialize,V;NFIN,no change,Regular,1,artificialize1,artificialize,1,artificialize,1,Same,-,180,2035,2008
+831,831,fourpeat,fourpeat,V;NFIN,no change,Regular,1,fourpeat1,fourpeat,1,fourpeat,1,Same,-,180,2035,2008
+832,832,salvage,salvage,V;NFIN,no change,Regular,1,salvage1,salvage,1,salvage,1,Same,-,180,2035,2008
+833,833,unfill,unfill,V;NFIN,no change,Regular,1,unfill1,unfill,1,unfill,1,Same,-,180,2035,2008
+834,834,deface,defaces,V;3;SG;PRS,+s,Regular,0,deface0,defaces,1,defaces,1,Same,-s,185,1842,1842
+835,835,opt,opted,V;PST,+ed,Regular,2,opt2,opt,0,opted,1,Not Same,-ed,186,1605,817
+836,836,grout,grouted,V;PST,+ed,Regular,2,grout2,grouted,1,grouted,1,Same,-ed,186,1605,817
+837,837,forwean,forweaned,V;PST,+ed,Regular,2,forwean2,forweaned,1,forweaned,1,Same,-ed,186,1605,817
+838,838,indigenize,indigenizing,V;V.PTCP;PRS,-e+ing,Irregular,3,indigenize3,indigenizing,1,indigenizing,1,Same,e-ing,84,832,831
+839,839,devilize,devilized,V;PST,+d,Irregular,2,devilize2,devilized,1,devilized,1,Same,-d,169,1718,856
+840,840,goose-step,goose-steps,V;3;SG;PRS,+s,Regular,0,goose-step0,goose-steps,1,goose-steps,1,Same,-s,185,1842,1842
+841,841,sympathise,sympathised,V;V.PTCP;PST,+d,Irregular,4,sympathise4,sympathised,1,sympathised,1,Same,-d,169,1718,862
+842,842,sniggle,sniggles,V;3;SG;PRS,+s,Regular,0,sniggle0,sniggles,1,sniggles,1,Same,-s,185,1842,1842
+843,843,antevolate,antevolate,V;NFIN,no change,Regular,1,antevolate1,antevolate,1,antevolate,1,Same,-,180,2035,2008
+844,844,decontaminate,decontaminated,V;PST,+d,Irregular,2,decontaminate2,decontaminated,1,decontaminated,1,Same,-d,169,1718,856
+845,845,cosign,cosigning,V;V.PTCP;PRS,+ing,Regular,3,cosign3,cosigning,1,cosigning,1,Same,-ing,101,949,949
+846,846,renovel,renovelled,V;V.PTCP;PST,double spell,Irregular,4,renovel4,renovelled,1,renoveleed,0,Not Same,-led,7,47,27
+847,847,trampoose,trampoose,V;NFIN,no change,Regular,1,trampoose1,trampoose,1,trampoose,1,Same,-,180,2035,2008
+848,848,relace,relaced,V;V.PTCP;PST,+d,Irregular,4,relace4,relaced,1,relaced,1,Same,-d,169,1718,862
+849,849,unpaganize,unpaganizing,V;V.PTCP;PRS,-e+ing,Irregular,3,unpaganize3,unpaganizing,1,unpaganizing,1,Same,e-ing,84,832,831
+850,850,forjudge,forjudging,V;V.PTCP;PRS,-e+ing,Irregular,3,forjudge3,forjudging,1,forjudging,1,Same,e-ing,84,832,831
+851,851,rejumble,rejumbled,V;PST,+d,Irregular,2,rejumble2,rejumbled,1,rejumbled,1,Same,-d,169,1718,856
+852,852,excruciate,excruciated,V;PST,+d,Irregular,2,excruciate2,excruciated,1,excruciated,1,Same,-d,169,1718,856
+853,853,sissy,sissy,V;NFIN,no change,Regular,1,sissy1,sissy,1,sissy,1,Same,-,180,2035,2008
+854,854,collogue,collogues,V;3;SG;PRS,+s,Regular,0,collogue0,collogues,1,collogues,1,Same,-s,185,1842,1842
+855,855,betoss,betossed,V;PST,+ed,Regular,2,betoss2,betossed,1,betossed,1,Same,-ed,186,1605,817
+856,856,kleptoparasite,kleptoparasited,V;V.PTCP;PST,+d,Irregular,4,kleptoparasite4,kleptoparasited,1,kleptopprasited,0,Not Same,-d,169,1718,862
+857,857,fingerpick,fingerpicked,V;PST,+ed,Regular,2,fingerpick2,fingerpicked,1,fingerpicked,1,Same,-ed,186,1605,817
+858,858,recouple,recoupled,V;V.PTCP;PST,+d,Irregular,4,recouple4,recoupled,1,recoupled,1,Same,-d,169,1718,862
+859,859,bottle,bottling,V;V.PTCP;PRS,-e+ing,Irregular,3,bottle3,bottling,1,bottling,1,Same,e-ing,84,832,831
+860,860,photoisomerize,photoisomerize,V;NFIN,no change,Regular,1,photoisomerize1,photoisomerize,1,photoisomerize,1,Same,-,180,2035,2008
+861,861,misdescribe,misdescribe,V;NFIN,no change,Regular,1,misdescribe1,misdescribe,1,misdescribe,1,Same,-,180,2035,2008
+862,862,thermoform,thermoforms,V;3;SG;PRS,+s,Regular,0,thermoform0,thermoforms,1,thermoforms,1,Same,-s,185,1842,1842
+863,863,delabialize,delabialized,V;V.PTCP;PST,+d,Irregular,4,delabialize4,delabialized,1,delabialized,1,Same,-d,169,1718,862
+864,864,pooh,poohs,V;3;SG;PRS,+s,Regular,0,pooh0,poohs,1,poohs,1,Same,-s,185,1842,1842
+865,865,diffuse,diffused,V;PST,+d,Irregular,2,diffuse2,diffused,1,diffused,1,Same,-d,169,1718,856
+866,866,revictual,revictualled,V;PST,double spell,Irregular,2,revictual2,revictualeed,0,revictualeed,0,Same,-led,7,47,20
+867,867,wirble,wirbled,V;V.PTCP;PST,+d,Irregular,4,wirble4,wirbled,1,wirbled,1,Same,-d,169,1718,862
+868,868,offcast,offcast,V;NFIN,no change,Regular,1,offcast1,offcast,1,offcast,1,Same,-,180,2035,2008
+869,869,assfuck,assfuck,V;NFIN,no change,Regular,1,assfuck1,assfuck,1,assfuck,1,Same,-,180,2035,2008
+870,870,fibrillate,fibrillate,V;NFIN,no change,Regular,1,fibrillate1,fibrillate,1,fibrillate,1,Same,-,180,2035,2008
+871,871,retrodisplace,retrodisplaced,V;V.PTCP;PST,+d,Irregular,4,retrodisplace4,retrodisplaced,1,retrodisplaced,1,Same,-d,169,1718,862
+872,872,corrugate,corrugated,V;V.PTCP;PST,+d,Irregular,4,corrugate4,corrugated,1,corrugated,1,Same,-d,169,1718,862
+873,873,ransack,ransacked,V;PST,+ed,Regular,2,ransack2,ransacked,1,ransacked,1,Same,-ed,186,1605,817
+874,874,fat-finger,fat-fingered,V;PST,+ed,Regular,2,fat-finger2,fat-fingered,1,fat-fingered,1,Same,-ed,186,1605,817
+875,875,ordinate,ordinates,V;3;SG;PRS,+s,Regular,0,ordinate0,ordinates,1,ordinates,1,Same,-s,185,1842,1842
+876,876,manhandle,manhandling,V;V.PTCP;PRS,-e+ing,Irregular,3,manhandle3,manhandling,1,manhandling,1,Same,e-ing,84,832,831
+877,877,prowl,prowls,V;3;SG;PRS,+s,Regular,0,prowl0,prowls,1,prowls,1,Same,-s,185,1842,1842
+878,878,educate,educates,V;3;SG;PRS,+s,Regular,0,educate0,educates,1,educates,1,Same,-s,185,1842,1842
+879,879,recommend,recommended,V;PST,+ed,Regular,2,recommend2,recommended,1,recommend,0,Not Same,-ed,186,1605,817
+880,880,cannonade,cannonading,V;V.PTCP;PRS,-e+ing,Irregular,3,cannonade3,cannonading,1,cannonading,1,Same,e-ing,84,832,831
+881,881,affix,affixed,V;V.PTCP;PST,+ed,Regular,4,affix4,affixed,1,affixed,1,Same,-ed,186,1605,788
+882,882,repower,repower,V;NFIN,no change,Regular,1,repower1,repower,1,repower,1,Same,-,180,2035,2008
+883,883,bow,bowing,V;V.PTCP;PRS,+ing,Regular,3,bow3,bownng,0,bowing,1,Not Same,-ing,101,949,949
+884,884,dree,dreeing,V;V.PTCP;PRS,+ing,Regular,3,dree3,dreiing,0,dreeing,1,Not Same,-ing,101,949,949
+885,885,swash,swashed,V;PST,+ed,Regular,2,swash2,swashed,1,swashed,1,Same,-ed,186,1605,817
+886,886,priss,prisss,V;3;SG;PRS,+s,Regular,0,priss0,prisse,0,priss,0,Not Same,-s,185,1842,1842
+887,887,bewaste,bewasting,V;V.PTCP;PRS,-e+ing,Irregular,3,bewaste3,bewasting,1,bewasting,1,Same,e-ing,84,832,831
+888,888,backfoot,backfoot,V;NFIN,no change,Regular,1,backfoot1,backfoot,1,backfoot,1,Same,-,180,2035,2008
+889,889,airt,airted,V;PST,+ed,Regular,2,airt2,airted,1,airted,1,Same,-ed,186,1605,817
+890,890,uncredit,uncredited,V;PST,+ed,Regular,2,uncredit2,uncredited,1,uncredited,1,Same,-ed,186,1605,817
+891,891,heapsort,heapsorted,V;PST,+ed,Regular,2,heapsort2,heapsorted,1,heapsorted,1,Same,-ed,186,1605,817
+892,892,overpursue,overpursue,V;NFIN,no change,Regular,1,overpursue1,overpursue,1,overpursue,1,Same,-,180,2035,2008
+893,893,actuate,actuates,V;3;SG;PRS,+s,Regular,0,actuate0,actuates,1,actuates,1,Same,-s,185,1842,1842
+894,894,clank,clanked,V;PST,+ed,Regular,2,clank2,clanked,1,clanked,1,Same,-ed,186,1605,817
+895,895,regather,regathers,V;3;SG;PRS,+s,Regular,0,regather0,regathers,1,regathers,1,Same,-s,185,1842,1842
+896,896,retexturize,retexturizes,V;3;SG;PRS,+s,Regular,0,retexturize0,retexturizes,1,retexturizes,1,Same,-s,185,1842,1842
+897,897,discard,discarding,V;V.PTCP;PRS,+ing,Regular,3,discard3,discarding,1,discarding,1,Same,-ing,101,949,949
+898,898,masculate,masculated,V;PST,+d,Irregular,2,masculate2,masculated,1,masculated,1,Same,-d,169,1718,856
+899,899,deduct,deducts,V;3;SG;PRS,+s,Regular,0,deduct0,deducts,1,deducts,1,Same,-s,185,1842,1842
+900,900,outclimb,outclimbed,V;V.PTCP;PST,+ed,Regular,4,outclimb4,outclimbed,1,outclimbed,1,Same,-ed,186,1605,788
+901,901,overbake,overbaked,V;PST,+d,Irregular,2,overbake2,overbaked,1,overbaked,1,Same,-d,169,1718,856
+902,902,reflate,reflated,V;V.PTCP;PST,+d,Irregular,4,reflate4,reflated,1,reflated,1,Same,-d,169,1718,862
+903,903,reamend,reamended,V;PST,+ed,Regular,2,reamend2,reamended,1,reamend,0,Not Same,-ed,186,1605,817
+904,904,offsplit,offsplit,V;PST,no change,Irregular,2,offsplit2,offsplite eeeeeeeeeee,0,offsplite eeeeeeeeeeeeeed,0,Not Same,-,180,2035,14
+905,905,outcaste,outcastes,V;3;SG;PRS,+s,Regular,0,outcaste0,outcastes,1,outcastes,1,Same,-s,185,1842,1842
+906,906,marble,marbles,V;3;SG;PRS,+s,Regular,0,marble0,marbles,1,marbles,1,Same,-s,185,1842,1842
+907,907,vaticinate,vaticinate,V;NFIN,no change,Regular,1,vaticinate1,vaticinate,1,vaticinate,1,Same,-,180,2035,2008
+908,908,unharness,unharnessed,V;PST,+ed,Regular,2,unharness2,unharnessed,1,unharnessed,1,Same,-ed,186,1605,817
+909,909,casevac,casevacked,V;PST,special,Irregular,2,casevac2,casevacked,1,casevaceed,0,Not Same,-ked,1,9,4
+910,910,bespit,bespits,V;3;SG;PRS,+s,Regular,0,bespit0,bespits,1,bespits,1,Same,-s,185,1842,1842
+911,911,demutualize,demutualized,V;PST,+d,Irregular,2,demutualize2,demutualized,1,demutualized,1,Same,-d,169,1718,856
+912,912,rafter,raftered,V;V.PTCP;PST,+ed,Regular,4,rafter4,raftered,1,raftered,1,Same,-ed,186,1605,788
+913,913,attaminate,attaminated,V;V.PTCP;PST,+d,Irregular,4,attaminate4,attaminated,1,attaminnted,0,Not Same,-d,169,1718,862
+914,914,pulverate,pulverated,V;PST,+d,Irregular,2,pulverate2,pulverated,1,pulverated,1,Same,-d,169,1718,856
+915,915,skilder,skildered,V;PST,+ed,Regular,2,skilder2,skildered,1,skildered,1,Same,-ed,186,1605,817
+916,916,laudanum,laudanum,V;NFIN,no change,Regular,1,laudanum1,laudanum,1,laudanum,1,Same,-,180,2035,2008
+917,917,dick,dick,V;NFIN,no change,Regular,1,dick1,dick,1,dick,1,Same,-,180,2035,2008
+918,918,flote,flotes,V;3;SG;PRS,+s,Regular,0,flote0,flotes,1,flotes,1,Same,-s,185,1842,1842
+919,919,emasculate,emasculated,V;V.PTCP;PST,+d,Irregular,4,emasculate4,emasculated,1,emasculated,1,Same,-d,169,1718,862
+920,920,snook,snooked,V;PST,+ed,Regular,2,snook2,snooked,1,snooked,1,Same,-ed,186,1605,817
+921,921,recondition,reconditioning,V;V.PTCP;PRS,+ing,Regular,3,recondition3,reconditioning,1,reconditioning,1,Same,-ing,101,949,949
+922,922,club,clubbing,V;V.PTCP;PRS,double spell,Irregular,3,club3,clubbing,1,clubiing,0,Not Same,-bing,3,13,13
+923,923,enbliss,enbliss,V;NFIN,no change,Regular,1,enbliss1,enbliss,1,enbliss,1,Same,-,180,2035,2008
+924,924,recompact,recompacting,V;V.PTCP;PRS,+ing,Regular,3,recompact3,recompacting,1,recompacting,1,Same,-ing,101,949,949
+925,925,decide,deciding,V;V.PTCP;PRS,-e+ing,Irregular,3,decide3,deciding,1,deciding,1,Same,e-ing,84,832,831
+926,926,spurt,spurted,V;PST,+ed,Regular,2,spurt2,spurted,1,spurted,1,Same,-ed,186,1605,817
+927,927,gather,gather,V;NFIN,no change,Regular,1,gather1,gather,1,gather,1,Same,-,180,2035,2008
+928,928,ochre,ochred,V;PST,+d,Irregular,2,ochre2,ochred,1,ochred,1,Same,-d,169,1718,856
+929,929,underrepresent,underrepresents,V;3;SG;PRS,+s,Regular,0,underrepresent0,underrepresents,1,underrepresents,1,Same,-s,185,1842,1842
+930,930,girth,girth,V;NFIN,no change,Regular,1,girth1,girth,1,girth,1,Same,-,180,2035,2008
+931,931,impignorate,impignorating,V;V.PTCP;PRS,-e+ing,Irregular,3,impignorate3,impignorating,1,impignorating,1,Same,e-ing,84,832,831
+932,932,thematize,thematized,V;V.PTCP;PST,+d,Irregular,4,thematize4,thematized,1,thematized,1,Same,-d,169,1718,862
+933,933,wuther,wuther,V;NFIN,no change,Regular,1,wuther1,wuther,1,wuther,1,Same,-,180,2035,2008
+934,934,systemize,systemizing,V;V.PTCP;PRS,-e+ing,Irregular,3,systemize3,systemizing,1,systemizing,1,Same,e-ing,84,832,831
+935,935,cumber,cumbered,V;PST,+ed,Regular,2,cumber2,cumbered,1,cumbered,1,Same,-ed,186,1605,817
+936,936,wray,wrayed,V;V.PTCP;PST,+ed,Regular,4,wray4,wrayed,1,wrayed,1,Same,-ed,186,1605,788
+937,937,fike,fikes,V;3;SG;PRS,+s,Regular,0,fike0,fikes,1,fikes,1,Same,-s,185,1842,1842
+938,938,jihadize,jihadizes,V;3;SG;PRS,+s,Regular,0,jihadize0,jihadizes,1,jihaaizes,0,Not Same,-s,185,1842,1842
+939,939,mountebank,mountebanked,V;V.PTCP;PST,+ed,Regular,4,mountebank4,mountebanked,1,mountebanked,1,Same,-ed,186,1605,788
+940,940,spiff,spiffing,V;V.PTCP;PRS,+ing,Regular,3,spiff3,spiffing,1,spiffing,1,Same,-ing,101,949,949
+941,941,dun,dunned,V;PST,double spell,Irregular,2,dun2,dunned,1,duneed,0,Not Same,-ned,2,20,12
+942,942,hotlist,hotlisted,V;PST,+ed,Regular,2,hotlist2,hotlisted,1,hotlisted,1,Same,-ed,186,1605,817
+943,943,dryclean,drycleaned,V;PST,+ed,Regular,2,dryclean2,drycleaned,1,drycleaned,1,Same,-ed,186,1605,817
+944,944,plough,ploughed,V;V.PTCP;PST,+ed,Regular,4,plough4,ploughed,1,ploughed,1,Same,-ed,186,1605,788
+945,945,interpenetrate,interpenetrated,V;V.PTCP;PST,+d,Irregular,4,interpenetrate4,interpeneteated,0,interpenetrated,1,Not Same,-d,169,1718,862
+946,946,overperform,overperforming,V;V.PTCP;PRS,+ing,Regular,3,overperform3,overperforming,1,overperforming,1,Same,-ing,101,949,949
+947,947,emblazon,emblazons,V;3;SG;PRS,+s,Regular,0,emblazon0,emblazons,1,emblazons,1,Same,-s,185,1842,1842
+948,948,subitise,subitised,V;PST,+d,Irregular,2,subitise2,subitised,1,subitised,1,Same,-d,169,1718,856
+949,949,pipette,pipettes,V;3;SG;PRS,+s,Regular,0,pipette0,pipettes,1,pipettes,1,Same,-s,185,1842,1842
+950,950,enjoy,enjoys,V;3;SG;PRS,+s,Regular,0,enjoy0,enjoys,1,enjoys,1,Same,-s,185,1842,1842
+951,951,eventerate,eventerate,V;NFIN,no change,Regular,1,eventerate1,eventerate,1,eventerate,1,Same,-,180,2035,2008
+952,952,co-chair,co-chairing,V;V.PTCP;PRS,+ing,Regular,3,co-chair3,co-chairing,1,co-chairing,1,Same,-ing,101,949,949
+953,953,cameo,cameoed,V;PST,+ed,Regular,2,cameo2,cameoed,1,cameoed,1,Same,-ed,186,1605,817
+954,954,emprove,emproved,V;PST,+d,Irregular,2,emprove2,emproved,1,emproved,1,Same,-d,169,1718,856
+955,955,compile,compiles,V;3;SG;PRS,+s,Regular,0,compile0,compiles,1,compiles,1,Same,-s,185,1842,1842
+956,956,letheonize,letheonize,V;NFIN,no change,Regular,1,letheonize1,letheonize,1,letheonize,1,Same,-,180,2035,2008
+957,957,overstep,oversteps,V;3;SG;PRS,+s,Regular,0,overstep0,oversteps,1,oversteps,1,Same,-s,185,1842,1842
+958,958,remonetise,remonetise,V;NFIN,no change,Regular,1,remonetise1,remonetise,1,remonetise,1,Same,-,180,2035,2008
+959,959,delabialize,delabializing,V;V.PTCP;PRS,-e+ing,Irregular,3,delabialize3,delabializing,1,delabializing,1,Same,e-ing,84,832,831
+960,960,texture,textured,V;PST,+d,Irregular,2,texture2,textured,1,textured,1,Same,-d,169,1718,856
+961,961,belave,belaves,V;3;SG;PRS,+s,Regular,0,belave0,belaves,1,belaves,1,Same,-s,185,1842,1842
+962,962,wee,weed,V;V.PTCP;PST,+d,Irregular,4,wee4,weed,1,weed,1,Same,-d,169,1718,862
+963,963,ravel,ravelled,V;PST,double spell,Irregular,2,ravel2,raveleed,0,raveleed,0,Same,-led,7,47,20
+964,964,marmalize,marmalizing,V;V.PTCP;PRS,-e+ing,Irregular,3,marmalize3,marmalizing,1,marmalizing,1,Same,e-ing,84,832,831
+965,965,rat-race,rat-raced,V;PST,+d,Irregular,2,rat-race2,rat-raced,1,rat-raced,1,Same,-d,169,1718,856
+966,966,garrote,garrotting,V;V.PTCP;PRS,special,Irregular,3,garrote3,garrotiing,0,garrotiing,0,Same,e-ting,1,unseen,unseen
+967,967,disaffirm,disaffirmed,V;PST,+ed,Regular,2,disaffirm2,disaffirmed,1,disaffirmed,1,Same,-ed,186,1605,817
+968,968,transvest,transvests,V;3;SG;PRS,+s,Regular,0,transvest0,transvests,1,transvests,1,Same,-s,185,1842,1842
+969,969,cameltoe,cameltoed,V;PST,+d,Irregular,2,cameltoe2,cameltoed,1,cameltoed,1,Same,-d,169,1718,856
+970,970,folk-etymologize,folk-etymologizing,V;V.PTCP;PRS,-e+ing,Irregular,3,folk-etymologize3,folk-etymologizing,1,folk-etymologizing,1,Same,e-ing,84,832,831
+971,971,noseprint,noseprints,V;3;SG;PRS,+s,Regular,0,noseprint0,noseprints,1,noseprints,1,Same,-s,185,1842,1842
+972,972,corrade,corraded,V;V.PTCP;PST,+d,Irregular,4,corrade4,corraded,1,corraded,1,Same,-d,169,1718,862
+973,973,unbandage,unbandaged,V;V.PTCP;PST,+d,Irregular,4,unbandage4,unbandaged,1,unbandaged,1,Same,-d,169,1718,862
+974,974,overmaster,overmaster,V;NFIN,no change,Regular,1,overmaster1,overmaster,1,overmaster,1,Same,-,180,2035,2008
+975,975,decline,declining,V;V.PTCP;PRS,-e+ing,Irregular,3,decline3,declining,1,declining,1,Same,e-ing,84,832,831
+976,976,refel,refelling,V;V.PTCP;PRS,double spell,Irregular,3,refel3,refelling,1,refeliing,0,Not Same,-ling,3,20,20
+977,977,blister,blistered,V;PST,+ed,Regular,2,blister2,blistered,1,blistered,1,Same,-ed,186,1605,817
+978,978,tea-bag,tea-bagging,V;V.PTCP;PRS,double spell,Irregular,3,tea-bag3,tea-bagging,1,tea-bagiing,0,Not Same,-ging,1,17,17
+979,979,crowdsource,crowdsourced,V;V.PTCP;PST,+d,Irregular,4,crowdsource4,crowdsourced,1,crowdsourced,1,Same,-d,169,1718,862
+980,980,ush,ushes,V;3;SG;PRS,+es,Irregular,0,ush0,ushes,1,ushes,1,Same,-es,17,103,103
+981,981,vilipend,vilipended,V;V.PTCP;PST,+ed,Regular,4,vilipend4,vilipended,1,vilipended,1,Same,-ed,186,1605,788
+982,982,twattle,twattle,V;NFIN,no change,Regular,1,twattle1,twattle,1,twattle,1,Same,-,180,2035,2008
+983,983,kaw,kawed,V;V.PTCP;PST,+ed,Regular,4,kaw4,kawnd,0,kawed,1,Not Same,-ed,186,1605,788
+984,984,wetnurse,wetnurse,V;NFIN,no change,Regular,1,wetnurse1,wetnurse,1,wetnurse,1,Same,-,180,2035,2008
+985,985,drinkle,drinkle,V;NFIN,no change,Regular,1,drinkle1,drinkle,1,drinkle,1,Same,-,180,2035,2008
+986,986,misstructure,misstructured,V;V.PTCP;PST,+d,Irregular,4,misstructure4,misstructured,1,misstructured,1,Same,-d,169,1718,862
+987,987,evitate,evitating,V;V.PTCP;PRS,-e+ing,Irregular,3,evitate3,evitating,1,evitating,1,Same,e-ing,84,832,831
+988,988,ultracentrifuge,ultracentrifuges,V;3;SG;PRS,+s,Regular,0,ultracentrifuge0,ultracentrifuges,1,ultracentrifuges,1,Same,-s,185,1842,1842
+989,989,bace,bace,V;NFIN,no change,Regular,1,bace1,bace,1,bace,1,Same,-,180,2035,2008
+990,990,invert,inverts,V;3;SG;PRS,+s,Regular,0,invert0,inverts,1,inverts,1,Same,-s,185,1842,1842
+991,991,answer,answered,V;PST,+ed,Regular,2,answer2,answered,1,answered,1,Same,-ed,186,1605,817
+992,992,lick,licked,V;V.PTCP;PST,+ed,Regular,4,lick4,licked,1,licked,1,Same,-ed,186,1605,788
+993,993,compost,composting,V;V.PTCP;PRS,+ing,Regular,3,compost3,composting,1,composting,1,Same,-ing,101,949,949
+994,994,decree,decree,V;NFIN,no change,Regular,1,decree1,decree,1,decree,1,Same,-,180,2035,2008
+995,995,fulmine,fulmine,V;NFIN,no change,Regular,1,fulmine1,fulmine,1,fulmine,1,Same,-,180,2035,2008
+996,996,foozle,foozles,V;3;SG;PRS,+s,Regular,0,foozle0,foozles,1,foozles,1,Same,-s,185,1842,1842
+997,997,beseem,beseeming,V;V.PTCP;PRS,+ing,Regular,3,beseem3,beseeming,1,beseeming,1,Same,-ing,101,949,949
+998,998,undumpish,undumpishes,V;3;SG;PRS,+es,Irregular,0,undumpish0,undumpishes,1,undumpishes,1,Same,-es,17,103,103
+999,999,underuse,underused,V;V.PTCP;PST,+d,Irregular,4,underuse4,underused,1,underused,1,Same,-d,169,1718,862
