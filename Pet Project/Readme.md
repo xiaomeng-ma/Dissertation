@@ -1,28 +1,18 @@
-##Data Cleaning
+## Data Cleaning
 
 1. Base data: ids-analysis (18347 tokens): https://github.com/cjkvi/cjkvi-ids
-
 2. select UNICODE 4E00–9FFF https://en.wikipedia.org/wiki/CJK_Unified_Ideographs
-
 3. structure encoding - based on the last letter in unicode character number https://en.wikipedia.org/wiki/Chinese_character_description_languages
-
 4. delete 简体 (simplied chinese)
-
 5. delete unrecognizable character
-
 6. decode segment using u4e00-ufaff 
-
 7. delete segments that can't be read in u4e00-ufaff
-
 8. delete characters have more than 2 segments 卸
-
 9. get pinyin using Mandarin.dat:https://github.com/lxyu/pinyin
-
 10. delete characters can't find pinyin in Mandarin.dat
-
 11. Clean data: saved2.csv (7724 tokens)
 
-##Columns 
+## Columns 
 1. Index: index in ids-analysis.csv
 2. Unicode_Character: The unicode for each charater
 3. character: Chinese character (traditional only)
