@@ -25,3 +25,8 @@
 10. consonant1,2, vowel1,2, tone1,2: the consonant, vowel and tone for the segment 1' and 2's pinyin
 11. segment1_sound: the comparison between segment1's and character's consonant, vowel, tone. 0 as not same, 1 as same. e.g. [0,0,0] means consonant, vowel, tone are all not same. [0,1,0] means consonant and tone are not same, vowel is the same.
 12. segment2_sound: the comparison between segment2's and character's consonant, vowel, tone.
+
+## Files
+Hanzicraft-phonetic-set: A phonetic set is a list of characters where a component produces the same pronounciation clue towards each character.
+https://hanzicraft.com/lists/phonetic-sets
+(I paid $5 for the printable version uploaded here)
