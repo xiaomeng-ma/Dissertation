@@ -30,3 +30,9 @@
 Hanzicraft-phonetic-set: A phonetic set is a list of characters where a component produces the same pronounciation clue towards each character.
 https://hanzicraft.com/lists/phonetic-sets
 (I paid $5 for the printable version uploaded here)
+
+## Experiment idea:
+1. Using segment 1 and segment 2 to predict the character's pinyin
+
+Input: Segment 1 pinyin + Segment 2 pinyin + structure
+Output: Character pinyin 
