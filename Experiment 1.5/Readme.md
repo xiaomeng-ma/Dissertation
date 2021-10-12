@@ -4,9 +4,7 @@
 |----------------|--------------|-------------|
 | angel          | angeled      | angelled    |
 | revictual      | revictualled | revictualed |
-|----------------|--------------|-------------|
-| Double +ed                                |
-|----------------|--------------|-------------|
+| **Double +ed**     |              |             |
 | kebab          | kebabbed     | kebabeded   |
 | abscess        | abscessed    | absceseded  |
 | deg            | degged       | degeded     |
@@ -15,7 +13,7 @@
 | casevac        | casevacked   | casecaceded |
 | dun            | dunned       | duneded     |
 |----------------|--------------|-------------|
-| Double no ed                                |
+| **Double no ed**                               |
 |----------------|--------------|-------------|
 | subjoin        | subjoined    | subjoinn    |
 | bebang         | bebanged     | bebangg     |
@@ -23,18 +21,18 @@
 | betoss         | betossed     | betosss     |
 | dryclean       | drycleaned   | drycleann   |
 |----------------|--------------|-------------|
-| y-i + ed       |              |             |
+| **y-i + ed**       |              |             |
 |----------------|--------------|-------------|
 | respray        | resprayed    | respraied   |
 | bivy           | bivyed       | bivied      |
 |----------------|--------------|-------------|
-| Almorphy       |              |             |
+| **Almorphy**      |              |             |
 |----------------|--------------|-------------|
 | forhele        | forhole      | forhelled   |
 | enwrite        | enwrote      | enwrited    |
 | forsee         | forsaw       | forseed     |
 |----------------|--------------|-------------|
-| Special        |              |             |
+| **Special**      |              |             |
 |----------------|--------------|-------------|
 | enwind         | enwound      | enwodned    |
 | thou           | thoued       | thoun       |
