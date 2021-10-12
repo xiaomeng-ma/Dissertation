@@ -1,0 +1,223 @@
+,root,inflection,tag,rule,reg,pred_20,Acc_20,pred_50,Acc_50,50_diff,20_diff,Same
+0,enwind,enwound,V;PST,special,Irregular,enwindn,0,enwindn,0,-n,-n,Not Same
+1,conscript,conscripted,V;PST,+ed,Regular,conscripted,1,conscripted,1,-ed,-ed,Same
+2,stereotype,stereotyped,V;PST,+d,Irregular,stereotiped,0,stereotiyed,0,yp-iyd,y-id,Not Same
+3,countervail,countervailed,V;PST,+ed,Regular,countervailld,0,countervailld,0,-ld,-ld,Not Same
+4,becue,becued,V;PST,+d,Irregular,becued,1,becued,1,-d,-d,Same
+5,disfeature,disfeatured,V;PST,+d,Irregular,disfeatured,1,disfeatured,1,-d,-d,Same
+6,respray,resprayed,V;PST,+ed,Regular,resprayed,1,resprayed,1,-ed,-ed,Same
+7,stage,staged,V;PST,+d,Irregular,staged,1,staged,1,-d,-d,Same
+8,punk,punked,V;PST,+ed,Regular,punked,1,punked,1,-ed,-ed,Same
+9,tempt,tempted,V;PST,+ed,Regular,tempted,1,tempttd,0,-td,-ed,Not Same
+10,self-deport,self-deported,V;PST,+ed,Regular,self-deported,1,self-deported,1,-ed,-ed,Same
+11,gall,galled,V;PST,+ed,Regular,gallld,0,gallld,0,-ld,-ld,Not Same
+12,matriculate,matriculated,V;PST,+d,Irregular,matriculated,1,matriculated,1,-d,-d,Same
+13,shmooze,shmoozed,V;PST,+d,Irregular,shmoozed,1,shmoozed,1,-d,-d,Same
+14,reacquire,reacquired,V;PST,+d,Irregular,reacquired,1,reacquired,1,-d,-d,Same
+15,kebab,kebabbed,V;PST,double spell,Irregular,kebabbbd,0,kebabbbd,0,-bbd,-bbd,Not Same
+16,suspicion,suspicioned,V;PST,+ed,Regular,suspicioned,1,suspicioond,0,n-ond,-ed,Not Same
+17,provinciate,provinciated,V;PST,+d,Irregular,provinciated,1,provinciated,1,-d,-d,Same
+18,pivot,pivoted,V;PST,+ed,Regular,pivoted,1,pivottd,0,-td,-ed,Not Same
+19,infract,infracted,V;PST,+ed,Regular,infracted,1,infracted,1,-ed,-ed,Same
+20,decoct,decocted,V;PST,+ed,Regular,decocted,1,decocttd,0,-td,-ed,Not Same
+21,forhele,forhole,V;PST,special,Irregular,forheled eeeeeeteeeeeeeee,0,forheled ,0,-d ,-d eeeeeeteeeeeeeee,Not Same
+22,gross,grossed,V;PST,+ed,Regular,grossed,1,grossed,1,-ed,-ed,Same
+23,muse,mused,V;PST,+d,Irregular,mused,1,mused,1,-d,-d,Same
+24,detonate,detonated,V;PST,+d,Irregular,detonated,1,detonated,1,-d,-d,Same
+25,transpierce,transpierced,V;PST,+d,Irregular,transpierced,1,transpierced,1,-d,-d,Same
+26,streamline,streamlined,V;PST,+d,Irregular,streamlined,1,streamlined,1,-d,-d,Same
+27,knit,knit,V;PST,no change,Irregular,knitt eetettetttee  ,0,knitt enn,0,-t enn,-t eetettetttee  ,Not Same
+28,subjoin,subjoined,V;PST,+ed,Regular,subjoinnd,0,subjoinnd,0,-nd,-nd,Not Same
+29,swale,swaled,V;PST,+d,Irregular,swaled,1,swaled,1,-d,-d,Same
+30,etherify,etherified,V;PST,y-ied,Irregular,etherified,1,etherified,1,y-ied,y-ied,Same
+31,impoverish,impoverished,V;PST,+ed,Regular,impoverished,1,impoverished,1,-ed,-ed,Same
+32,commend,commended,V;PST,+ed,Regular,commend,0,commend,0,-,-,Not Same
+33,abscess,abscessed,V;PST,+ed,Regular,abscessed,1,abscessed,1,-ed,-ed,Same
+34,cicurate,cicurated,V;PST,+d,Irregular,cicurated,1,cicurated,1,-d,-d,Same
+35,disroot,disrooted,V;PST,+ed,Regular,disrooted,1,disrooted,1,-ed,-ed,Same
+36,decontextualize,decontextualized,V;PST,+d,Irregular,decontextualized,1,decontextualized,1,-d,-d,Same
+37,bud,budded,V;PST,double spell,Irregular,budded,1,budb,0,-b,-ded,Not Same
+38,inhere,inhered,V;PST,+d,Irregular,inhered,1,inhered,1,-d,-d,Same
+39,underbudget,underbudgeted,V;PST,+ed,Regular,underbudgeted,1,underbudgettd,0,-td,-ed,Not Same
+40,beweigh,beweighed,V;PST,+ed,Regular,beweightd,0,beweightd,0,-td,-td,Not Same
+41,sonnetize,sonnetized,V;PST,+d,Irregular,sonnetized,1,sonnetized,1,-d,-d,Same
+42,commodify,commodified,V;PST,y-ied,Irregular,commodified,1,commodified,1,y-ied,y-ied,Same
+43,norn,norned,V;PST,+ed,Regular,nornnd,0,nornnd,0,-nd,-nd,Not Same
+44,average,averaged,V;PST,+d,Irregular,averaged,1,averaged,1,-d,-d,Same
+45,thou,thoued,V;PST,+ed,Regular,thougd,0,thougd,0,-gd,-gd,Not Same
+46,evocate,evocated,V;PST,+d,Irregular,evocated,1,evocated,1,-d,-d,Same
+47,recontest,recontested,V;PST,+ed,Regular,recontested,1,recontested,1,-ed,-ed,Same
+48,expound,expounded,V;PST,+ed,Regular,expound,0,expound,0,-,-,Not Same
+49,upbreed,upbred,V;PST,special,Irregular,upbree,0,upbred,1,ed-d,d-,Not Same
+50,recrudesce,recrudesced,V;PST,+d,Irregular,recrudesced,1,recrudesced,1,-d,-d,Same
+51,stitch,stitched,V;PST,+ed,Regular,stitched,1,stitched,1,-ed,-ed,Same
+52,conservatise,conservatised,V;PST,+d,Irregular,conservatised,1,conservatised,1,-d,-d,Same
+53,criminalize,criminalized,V;PST,+d,Irregular,criminalized,1,criminalized,1,-d,-d,Same
+54,gork,gorked,V;PST,+ed,Regular,gorked,1,gork,0,-,-ed,Not Same
+55,rejudge,rejudged,V;PST,+d,Irregular,rejudged,1,rejudged,1,-d,-d,Same
+56,misadjust,misadjusted,V;PST,+ed,Regular,misadjusted,1,misadjusted,1,-ed,-ed,Same
+57,rekeyboard,rekeyboarded,V;PST,+ed,Regular,rekeyboard,0,rekeyboard,0,-,-,Not Same
+58,banjax,banjaxed,V;PST,+ed,Regular,banjaxed,1,banjaxed,1,-ed,-ed,Same
+59,calvinise,calvinised,V;PST,+d,Irregular,calvinised,1,calvinised,1,-d,-d,Same
+60,prenote,prenoted,V;PST,+d,Irregular,prenoted,1,prenoted,1,-d,-d,Same
+61,stucco,stuccoed,V;PST,+ed,Regular,stuccord,0,stuccodd,0,-dd,-rd,Not Same
+62,transcend,transcended,V;PST,+ed,Regular,transcend,0,transcend,0,-,-,Not Same
+63,hegemonize,hegemonized,V;PST,+d,Irregular,hegemonized,1,hegemonized,1,-d,-d,Same
+64,finalize,finalized,V;PST,+d,Irregular,finalized,1,finalized,1,-d,-d,Same
+65,deg,degged,V;PST,double spell,Irregular,degged,1,degged,1,-ged,-ged,Same
+66,outthrust,outthrusted,V;PST,+ed,Regular,outthrusted,1,outthrusted,1,-ed,-ed,Same
+67,reticket,reticketed,V;PST,+ed,Regular,reticketed,1,retickettd,0,-td,-ed,Not Same
+68,yodel,yodelled,V;PST,double spell,Irregular,yodellld,0,yodellld,0,-lld,-lld,Not Same
+69,externalize,externalized,V;PST,+d,Irregular,externalized,1,externalized,1,-d,-d,Same
+70,reengage,reengaged,V;PST,+d,Irregular,reengaged,1,reengaged,1,-d,-d,Same
+71,comport,comported,V;PST,+ed,Regular,comported,1,comported,1,-ed,-ed,Same
+72,growl,growled,V;PST,+ed,Regular,growlld,0,growlld,0,-ld,-ld,Not Same
+73,courage,couraged,V;PST,+d,Irregular,couraged,1,couraged,1,-d,-d,Same
+74,neighbour,neighboured,V;PST,+ed,Regular,neighboured,1,neighboured,1,-ed,-ed,Same
+75,glamorise,glamorised,V;PST,+d,Irregular,glamorised,1,glamorised,1,-d,-d,Same
+76,zone,zoned,V;PST,+d,Irregular,zoned,1,zoned,1,-d,-d,Same
+77,debit,debited,V;PST,+ed,Regular,debited,1,debittd,0,-td,-ed,Not Same
+78,enwrite,enwrote,V;PST,special,Irregular,enwrited eeeeeeteeeeeeee ,0,enwrited ,0,-d ,-d eeeeeeteeeeeeee ,Not Same
+79,hallmark,hallmarked,V;PST,+ed,Regular,hallmarked,1,hallmarked,1,-ed,-ed,Same
+80,angel,angeled,V;PST,+ed,Regular,angelld,0,angelld,0,-ld,-ld,Not Same
+81,unlace,unlaced,V;PST,+d,Irregular,unlaced,1,unlaced,1,-d,-d,Same
+82,patron,patroned,V;PST,+ed,Regular,patronnd,0,patronnd,0,-nd,-nd,Not Same
+83,robustify,robustified,V;PST,y-ied,Irregular,robustified,1,robustified,1,y-ied,y-ied,Same
+84,cockneyfy,cockneyfied,V;PST,y-ied,Irregular,cockneyfied,1,cockneyfied,1,y-ied,y-ied,Same
+85,imbosom,imbosomed,V;PST,+ed,Regular,imbosomed,1,imbosommd,0,-md,-ed,Not Same
+86,proke,proked,V;PST,+d,Irregular,proked,1,proked,1,-d,-d,Same
+87,pooh-pooh,pooh-poohed,V;PST,+ed,Regular,pooh-poohed,1,pooh-poohed,1,-ed,-ed,Same
+88,new-model,new-modelled,V;PST,double spell,Irregular,new-modellld,0,new-modellld,0,-lld,-lld,Not Same
+89,embarn,embarned,V;PST,+ed,Regular,embarnnd,0,embarnnd,0,-nd,-nd,Not Same
+90,rehone,rehoned,V;PST,+d,Irregular,rehoned,1,rehoned,1,-d,-d,Same
+91,dimensionalise,dimensionalised,V;PST,+d,Irregular,dimensionalised,1,dimensiooalised,0,n-od,-d,Not Same
+92,checker,checkered,V;PST,+ed,Regular,checkered,1,checkered,1,-ed,-ed,Same
+93,overwinter,overwintered,V;PST,+ed,Regular,overwintered,1,overwintered,1,-ed,-ed,Same
+94,forsee,forsaw,V;PST,special,Irregular,forsee,0,forsee,0,-,-,Not Same
+95,seize,seized,V;PST,+d,Irregular,seized,1,seized,1,-d,-d,Same
+96,billhook,billhooked,V;PST,+ed,Regular,billhooked,1,billhooked,1,-ed,-ed,Same
+97,gully,gullied,V;PST,y-ied,Irregular,gullied,1,gullidd,0,y-idd,y-ied,Not Same
+98,glaver,glavered,V;PST,+ed,Regular,glavered,1,glaverrd,0,-rd,-ed,Not Same
+99,subcategorise,subcategorised,V;PST,+d,Irregular,subcategorised,1,subcategorised,1,-d,-d,Same
+100,adnominalize,adnominalized,V;PST,+d,Irregular,adnominalized,1,adnominalized,1,-d,-d,Same
+101,perfix,perfixed,V;PST,+ed,Regular,perfixed,1,perfixed,1,-ed,-ed,Same
+102,deem,deemed,V;PST,+ed,Regular,deemmd,0,deemmd,0,-md,-md,Not Same
+103,deneutralize,deneutralized,V;PST,+d,Irregular,deneutralized,1,deneutralized,1,-d,-d,Same
+104,marline,marlined,V;PST,+d,Irregular,marlined,1,marlined,1,-d,-d,Same
+105,crusade,crusaded,V;PST,+d,Irregular,crusaded,1,crusaded,1,-d,-d,Same
+106,overveil,overveiled,V;PST,+ed,Regular,overveilld,0,overveilld,0,-ld,-ld,Not Same
+107,uptalk,uptalked,V;PST,+ed,Regular,uptalked,1,uptalk,0,-,-ed,Not Same
+108,audit,audited,V;PST,+ed,Regular,audited,1,audittd,0,-td,-ed,Not Same
+109,comigrate,comigrated,V;PST,+d,Irregular,comigrated,1,comigrated,1,-d,-d,Same
+110,pincushion,pincushioned,V;PST,+ed,Regular,pincushionnd,0,pincushionnd,0,-nd,-nd,Not Same
+111,teeter,teetered,V;PST,+ed,Regular,teetered,1,teeterrd,0,-rd,-ed,Not Same
+112,overidentify,overidentified,V;PST,y-ied,Irregular,overidentified,1,overidentified,1,y-ied,y-ied,Same
+113,counterindoctrinate,counterindoctrinated,V;PST,+d,Irregular,counterindoctrinnnid,0,counterindocttiiniidi iii,0,rnate-tiniidi iii,ate-nnid,Not Same
+114,annihilate,annihilated,V;PST,+d,Irregular,annihilated,1,annihilated,1,-d,-d,Same
+115,disenvowel,disenvowelled,V;PST,double spell,Irregular,disenvowellld,0,disenvowellld,0,-lld,-lld,Not Same
+116,unreeve,unreeved,V;PST,+d,Irregular,unreeved,1,unreeved,1,-d,-d,Same
+117,monopolise,monopolised,V;PST,+d,Irregular,monopolised,1,monopolised,1,-d,-d,Same
+118,outprize,outprized,V;PST,+d,Irregular,outprized,1,outprized,1,-d,-d,Same
+119,bridge,bridged,V;PST,+d,Irregular,bridged,1,bridged,1,-d,-d,Same
+120,backset,backset,V;PST,no change,Irregular,backsete eeeeeeteeeeeeee ,0,backsett ,0,-t ,-e eeeeeeteeeeeeee ,Not Same
+121,strinkle,strinkled,V;PST,+d,Irregular,strinkled,1,strinkled,1,-d,-d,Same
+122,floodlight,floodlighted,V;PST,+ed,Regular,floodlighted,1,floodlighted,1,-ed,-ed,Same
+123,chastize,chastized,V;PST,+d,Irregular,chastized,1,chastized,1,-d,-d,Same
+124,pastour,pastoured,V;PST,+ed,Regular,pastoured,1,pastoured,1,-ed,-ed,Same
+125,transfrete,transfreted,V;PST,+d,Irregular,transfreted,1,transfreted,1,-d,-d,Same
+126,triphthongize,triphthongized,V;PST,+d,Irregular,triphthongized,1,triphthongized,1,-d,-d,Same
+127,crispen,crispened,V;PST,+ed,Regular,crispennd,0,crispennd,0,-nd,-nd,Not Same
+128,telecopy,telecopied,V;PST,y-ied,Irregular,telecopied,1,telecopied,1,y-ied,y-ied,Same
+129,anhele,anheled,V;PST,+d,Irregular,anheled,1,anheled,1,-d,-d,Same
+130,solecize,solecized,V;PST,+d,Irregular,solecized,1,solecized,1,-d,-d,Same
+131,photorelease,photoreleased,V;PST,+d,Irregular,photoreleased,1,photoreleased,1,-d,-d,Same
+132,ferule,feruled,V;PST,+d,Irregular,feruled,1,feruled,1,-d,-d,Same
+133,phagocytize,phagocytized,V;PST,+d,Irregular,phagocytized,1,phagocytized,1,-d,-d,Same
+134,bivy,bivyed,V;PST,+ed,Regular,bivied,0,bivind,0,y-ind,y-ied,Not Same
+135,imbrown,imbrowned,V;PST,+ed,Regular,imbrownnd,0,imbrownnd,0,-nd,-nd,Not Same
+136,gainstrive,gainstrove,V;PST,special,Irregular,gainstrived eeeeeeeeeeeee,0,gainstrived eee,0,-d eee,-d eeeeeeeeeeeee,Not Same
+137,bewhore,bewhored,V;PST,+d,Irregular,bewhored,1,bewhored,1,-d,-d,Same
+138,preoccupate,preoccupated,V;PST,+d,Irregular,preoccupated,1,preoccupated,1,-d,-d,Same
+139,reinfect,reinfected,V;PST,+ed,Regular,reinfected,1,reinfecttd,0,-td,-ed,Not Same
+140,dropkick,dropkicked,V;PST,+ed,Regular,dropkicked,1,dropkicked,1,-ed,-ed,Same
+141,flabergast,flabergasted,V;PST,+ed,Regular,flabergasted,1,flabergasted,1,-ed,-ed,Same
+142,bioconcentrate,bioconcentrated,V;PST,+d,Irregular,bioconcentrated,1,biocoocentrated,0,n-od,-d,Not Same
+143,monumentalize,monumentalized,V;PST,+d,Irregular,monumentalized,1,monumentalized,1,-d,-d,Same
+144,deacetylate,deacetylated,V;PST,+d,Irregular,deacetylated,1,deacetylated,1,-d,-d,Same
+145,overweight,overweighted,V;PST,+ed,Regular,overweighted,1,overweighted,1,-ed,-ed,Same
+146,monotask,monotasked,V;PST,+ed,Regular,monotasked,1,monotasked,1,-ed,-ed,Same
+147,unshape,unshope,V;PST,special,Irregular,unshaped eeeeeeteeeeeeeee,0,unshaped ,0,-d ,-d eeeeeeteeeeeeeee,Not Same
+148,surround,surrounded,V;PST,+ed,Regular,surround,0,surround,0,-,-,Not Same
+149,lant,lanted,V;PST,+ed,Regular,lanttd,0,lanttd,0,-td,-td,Not Same
+150,facilize,facilized,V;PST,+d,Irregular,facilized,1,facilized,1,-d,-d,Same
+151,imposthumate,imposthumated,V;PST,+d,Irregular,imposthumated,1,imposthumated,1,-d,-d,Same
+152,unflatten,unflattened,V;PST,+ed,Regular,unflattened,1,unflattennd,0,-nd,-ed,Not Same
+153,reprize,reprized,V;PST,+d,Irregular,reprized,1,reprized,1,-d,-d,Same
+154,accriminate,accriminated,V;PST,+d,Irregular,accriminated,1,accriminated,1,-d,-d,Same
+155,bebang,bebanged,V;PST,+ed,Regular,bebanggd,0,bebanggd,0,-gd,-gd,Not Same
+156,cathect,cathected,V;PST,+ed,Regular,cathected,1,cathected,1,-ed,-ed,Same
+157,dedisperse,dedispersed,V;PST,+d,Irregular,dedispersed,1,dedispersed,1,-d,-d,Same
+158,lapidate,lapidated,V;PST,+d,Irregular,lapidated,1,lapidated,1,-d,-d,Same
+159,caparison,caparisoned,V;PST,+ed,Regular,caparisoned,1,caparisoond,0,n-ond,-ed,Not Same
+160,classify,classified,V;PST,y-ied,Irregular,classified,1,classified,1,y-ied,y-ied,Same
+161,remand,remanded,V;PST,+ed,Regular,remand,0,remand,0,-,-,Not Same
+162,disfurnish,disfurnished,V;PST,+ed,Regular,disfurnished,1,disfurnished,1,-ed,-ed,Same
+163,desulfurize,desulfurized,V;PST,+d,Irregular,desulfurized,1,desulfurized,1,-d,-d,Same
+164,uplock,uplocked,V;PST,+ed,Regular,uplocked,1,uplock,0,-,-ed,Not Same
+165,defalk,defalked,V;PST,+ed,Regular,defalked,1,defalk,0,-,-ed,Not Same
+166,droop,drooped,V;PST,+ed,Regular,drooped,1,drooppd,0,-pd,-ed,Not Same
+167,author,authored,V;PST,+ed,Regular,authored,1,authorrd,0,-rd,-ed,Not Same
+168,birr,birred,V;PST,+ed,Regular,birrrd,0,birrrd,0,-rd,-rd,Not Same
+169,elicit,elicited,V;PST,+ed,Regular,elicited,1,elicittd,0,-td,-ed,Not Same
+170,manse,mansed,V;PST,+d,Irregular,mansed,1,mansed,1,-d,-d,Same
+171,unhat,unhatted,V;PST,double spell,Irregular,unhateed,0,unhatted,1,-ted,-eed,Not Same
+172,reaffiliate,reaffiliated,V;PST,+d,Irregular,reaffiliated,1,reaffiliated,1,-d,-d,Same
+173,conduce,conduced,V;PST,+d,Irregular,conduced,1,conduced,1,-d,-d,Same
+174,slake,slaked,V;PST,+d,Irregular,slaked,1,slaked,1,-d,-d,Same
+175,uncoach,uncoached,V;PST,+ed,Regular,uncoached,1,uncoached,1,-ed,-ed,Same
+176,darraign,darraigned,V;PST,+ed,Regular,darraigned,1,darraignnd,0,-nd,-ed,Not Same
+177,opt,opted,V;PST,+ed,Regular,opttd,0,opttd,0,-td,-td,Not Same
+178,grout,grouted,V;PST,+ed,Regular,grouted,1,grouttd,0,-td,-ed,Not Same
+179,forwean,forweaned,V;PST,+ed,Regular,forweannd,0,forweannd,0,-nd,-nd,Not Same
+180,devilize,devilized,V;PST,+d,Irregular,devilized,1,devilized,1,-d,-d,Same
+181,decontaminate,decontaminated,V;PST,+d,Irregular,decontaminated,1,decontaminated,1,-d,-d,Same
+182,rejumble,rejumbled,V;PST,+d,Irregular,rejumbled,1,rejumbled,1,-d,-d,Same
+183,excruciate,excruciated,V;PST,+d,Irregular,excruciated,1,excruciated,1,-d,-d,Same
+184,betoss,betossed,V;PST,+ed,Regular,betossed,1,betossed,1,-ed,-ed,Same
+185,fingerpick,fingerpicked,V;PST,+ed,Regular,fingerpicked,1,fingerpicked,1,-ed,-ed,Same
+186,diffuse,diffused,V;PST,+d,Irregular,diffused,1,diffused,1,-d,-d,Same
+187,revictual,revictualled,V;PST,double spell,Irregular,revictuallld,0,revictuallld,0,-lld,-lld,Not Same
+188,ransack,ransacked,V;PST,+ed,Regular,ransacked,1,ransacked,1,-ed,-ed,Same
+189,fat-finger,fat-fingered,V;PST,+ed,Regular,fat-fingered,1,fat-fingered,1,-ed,-ed,Same
+190,recommend,recommended,V;PST,+ed,Regular,recommend,0,recommend,0,-,-,Not Same
+191,swash,swashed,V;PST,+ed,Regular,swashed,1,swashed,1,-ed,-ed,Same
+192,airt,airted,V;PST,+ed,Regular,airttd,0,airttd,0,-td,-td,Not Same
+193,uncredit,uncredited,V;PST,+ed,Regular,uncredited,1,uncredittd,0,-td,-ed,Not Same
+194,heapsort,heapsorted,V;PST,+ed,Regular,heapsorted,1,heapsorted,1,-ed,-ed,Same
+195,clank,clanked,V;PST,+ed,Regular,clanked,1,clanked,1,-ed,-ed,Same
+196,masculate,masculated,V;PST,+d,Irregular,masculated,1,masculated,1,-d,-d,Same
+197,overbake,overbaked,V;PST,+d,Irregular,overbaked,1,overbaked,1,-d,-d,Same
+198,reamend,reamended,V;PST,+ed,Regular,reamend,0,reamend,0,-,-,Not Same
+199,offsplit,offsplit,V;PST,no change,Irregular,offsplite eeeeeteeeeeeeee,0,offsplite eeeee,0,-e eeeee,-e eeeeeteeeeeeeee,Not Same
+200,unharness,unharnessed,V;PST,+ed,Regular,unharnessed,1,unharnessed,1,-ed,-ed,Same
+201,casevac,casevacked,V;PST,special,Irregular,casevacked,1,casevacked,1,-ked,-ked,Same
+202,demutualize,demutualized,V;PST,+d,Irregular,demutualized,1,demutualized,1,-d,-d,Same
+203,pulverate,pulverated,V;PST,+d,Irregular,pulverated,1,pulverated,1,-d,-d,Same
+204,skilder,skildered,V;PST,+ed,Regular,skildered,1,skildered,1,-ed,-ed,Same
+205,snook,snooked,V;PST,+ed,Regular,snooked,1,snooked,1,-ed,-ed,Same
+206,spurt,spurted,V;PST,+ed,Regular,spurted,1,spurttd,0,-td,-ed,Not Same
+207,ochre,ochred,V;PST,+d,Irregular,ochred,1,ochred,1,-d,-d,Same
+208,cumber,cumbered,V;PST,+ed,Regular,cumbered,1,cumberrd,0,-rd,-ed,Not Same
+209,dun,dunned,V;PST,double spell,Irregular,dunned,1,dunnnd,0,-nnd,-ned,Not Same
+210,hotlist,hotlisted,V;PST,+ed,Regular,hotlisted,1,hotlisted,1,-ed,-ed,Same
+211,dryclean,drycleaned,V;PST,+ed,Regular,drycleaned,1,drycleannd,0,-nd,-ed,Not Same
+212,subitise,subitised,V;PST,+d,Irregular,subitised,1,subitised,1,-d,-d,Same
+213,cameo,cameoed,V;PST,+ed,Regular,cameord,0,cameodd,0,-dd,-rd,Not Same
+214,emprove,emproved,V;PST,+d,Irregular,emproved,1,emproved,1,-d,-d,Same
+215,texture,textured,V;PST,+d,Irregular,textured,1,textured,1,-d,-d,Same
+216,ravel,ravelled,V;PST,double spell,Irregular,ravellld,0,ravellld,0,-lld,-lld,Not Same
+217,rat-race,rat-raced,V;PST,+d,Irregular,rat-raced,1,rat-raced,1,-d,-d,Same
+218,disaffirm,disaffirmed,V;PST,+ed,Regular,disaffirmed,1,disaffirmmd,0,-md,-ed,Not Same
+219,cameltoe,cameltoed,V;PST,+d,Irregular,cameltoed,1,cameltoed,1,-d,-d,Same
+220,blister,blistered,V;PST,+ed,Regular,blistered,1,blistered,1,-ed,-ed,Same
+221,answer,answered,V;PST,+ed,Regular,answered,1,answerrd,0,-rd,-ed,Not Same

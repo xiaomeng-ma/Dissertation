@@ -1,0 +1,203 @@
+,root,inflection,tag,rule,reg,pred_20,Acc_20,diff,pred_50,Acc_50,50_diff,20_diff,Same
+0,inchant,inchanting,V;V.PTCP;PRS,+ing,Regular,inchanting,1,-ing,inchanttng,0,-tng,-ing,Not Same
+1,anglify,anglifying,V;V.PTCP;PRS,+ing,Regular,anglifying,1,-ing,anglifying,1,-ing,-ing,Same
+2,forespread,forespreading,V;V.PTCP;PRS,+ing,Regular,forespreading,1,-ing,forespreading,1,-ing,-ing,Same
+3,philibuster,philibustering,V;V.PTCP;PRS,+ing,Regular,philibusterrng,0,-ing,philibusterrng,0,-rng,-rng,Not Same
+4,jolt,jolting,V;V.PTCP;PRS,+ing,Regular,jolttng,0,-ing,jolttng,0,-tng,-tng,Not Same
+5,healthify,healthifying,V;V.PTCP;PRS,+ing,Regular,healthifying,1,-ing,healthifying,1,-ing,-ing,Same
+6,caffeinate,caffeinating,V;V.PTCP;PRS,-e+ing,Irregular,caffeinating,1,e-ing,caffeinating,1,e-ing,e-ing,Same
+7,denuclearize,denuclearizing,V;V.PTCP;PRS,-e+ing,Irregular,denuclearizing,1,e-ing,denuclearizing,1,e-ing,e-ing,Same
+8,suburbanize,suburbanizing,V;V.PTCP;PRS,-e+ing,Irregular,suburbanizing,1,e-ing,suburbanizing,1,e-ing,e-ing,Same
+9,punch,punching,V;V.PTCP;PRS,+ing,Regular,punching,1,-ing,punching,1,-ing,-ing,Same
+10,cytolyze,cytolyzing,V;V.PTCP;PRS,-e+ing,Irregular,cytolyzing,1,e-ing,cytolyzing,1,e-ing,e-ing,Same
+11,retail,retailing,V;V.PTCP;PRS,+ing,Regular,retaillng,0,-ing,retaillng,0,-lng,-lng,Not Same
+12,outspeed,outspeeding,V;V.PTCP;PRS,+ing,Regular,outspeeddng,0,-ing,outspeeddng,0,-dng,-dng,Not Same
+13,receave,receaving,V;V.PTCP;PRS,-e+ing,Irregular,receaving,1,e-ing,receaving,1,e-ing,e-ing,Same
+14,tidy,tidying,V;V.PTCP;PRS,+ing,Regular,tidying,1,-ing,tidying,1,-ing,-ing,Same
+15,slump,slumping,V;V.PTCP;PRS,+ing,Regular,slumppng,0,-ing,slumping,1,-ing,-png,Not Same
+16,gothicize,gothicizing,V;V.PTCP;PRS,-e+ing,Irregular,gothicizing,1,e-ing,gothicizing,1,e-ing,e-ing,Same
+17,wallpaper,wallpapering,V;V.PTCP;PRS,+ing,Regular,wallpaperrng,0,-ing,wallpapering,1,-ing,-rng,Not Same
+18,condensate,condensating,V;V.PTCP;PRS,-e+ing,Irregular,condensating,1,e-ing,condensating,1,e-ing,e-ing,Same
+19,grout,grouting,V;V.PTCP;PRS,+ing,Regular,grouttng,0,-ing,grouttng,0,-tng,-tng,Not Same
+20,rattle,rattling,V;V.PTCP;PRS,-e+ing,Irregular,rattling,1,e-ing,rattling,1,e-ing,e-ing,Same
+21,empurple,empurpling,V;V.PTCP;PRS,-e+ing,Irregular,empurpling,1,e-ing,empurpling,1,e-ing,e-ing,Same
+22,chromize,chromizing,V;V.PTCP;PRS,-e+ing,Irregular,chromizing,1,e-ing,chromizing,1,e-ing,e-ing,Same
+23,willow,willowing,V;V.PTCP;PRS,+ing,Regular,willowing,1,-ing,willowing,1,-ing,-ing,Same
+24,sleid,sleiding,V;V.PTCP;PRS,+ing,Regular,sleiding,1,-ing,sleiding,1,-ing,-ing,Same
+25,screen-scrape,screen-scraping,V;V.PTCP;PRS,-e+ing,Irregular,screen-scraping,1,e-ing,screen-scraping,1,e-ing,e-ing,Same
+26,compartmentalise,compartmentalising,V;V.PTCP;PRS,-e+ing,Irregular,compartmentalizing,0,e-ing,compartmentaliiing,0,se-iing,se-zing,Not Same
+27,lol,loling,V;V.PTCP;PRS,+ing,Regular,lollng,0,-ing,lollng,0,-lng,-lng,Not Same
+28,circle,circling,V;V.PTCP;PRS,-e+ing,Irregular,circling,1,e-ing,circling,1,e-ing,e-ing,Same
+29,tyrannise,tyrannising,V;V.PTCP;PRS,-e+ing,Irregular,tyrannising,1,e-ing,tyrannising,1,e-ing,e-ing,Same
+30,reorientate,reorientating,V;V.PTCP;PRS,-e+ing,Irregular,reorientating,1,e-ing,reorientating,1,e-ing,e-ing,Same
+31,approve,approving,V;V.PTCP;PRS,-e+ing,Irregular,approving,1,e-ing,approving,1,e-ing,e-ing,Same
+32,indorse,indorsing,V;V.PTCP;PRS,-e+ing,Irregular,indorsing,1,e-ing,indorsing,1,e-ing,e-ing,Same
+33,swifter,swiftering,V;V.PTCP;PRS,+ing,Regular,swifterrng,0,-ing,swifterrng,0,-rng,-rng,Not Same
+34,mimeograph,mimeographing,V;V.PTCP;PRS,+ing,Regular,mimeographing,1,-ing,mimeographing,1,-ing,-ing,Same
+35,vitaminise,vitaminising,V;V.PTCP;PRS,-e+ing,Irregular,vitaminising,1,e-ing,vitaminising,1,e-ing,e-ing,Same
+36,foreshape,foreshaping,V;V.PTCP;PRS,-e+ing,Irregular,foreshaping,1,e-ing,foreshaping,1,e-ing,e-ing,Same
+37,whiten,whitening,V;V.PTCP;PRS,+ing,Regular,whitennng,0,-ing,whitennng,0,-nng,-nng,Not Same
+38,intertwingle,intertwingling,V;V.PTCP;PRS,-e+ing,Irregular,intertwingling,1,e-ing,intertwingling,1,e-ing,e-ing,Same
+39,exauthorize,exauthorizing,V;V.PTCP;PRS,-e+ing,Irregular,exauthorizing,1,e-ing,exauthorizing,1,e-ing,e-ing,Same
+40,justify,justifying,V;V.PTCP;PRS,+ing,Regular,justifying,1,-ing,justifying,1,-ing,-ing,Same
+41,siphon,siphoning,V;V.PTCP;PRS,+ing,Regular,siphonnng,0,-ing,siphonnng,0,-nng,-nng,Not Same
+42,sue,suing,V;V.PTCP;PRS,-e+ing,Irregular,suing,1,e-ing,suing,1,e-ing,e-ing,Same
+43,forthdraw,forthdrawing,V;V.PTCP;PRS,+ing,Regular,forthdrawing,1,-ing,forthdrawing,1,-ing,-ing,Same
+44,potchky,potchkying,V;V.PTCP;PRS,+ing,Regular,potchkying,1,-ing,potchkying,1,-ing,-ing,Same
+45,dyb,dybbing,V;V.PTCP;PRS,double spell,Irregular,dybbbng,0,-bing,dybbing,1,-bing,-bbng,Not Same
+46,output,outputting,V;V.PTCP;PRS,double spell,Irregular,outputttng,0,-ting,outputttng,0,-ttng,-ttng,Not Same
+47,commercialize,commercializing,V;V.PTCP;PRS,-e+ing,Irregular,commercializing,1,e-ing,commercializing,1,e-ing,e-ing,Same
+48,sweb,swebbing,V;V.PTCP;PRS,double spell,Irregular,swebbbng,0,-bing,swebbing,1,-bing,-bbng,Not Same
+49,redispute,redisputing,V;V.PTCP;PRS,-e+ing,Irregular,redisputing,1,e-ing,redisputing,1,e-ing,e-ing,Same
+50,emasculate,emasculating,V;V.PTCP;PRS,-e+ing,Irregular,emasculating,1,e-ing,emasculating,1,e-ing,e-ing,Same
+51,judicialize,judicializing,V;V.PTCP;PRS,-e+ing,Irregular,judicializing,1,e-ing,judicializing,1,e-ing,e-ing,Same
+52,marmalise,marmalising,V;V.PTCP;PRS,-e+ing,Irregular,marmalising,1,e-ing,marmalising,1,e-ing,e-ing,Same
+53,cruize,cruizing,V;V.PTCP;PRS,-e+ing,Irregular,cruizing,1,e-ing,cruizing,1,e-ing,e-ing,Same
+54,confiscate,confiscating,V;V.PTCP;PRS,-e+ing,Irregular,confiscating,1,e-ing,confiscating,1,e-ing,e-ing,Same
+55,gedge,gedging,V;V.PTCP;PRS,-e+ing,Irregular,gedging,1,e-ing,gedging,1,e-ing,e-ing,Same
+56,deinterlace,deinterlacing,V;V.PTCP;PRS,-e+ing,Irregular,deinterlacing,1,e-ing,deinterlacing,1,e-ing,e-ing,Same
+57,dammish,dammishing,V;V.PTCP;PRS,+ing,Regular,dammishing,1,-ing,dammishing,1,-ing,-ing,Same
+58,munify,munifying,V;V.PTCP;PRS,+ing,Regular,munifying,1,-ing,munifying,1,-ing,-ing,Same
+59,predeposit,predepositing,V;V.PTCP;PRS,+ing,Regular,predeposittng,0,-ing,predeposittng,0,-tng,-tng,Not Same
+60,prattle,prattling,V;V.PTCP;PRS,-e+ing,Irregular,prattling,1,e-ing,prattling,1,e-ing,e-ing,Same
+61,pre-teach,pre-teaching,V;V.PTCP;PRS,+ing,Regular,pre-teaching,1,-ing,pre-teaching,1,-ing,-ing,Same
+62,owe,owing,V;V.PTCP;PRS,-e+ing,Irregular,oweng,0,e-ing,owing,1,e-ing,-ng,Not Same
+63,yacht,yachting,V;V.PTCP;PRS,+ing,Regular,yachttng,0,-ing,yachttng,0,-tng,-tng,Not Same
+64,skirt,skirting,V;V.PTCP;PRS,+ing,Regular,skirttng,0,-ing,skirttng,0,-tng,-tng,Not Same
+65,vanquish,vanquishing,V;V.PTCP;PRS,+ing,Regular,vanquishing,1,-ing,vanquishing,1,-ing,-ing,Same
+66,perchlorinate,perchlorinating,V;V.PTCP;PRS,-e+ing,Irregular,perchlorinating,1,e-ing,perchlorinating,1,e-ing,e-ing,Same
+67,waucht,wauchting,V;V.PTCP;PRS,+ing,Regular,wauchttng,0,-ing,wauchttng,0,-tng,-tng,Not Same
+68,enwheel,enwheeling,V;V.PTCP;PRS,+ing,Regular,enwheellng,0,-ing,enwheellng,0,-lng,-lng,Not Same
+69,gibe,gibing,V;V.PTCP;PRS,-e+ing,Irregular,gibing,1,e-ing,gibing,1,e-ing,e-ing,Same
+70,smouch,smouching,V;V.PTCP;PRS,+ing,Regular,smouching,1,-ing,smouching,1,-ing,-ing,Same
+71,fleech,fleeching,V;V.PTCP;PRS,+ing,Regular,fleeching,1,-ing,fleeching,1,-ing,-ing,Same
+72,rook,rooking,V;V.PTCP;PRS,+ing,Regular,rookkng,0,-ing,rooking,1,-ing,-kng,Not Same
+73,neighbor,neighboring,V;V.PTCP;PRS,+ing,Regular,neighborrng,0,-ing,neighborrng,0,-rng,-rng,Not Same
+74,reentre,reentring,V;V.PTCP;PRS,-e+ing,Irregular,reentring,1,e-ing,reentreng,0,-ng,e-ing,Not Same
+75,innerduce,innerducing,V;V.PTCP;PRS,-e+ing,Irregular,innerducing,1,e-ing,innerducing,1,e-ing,e-ing,Same
+76,surround,surrounding,V;V.PTCP;PRS,+ing,Regular,surrounding,1,-ing,surrounding,1,-ing,-ing,Same
+77,swim,swimming,V;V.PTCP;PRS,double spell,Irregular,swimming,1,-ming,swimming,1,-ming,-ming,Same
+78,curb,curbing,V;V.PTCP;PRS,+ing,Regular,curbbng,0,-ing,curbbng,0,-bng,-bng,Not Same
+79,chip,chipping,V;V.PTCP;PRS,double spell,Irregular,chipppng,0,-ping,chipping,1,-ping,-ppng,Not Same
+80,pussywhip,pussywhipping,V;V.PTCP;PRS,double spell,Irregular,pussywhipppng,0,-ping,pussywhipiing,0,-iing,-ppng,Not Same
+81,snack,snacking,V;V.PTCP;PRS,+ing,Regular,snacking,1,-ing,snacking,1,-ing,-ing,Same
+82,postil,postilling,V;V.PTCP;PRS,double spell,Irregular,postilling,1,-ling,postilling,1,-ling,-ling,Same
+83,underflow,underflowing,V;V.PTCP;PRS,+ing,Regular,underflowing,1,-ing,underflowing,1,-ing,-ing,Same
+84,apartheidize,apartheidizing,V;V.PTCP;PRS,-e+ing,Irregular,apartheidizing,1,e-ing,apartheidizing,1,e-ing,e-ing,Same
+85,spaniel,spanielling,V;V.PTCP;PRS,double spell,Irregular,spanielllng,0,-ling,spanieliing,0,-iing,-llng,Not Same
+86,minister,ministering,V;V.PTCP;PRS,+ing,Regular,ministerrng,0,-ing,ministerrng,0,-rng,-rng,Not Same
+87,encountre,encountring,V;V.PTCP;PRS,-e+ing,Irregular,encountring,1,e-ing,encountreng,0,-ng,e-ing,Not Same
+88,mosey,moseying,V;V.PTCP;PRS,+ing,Regular,moseying,1,-ing,moseying,1,-ing,-ing,Same
+89,pinpoint,pinpointing,V;V.PTCP;PRS,+ing,Regular,pinpointtng,0,-ing,pinpointtng,0,-tng,-tng,Not Same
+90,branch,branching,V;V.PTCP;PRS,+ing,Regular,branching,1,-ing,branching,1,-ing,-ing,Same
+91,phagocyte,phagocyting,V;V.PTCP;PRS,-e+ing,Irregular,phagocyting,1,e-ing,phagocyting,1,e-ing,e-ing,Same
+92,forwean,forweaning,V;V.PTCP;PRS,+ing,Regular,forweaning,1,-ing,forweannng,0,-nng,-ing,Not Same
+93,boob,boobing,V;V.PTCP;PRS,+ing,Regular,boobbng,0,-ing,boobbng,0,-bng,-bng,Not Same
+94,pamphletize,pamphletizing,V;V.PTCP;PRS,-e+ing,Irregular,pamphletizing,1,e-ing,pamphletizing,1,e-ing,e-ing,Same
+95,happen,happening,V;V.PTCP;PRS,+ing,Regular,happennng,0,-ing,happennng,0,-nng,-nng,Not Same
+96,whiff,whiffing,V;V.PTCP;PRS,+ing,Regular,whiffing,1,-ing,whiffing,1,-ing,-ing,Same
+97,azotize,azotizing,V;V.PTCP;PRS,-e+ing,Irregular,azotizing,1,e-ing,azotizing,1,e-ing,e-ing,Same
+98,curvet,curvetting,V;V.PTCP;PRS,double spell,Irregular,curvetttng,0,-ting,curvetttng,0,-ttng,-ttng,Not Same
+99,redeploy,redeploying,V;V.PTCP;PRS,+ing,Regular,redeploying,1,-ing,redeploying,1,-ing,-ing,Same
+100,mischarge,mischarging,V;V.PTCP;PRS,-e+ing,Irregular,mischarging,1,e-ing,mischarging,1,e-ing,e-ing,Same
+101,dredge,dredging,V;V.PTCP;PRS,-e+ing,Irregular,dredging,1,e-ing,dredging,1,e-ing,e-ing,Same
+102,strim,strimming,V;V.PTCP;PRS,double spell,Irregular,strimiing,0,-ming,strimiing,0,-iing,-iing,Not Same
+103,abscind,abscinding,V;V.PTCP;PRS,+ing,Regular,abscinding,1,-ing,abscinding,1,-ing,-ing,Same
+104,smoulder,smouldering,V;V.PTCP;PRS,+ing,Regular,smoulderrng,0,-ing,smoulderrng,0,-rng,-rng,Not Same
+105,resculpt,resculpting,V;V.PTCP;PRS,+ing,Regular,resculpttng,0,-ing,resculpttng,0,-tng,-tng,Not Same
+106,top-dress,top-dressing,V;V.PTCP;PRS,+ing,Regular,top-dressing,1,-ing,top-dressing,1,-ing,-ing,Same
+107,lacker,lackering,V;V.PTCP;PRS,+ing,Regular,lackerrng,0,-ing,lackerrng,0,-rng,-rng,Not Same
+108,cony-catch,cony-catching,V;V.PTCP;PRS,+ing,Regular,cony-catching,1,-ing,cony-catching,1,-ing,-ing,Same
+109,apprentice,apprenticing,V;V.PTCP;PRS,-e+ing,Irregular,apprenticing,1,e-ing,apprenticing,1,e-ing,e-ing,Same
+110,vagabond,vagabonding,V;V.PTCP;PRS,+ing,Regular,vagabonding,1,-ing,vagabonding,1,-ing,-ing,Same
+111,inspire,inspiring,V;V.PTCP;PRS,-e+ing,Irregular,inspiring,1,e-ing,inspiring,1,e-ing,e-ing,Same
+112,recategorize,recategorizing,V;V.PTCP;PRS,-e+ing,Irregular,recategorizing,1,e-ing,recategorizing,1,e-ing,e-ing,Same
+113,reisolate,reisolating,V;V.PTCP;PRS,-e+ing,Irregular,reisolating,1,e-ing,reisolating,1,e-ing,e-ing,Same
+114,insinuate,insinuating,V;V.PTCP;PRS,-e+ing,Irregular,insinuating,1,e-ing,insinuating,1,e-ing,e-ing,Same
+115,decard,decarding,V;V.PTCP;PRS,+ing,Regular,decarddng,0,-ing,decarddng,0,-dng,-dng,Not Same
+116,contex,contexing,V;V.PTCP;PRS,+ing,Regular,contexing,1,-ing,contexing,1,-ing,-ing,Same
+117,mich,miching,V;V.PTCP;PRS,+ing,Regular,miching,1,-ing,miching,1,-ing,-ing,Same
+118,swamp,swamping,V;V.PTCP;PRS,+ing,Regular,swamppng,0,-ing,swamping,1,-ing,-png,Not Same
+119,embloom,emblooming,V;V.PTCP;PRS,+ing,Regular,emblooming,1,-ing,emblooming,1,-ing,-ing,Same
+120,toughen,toughening,V;V.PTCP;PRS,+ing,Regular,toughening,1,-ing,toughennng,0,-nng,-ing,Not Same
+121,dedupe,deduping,V;V.PTCP;PRS,-e+ing,Irregular,deduping,1,e-ing,deduping,1,e-ing,e-ing,Same
+122,unface,unfacing,V;V.PTCP;PRS,-e+ing,Irregular,unfacing,1,e-ing,unfacing,1,e-ing,e-ing,Same
+123,ritualize,ritualizing,V;V.PTCP;PRS,-e+ing,Irregular,ritualizing,1,e-ing,ritualizing,1,e-ing,e-ing,Same
+124,shirt,shirting,V;V.PTCP;PRS,+ing,Regular,shirttng,0,-ing,shirttng,0,-tng,-tng,Not Same
+125,whirr,whirring,V;V.PTCP;PRS,+ing,Regular,whirrrng,0,-ing,whirrrng,0,-rng,-rng,Not Same
+126,mischristen,mischristening,V;V.PTCP;PRS,+ing,Regular,mischristening,1,-ing,mischristening,1,-ing,-ing,Same
+127,campus,campusing,V;V.PTCP;PRS,+ing,Regular,campusing,1,-ing,campusing,1,-ing,-ing,Same
+128,fisk,fisking,V;V.PTCP;PRS,+ing,Regular,fiskkng,0,-ing,fisking,1,-ing,-kng,Not Same
+129,misplan,misplanning,V;V.PTCP;PRS,double spell,Irregular,misplanigng,0,-ning,misplannnng,0,-nnng,-igng,Not Same
+130,australianise,australianising,V;V.PTCP;PRS,-e+ing,Irregular,australianising,1,e-ing,australianising,1,e-ing,e-ing,Same
+131,adnominalize,adnominalizing,V;V.PTCP;PRS,-e+ing,Irregular,adnominalizing,1,e-ing,adnominalizing,1,e-ing,e-ing,Same
+132,remelt,remelting,V;V.PTCP;PRS,+ing,Regular,remelttng,0,-ing,remelttng,0,-tng,-tng,Not Same
+133,engraft,engrafting,V;V.PTCP;PRS,+ing,Regular,engrafting,1,-ing,engrafttng,0,-tng,-ing,Not Same
+134,yarr,yarring,V;V.PTCP;PRS,+ing,Regular,yarrrng,0,-ing,yarrrng,0,-rng,-rng,Not Same
+135,braze,brazing,V;V.PTCP;PRS,-e+ing,Irregular,brazing,1,e-ing,brazing,1,e-ing,e-ing,Same
+136,slighten,slightening,V;V.PTCP;PRS,+ing,Regular,slightengng,0,-ing,slightennng,0,-nng,-gng,Not Same
+137,overlearn,overlearning,V;V.PTCP;PRS,+ing,Regular,overlearning,1,-ing,overlearning,1,-ing,-ing,Same
+138,offlead,offleading,V;V.PTCP;PRS,+ing,Regular,offleading,1,-ing,offleading,1,-ing,-ing,Same
+139,outdare,outdaring,V;V.PTCP;PRS,-e+ing,Irregular,outdaring,1,e-ing,outdaring,1,e-ing,e-ing,Same
+140,structuralise,structuralising,V;V.PTCP;PRS,-e+ing,Irregular,structuralising,1,e-ing,structuralising,1,e-ing,e-ing,Same
+141,wrong-foot,wrong-footing,V;V.PTCP;PRS,+ing,Regular,wrong-footing,1,-ing,wrong-foottng,0,-tng,-ing,Not Same
+142,reactivate,reactivating,V;V.PTCP;PRS,-e+ing,Irregular,reactivating,1,e-ing,reactivating,1,e-ing,e-ing,Same
+143,task,tasking,V;V.PTCP;PRS,+ing,Regular,taskkng,0,-ing,taskkng,0,-kng,-kng,Not Same
+144,shmooze,shmoozing,V;V.PTCP;PRS,-e+ing,Irregular,shmoozing,1,e-ing,shmoozing,1,e-ing,e-ing,Same
+145,germinate,germinating,V;V.PTCP;PRS,-e+ing,Irregular,germinating,1,e-ing,germinating,1,e-ing,e-ing,Same
+146,provocate,provocating,V;V.PTCP;PRS,-e+ing,Irregular,provocating,1,e-ing,provocating,1,e-ing,e-ing,Same
+147,beast,beasting,V;V.PTCP;PRS,+ing,Regular,beasttng,0,-ing,beasttng,0,-tng,-tng,Not Same
+148,sley,sleying,V;V.PTCP;PRS,+ing,Regular,sleying,1,-ing,sleying,1,-ing,-ing,Same
+149,clabber,clabbering,V;V.PTCP;PRS,+ing,Regular,clabberrng,0,-ing,clabbering,1,-ing,-rng,Not Same
+150,gasconade,gasconading,V;V.PTCP;PRS,-e+ing,Irregular,gasconading,1,e-ing,gasconading,1,e-ing,e-ing,Same
+151,dulcify,dulcifying,V;V.PTCP;PRS,+ing,Regular,dulcifying,1,-ing,dulcifying,1,-ing,-ing,Same
+152,forhew,forhewing,V;V.PTCP;PRS,+ing,Regular,forhewing,1,-ing,forhewing,1,-ing,-ing,Same
+153,imprecate,imprecating,V;V.PTCP;PRS,-e+ing,Irregular,imprecating,1,e-ing,imprecating,1,e-ing,e-ing,Same
+154,gowl,gowling,V;V.PTCP;PRS,+ing,Regular,gowllng,0,-ing,gowllng,0,-lng,-lng,Not Same
+155,attorn,attorning,V;V.PTCP;PRS,+ing,Regular,attornnng,0,-ing,attornnng,0,-nng,-nng,Not Same
+156,coaptate,coaptating,V;V.PTCP;PRS,-e+ing,Irregular,coaptating,1,e-ing,coaptating,1,e-ing,e-ing,Same
+157,predesignate,predesignating,V;V.PTCP;PRS,-e+ing,Irregular,predesignating,1,e-ing,predesignating,1,e-ing,e-ing,Same
+158,temper,tempering,V;V.PTCP;PRS,+ing,Regular,temperrng,0,-ing,temperrng,0,-rng,-rng,Not Same
+159,outwell,outwelling,V;V.PTCP;PRS,+ing,Regular,outwelllng,0,-ing,outwelling,1,-ing,-lng,Not Same
+160,autofit,autofitting,V;V.PTCP;PRS,double spell,Irregular,autofitttng,0,-ting,autofitttng,0,-ttng,-ttng,Not Same
+161,antioxidise,antioxidising,V;V.PTCP;PRS,-e+ing,Irregular,antioxidising,1,e-ing,antioxidising,1,e-ing,e-ing,Same
+162,rind,rinding,V;V.PTCP;PRS,+ing,Regular,rinddng,0,-ing,rinddng,0,-dng,-dng,Not Same
+163,prepend,prepending,V;V.PTCP;PRS,+ing,Regular,prepending,1,-ing,prepending,1,-ing,-ing,Same
+164,chevy,chevying,V;V.PTCP;PRS,+ing,Regular,chevying,1,-ing,chevying,1,-ing,-ing,Same
+165,separate,separating,V;V.PTCP;PRS,-e+ing,Irregular,separating,1,e-ing,separating,1,e-ing,e-ing,Same
+166,handpick,handpicking,V;V.PTCP;PRS,+ing,Regular,handpicking,1,-ing,handpicking,1,-ing,-ing,Same
+167,outpoise,outpoising,V;V.PTCP;PRS,-e+ing,Irregular,outpoising,1,e-ing,outpoising,1,e-ing,e-ing,Same
+168,outflank,outflanking,V;V.PTCP;PRS,+ing,Regular,outflanking,1,-ing,outflanking,1,-ing,-ing,Same
+169,knot,knotting,V;V.PTCP;PRS,double spell,Irregular,knotting,1,-ting,knotttng,0,-ttng,-ting,Not Same
+170,ensober,ensobering,V;V.PTCP;PRS,+ing,Regular,ensobering,1,-ing,ensobering,1,-ing,-ing,Same
+171,paginate,paginating,V;V.PTCP;PRS,-e+ing,Irregular,paginating,1,e-ing,paginating,1,e-ing,e-ing,Same
+172,indigenize,indigenizing,V;V.PTCP;PRS,-e+ing,Irregular,indigenizing,1,e-ing,indigenizing,1,e-ing,e-ing,Same
+173,cosign,cosigning,V;V.PTCP;PRS,+ing,Regular,cosignnng,0,-ing,cosignnng,0,-nng,-nng,Not Same
+174,unpaganize,unpaganizing,V;V.PTCP;PRS,-e+ing,Irregular,unpaganizing,1,e-ing,unpaganizing,1,e-ing,e-ing,Same
+175,forjudge,forjudging,V;V.PTCP;PRS,-e+ing,Irregular,forjudging,1,e-ing,forjudging,1,e-ing,e-ing,Same
+176,bottle,bottling,V;V.PTCP;PRS,-e+ing,Irregular,bottling,1,e-ing,bottling,1,e-ing,e-ing,Same
+177,manhandle,manhandling,V;V.PTCP;PRS,-e+ing,Irregular,manhandling,1,e-ing,manhandling,1,e-ing,e-ing,Same
+178,cannonade,cannonading,V;V.PTCP;PRS,-e+ing,Irregular,cannonading,1,e-ing,cannonading,1,e-ing,e-ing,Same
+179,bow,bowing,V;V.PTCP;PRS,+ing,Regular,boweng,0,-ing,bownng,0,-nng,-eng,Not Same
+180,dree,dreeing,V;V.PTCP;PRS,+ing,Regular,dreenng,0,-ing,dreenng,0,-nng,-nng,Not Same
+181,bewaste,bewasting,V;V.PTCP;PRS,-e+ing,Irregular,bewasting,1,e-ing,bewasting,1,e-ing,e-ing,Same
+182,discard,discarding,V;V.PTCP;PRS,+ing,Regular,discarding,1,-ing,discarddng,0,-dng,-ing,Not Same
+183,recondition,reconditioning,V;V.PTCP;PRS,+ing,Regular,reconditioning,1,-ing,reconditioning,1,-ing,-ing,Same
+184,club,clubbing,V;V.PTCP;PRS,double spell,Irregular,clubbbng,0,-bing,clubbing,1,-bing,-bbng,Not Same
+185,recompact,recompacting,V;V.PTCP;PRS,+ing,Regular,recompacttng,0,-ing,recompacttng,0,-tng,-tng,Not Same
+186,decide,deciding,V;V.PTCP;PRS,-e+ing,Irregular,deciding,1,e-ing,deciding,1,e-ing,e-ing,Same
+187,impignorate,impignorating,V;V.PTCP;PRS,-e+ing,Irregular,impignorating,1,e-ing,impignorating,1,e-ing,e-ing,Same
+188,systemize,systemizing,V;V.PTCP;PRS,-e+ing,Irregular,systemizing,1,e-ing,systemizing,1,e-ing,e-ing,Same
+189,spiff,spiffing,V;V.PTCP;PRS,+ing,Regular,spiffing,1,-ing,spiffing,1,-ing,-ing,Same
+190,overperform,overperforming,V;V.PTCP;PRS,+ing,Regular,overperforming,1,-ing,overperforming,1,-ing,-ing,Same
+191,co-chair,co-chairing,V;V.PTCP;PRS,+ing,Regular,co-chairrng,0,-ing,co-chairrng,0,-rng,-rng,Not Same
+192,delabialize,delabializing,V;V.PTCP;PRS,-e+ing,Irregular,delabializing,1,e-ing,delabializing,1,e-ing,e-ing,Same
+193,marmalize,marmalizing,V;V.PTCP;PRS,-e+ing,Irregular,marmalizing,1,e-ing,marmalizing,1,e-ing,e-ing,Same
+194,garrote,garrotting,V;V.PTCP;PRS,special,Irregular,garrotiing,0,e-ting,garrotitng,0,e-itng,e-iing,Not Same
+195,folk-etymologize,folk-etymologizing,V;V.PTCP;PRS,-e+ing,Irregular,folk-etymologiging,0,e-ing,folk-etymologiiing,0,ze-iing,ze-ging,Not Same
+196,decline,declining,V;V.PTCP;PRS,-e+ing,Irregular,declining,1,e-ing,declineng,0,-ng,e-ing,Not Same
+197,refel,refelling,V;V.PTCP;PRS,double spell,Irregular,refelllng,0,-ling,refelling,1,-ling,-llng,Not Same
+198,tea-bag,tea-bagging,V;V.PTCP;PRS,double spell,Irregular,tea-bag,0,-ging,tea-bagiing,0,-iing,-,Not Same
+199,evitate,evitating,V;V.PTCP;PRS,-e+ing,Irregular,evitating,1,e-ing,evitating,1,e-ing,e-ing,Same
+200,compost,composting,V;V.PTCP;PRS,+ing,Regular,composttng,0,-ing,composttng,0,-tng,-tng,Not Same
+201,beseem,beseeming,V;V.PTCP;PRS,+ing,Regular,beseemmng,0,-ing,beseemmng,0,-mng,-mng,Not Same
