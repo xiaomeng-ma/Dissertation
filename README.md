@@ -15,14 +15,34 @@ character level tokenization
 
 Results: Experiment1/Output_csv/Prediction_all_inflection.csv
 
-### Experiment 1.1 - 1.5
 Task: V;PST eat - ate | V;3GS;PRT eat - eats | V;NFIN eat - eat | V;PTCP;PST eat - eaten | V;PTCP;PRT eat - eating
 
 Results: Experiment 1/Output_csv/Precition_{tag}.csv
 
-### Experiment 1.6
-Transfer learning: classification and morphological inflection
-classification task: eats -- 3GS,  ran --- PST
+#### Results:
+double spell error: double spell + ng/d ; + iing/+eed
+
+### Experiment 1.5 Fix double spell error
+
+#### Attempt 1. Enhance the training data with more double spell on PST; PTCP.PRS 
+
+Results: 
+
+a. no + iing/eed; more doubles spell + ng/d; 
+
+b. triple spell + ng/d
+
+#### Attempt 2. BPE tokenization
+
+BPE hyperparameter: 30 iteration
+
+Results: 
+
+a. free variation! (angel - inf: angeled - pred: angelled; revictual - inf: revictualled - pred: revictualed) 
+
+b. double spell +ed
+
+
 
 ## Experiment 2
 Data: Parents' sentences of Adam, Eve, and Fraser
