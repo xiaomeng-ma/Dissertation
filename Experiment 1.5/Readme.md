@@ -12,28 +12,20 @@
 | unhat          | unhatted     | unhateded   |
 | casevac        | casevacked   | casecaceded |
 | dun            | dunned       | duneded     |
-|----------------|--------------|-------------|
 | **Double no ed**                               |
-|----------------|--------------|-------------|
 | subjoin        | subjoined    | subjoinn    |
 | bebang         | bebanged     | bebangg     |
 | forwean        | forweaned    | forweann    |
 | betoss         | betossed     | betosss     |
 | dryclean       | drycleaned   | drycleann   |
-|----------------|--------------|-------------|
 | **y-i + ed**       |              |             |
-|----------------|--------------|-------------|
 | respray        | resprayed    | respraied   |
 | bivy           | bivyed       | bivied      |
-|----------------|--------------|-------------|
 | **Almorphy**      |              |             |
-|----------------|--------------|-------------|
 | forhele        | forhole      | forhelled   |
 | enwrite        | enwrote      | enwrited    |
 | forsee         | forsaw       | forseed     |
-|----------------|--------------|-------------|
 | **Special**      |              |             |
-|----------------|--------------|-------------|
 | enwind         | enwound      | enwodned    |
 | thou           | thoued       | thoun       |
 | upbreed        | upbred       | upbree      |
