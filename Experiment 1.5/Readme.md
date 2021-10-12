@@ -1,10 +1,11 @@
 ### BPE iteration 30 Errors
+
 | Free Variation |              |             |
 |----------------|--------------|-------------|
 | angel          | angeled      | angelled    |
 | revictual      | revictualled | revictualed |
 |----------------|--------------|-------------|
-| double +ed     |              |             |
+| Double +ed                                |
 |----------------|--------------|-------------|
 | kebab          | kebabbed     | kebabeded   |
 | abscess        | abscessed    | absceseded  |
@@ -14,7 +15,7 @@
 | casevac        | casevacked   | casecaceded |
 | dun            | dunned       | duneded     |
 |----------------|--------------|-------------|
-| double no ed   |              |             |
+| Double no ed                                |
 |----------------|--------------|-------------|
 | subjoin        | subjoined    | subjoinn    |
 | bebang         | bebanged     | bebangg     |
