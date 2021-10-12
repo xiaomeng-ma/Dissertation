@@ -1,5 +1,6 @@
 ### BPE details
 a. corpus: word * frequency : all verbs in CELEX
+
 b. iteration: 30
 
 ### BPE iteration 30 Errors
